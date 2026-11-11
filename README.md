@@ -114,7 +114,7 @@ Pruebas: `pip install pytest && pytest -q`. La primera transcripción descarga e
 | Servidor (Whisper en CPU) | una VM de 4 vCPU por región, ~US$ 40/mes, compartida por ~10 agencias | ~US$ 4 por agencia |
 | **Total por agencia** (2 técnicos) | | **~US$ 10/mes (~S/ 38)** frente a S/ 450 de precio |
 
-Los tokens reales de cada reporte se muestran en la app cuando hay API key, para reemplazar esta estimación por una medición. Para el demo hay un tope de gasto configurado en la cuenta de la API.
+Los tokens reales de cada reporte se muestran en la app cuando hay API key, para reemplazar esta estimación por una medición. La clave de la API del demo debe tener un tope de gasto mensual configurado en la consola de Anthropic.
 
 ## 8. Herramientas del curso
 
