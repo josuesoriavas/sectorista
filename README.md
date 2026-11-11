@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Demo** | URL pública: _pendiente de despliegue en Streamlit Community Cloud_ · corre en local (ver [Cómo correrlo](#cómo-correrlo)) |
+| **Demo** | **https://sectorista-kdhk4xycspyszgebaucmrj.streamlit.app/** (Streamlit Community Cloud) · también corre en local (ver [Cómo correrlo](#cómo-correrlo)) |
 | **Herramientas del curso** | Whisper (sesión 13) · Dashboard en Streamlit (sesión 05) |
 | **Pruebas** | 10/10 (`pytest`) |
 | **Presentación** | Diplomatura Q-Lab PUCP, 11 de noviembre de 2026 |
@@ -53,7 +53,9 @@ Para las agencias que siguen trabajando en Excel, Sectorista también valida el 
 
 ## 6. Demo
 
-**URL pública:** _pendiente_ · **Video de respaldo:** _pendiente_
+**URL pública:** https://sectorista-kdhk4xycspyszgebaucmrj.streamlit.app/ · **Video de respaldo:** _pendiente_
+
+Para probarlo: en "Reporte por voz" elige el audio de ejemplo **2 papa huancayo** y pulsa **Procesar reporte**. Sectorista marca la producción imposible y ofrece corregirla con un clic. La primera transcripción tarda más porque el servidor descarga el modelo de Whisper. Si no hay micrófono, también se puede escribir el reporte. En la pestaña del Excel, activa "Probar con el Excel de ejemplo".
 
 | Dictado con error de unidades | Corrección con un clic | Excel de la agencia validado |
 |---|---|---|
