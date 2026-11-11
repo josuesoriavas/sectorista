@@ -1,0 +1,18 @@
+# Entorno y secretos
+.venv/
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datos crudos: nunca se suben. Solo se publican los rangos agregados de datos/referencia/
+datos/crudo/
+*.pkl
+*.parquet
+
+# Modelos de Whisper descargados y temporales
+modelos/
+*.tmp
