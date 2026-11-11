@@ -16,3 +16,6 @@ datos/crudo/
 # Modelos de Whisper descargados y temporales
 modelos/
 *.tmp
+
+# Configuración local del editor
+.claude/
