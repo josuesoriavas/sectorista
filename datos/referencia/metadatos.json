@@ -1,0 +1,67 @@
+{
+  "descripcion": "Rangos agregados para validar reportes de estadística agraria. No contiene registros individuales.",
+  "anios_rendimiento": [
+    2004,
+    2024
+  ],
+  "anios_precio": [
+    2021,
+    2026
+  ],
+  "anios_estacionalidad": [
+    2010,
+    2024
+  ],
+  "minimo_observaciones_por_departamento": 8,
+  "cultivos": [
+    "Aceituna",
+    "Ajo",
+    "Algodón rama",
+    "Arroz cáscara",
+    "Arándano",
+    "Cacao en grano",
+    "Café en grano",
+    "Caña de azúcar",
+    "Cebolla",
+    "Limón",
+    "Mango",
+    "Maíz amarillo duro",
+    "Maíz amiláceo",
+    "Maíz choclo",
+    "Palta",
+    "Papa",
+    "Plátano",
+    "Quinua",
+    "Tomate",
+    "Uva",
+    "Yuca"
+  ],
+  "departamentos": [
+    "Amazonas",
+    "Ancash",
+    "Apurimac",
+    "Arequipa",
+    "Ayacucho",
+    "Cajamarca",
+    "Callao",
+    "Cusco",
+    "Huancavelica",
+    "Huanuco",
+    "Ica",
+    "Junin",
+    "La Libertad",
+    "Lambayeque",
+    "Lima",
+    "Lima Metropolitana",
+    "Loreto",
+    "Madre de Dios",
+    "Moquegua",
+    "Pasco",
+    "Piura",
+    "Puno",
+    "San Martin",
+    "Tacna",
+    "Tumbes",
+    "Ucayali"
+  ]
+}

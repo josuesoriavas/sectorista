@@ -1,0 +1,653 @@
+cultivo,departamento,variable,n,p01,p05,p25,p50,p75,p95,p99,tipo
+Aceituna,Nacional,rendimiento_kg_ha,20,30.9688,36.6972,460.7143,777.1518,2444.6468,19864.4729,98364.4608,permanentes
+Ajo,Nacional,rendimiento_kg_ha,2432,2000.0,3000.0,5000.0,6250.0,8520.9829,16339.9565,19379.5255,transitorios
+Ajo,Amazonas,rendimiento_kg_ha,174,3900.0,4000.0,4800.0,5583.3333,6000.0,6965.1478,7676.7143,transitorios
+Ajo,Ancash,rendimiento_kg_ha,105,4241.5385,4500.0,4857.1429,5333.3333,5750.0,6240.0,7048.5714,transitorios
+Ajo,Apurimac,rendimiento_kg_ha,151,3207.8947,4000.0,4698.2967,5257.1429,5865.4945,6814.5455,8000.0,transitorios
+Ajo,Arequipa,rendimiento_kg_ha,250,8330.2984,8967.0601,12465.4233,15386.7129,18085.4023,20059.5778,22518.4161,transitorios
+Ajo,Ayacucho,rendimiento_kg_ha,217,3000.0,3400.0,4222.2222,4803.2787,5714.2857,6655.0725,7000.0,transitorios
+Ajo,Cajamarca,rendimiento_kg_ha,244,3360.1647,3832.0678,4477.9914,5242.4591,6346.2485,7260.2931,7803.8235,transitorios
+Ajo,Huancavelica,rendimiento_kg_ha,130,3396.1672,4000.0,4979.0625,5235.9821,5600.0,6400.7143,9933.6333,transitorios
+Ajo,Huanuco,rendimiento_kg_ha,144,3504.7778,3878.75,4492.467,5171.1957,6212.5,6737.5,7190.0,transitorios
+Ajo,Ica,rendimiento_kg_ha,28,4571.3,5636.0,10075.0,12000.0,12312.5,26212.2831,26943.2006,transitorios
+Ajo,Junin,rendimiento_kg_ha,175,6390.4444,7006.6038,7879.6053,8536.6812,10132.6389,13903.0769,14379.75,transitorios
+Ajo,La Libertad,rendimiento_kg_ha,211,5522.7389,6229.6678,7568.4254,8573.4266,9613.0449,10000.0,12875.5269,transitorios
+Ajo,Lima,rendimiento_kg_ha,205,4519.2381,5916.4072,6500.0,7025.974,7966.6667,10967.0072,12901.4784,transitorios
+Ajo,Lima Metropolitana,rendimiento_kg_ha,75,5611.0,6082.3333,6237.5,6850.0,7062.5,9300.0,10668.0,transitorios
+Ajo,Moquegua,rendimiento_kg_ha,88,3717.5,4035.0,5563.75,6800.0,7502.5,9000.0,13059.0,transitorios
+Ajo,Piura,rendimiento_kg_ha,120,1682.5,1998.6842,2091.3043,2500.0,3000.0,4002.7778,5000.0,transitorios
+Ajo,Tacna,rendimiento_kg_ha,102,7005.0,7762.5,9125.0,10000.0,10482.1429,11997.5,12141.4286,transitorios
+Algodón rama,Nacional,rendimiento_kg_ha,20,287.0442,508.857,895.0979,2577.3337,14697.6129,157707.8318,201945.5664,semipermanentes
+Arroz cáscara,Nacional,rendimiento_kg_ha,3334,1280.7765,1504.1722,2828.962,6454.949,7882.0893,11286.626,13873.2956,transitorios
+Arroz cáscara,Amazonas,rendimiento_kg_ha,252,6331.0812,6782.6151,7295.3172,7565.297,8955.3814,9108.7312,9201.5695,transitorios
+Arroz cáscara,Ancash,rendimiento_kg_ha,102,7208.3784,7343.0173,7844.4976,11125.6724,12019.329,12525.5891,12857.1429,transitorios
+Arroz cáscara,Arequipa,rendimiento_kg_ha,107,10053.3427,10575.3384,11911.7709,13166.0599,13908.6641,14380.9468,14517.5849,transitorios
+Arroz cáscara,Ayacucho,rendimiento_kg_ha,77,1500.0,1688.0204,1875.0,2081.6327,2571.4286,3000.0,3013.3333,transitorios
+Arroz cáscara,Cajamarca,rendimiento_kg_ha,252,6483.7571,6958.0196,7543.0922,7762.5263,7971.7631,8273.3653,8488.2674,transitorios
+Arroz cáscara,Cusco,rendimiento_kg_ha,144,1309.6076,1500.0,1640.9554,1926.1218,2000.0,2434.6125,2500.0,transitorios
+Arroz cáscara,Huanuco,rendimiento_kg_ha,252,2160.5383,2944.274,4131.0059,5422.2574,6513.0517,7309.1032,7559.1237,transitorios
+Arroz cáscara,Junin,rendimiento_kg_ha,249,2321.3913,2500.0,2809.0909,3126.8293,3529.0055,5824.3137,6604.0,transitorios
+Arroz cáscara,La Libertad,rendimiento_kg_ha,181,6000.0,6500.0,7777.7778,9090.9091,10535.8544,11585.3199,12533.7329,transitorios
+Arroz cáscara,Lambayeque,rendimiento_kg_ha,167,3610.5909,5475.1163,7460.6722,8300.0,9100.0,10950.7865,24001.3824,transitorios
+Arroz cáscara,Lima,rendimiento_kg_ha,10,5000.0,5000.0,5000.0,5000.0,5000.0,7500.0,8700.0,transitorios
+Arroz cáscara,Loreto,rendimiento_kg_ha,252,2590.4713,2695.7179,2876.3243,2957.6122,3079.1147,3802.1154,4349.248,transitorios
+Arroz cáscara,Madre de Dios,rendimiento_kg_ha,185,1426.0,1623.0244,1800.0,2125.6086,6000.0,6278.7945,6557.8947,transitorios
+Arroz cáscara,Pasco,rendimiento_kg_ha,212,1200.0,1232.0108,1426.3086,1500.0,1554.1506,1897.9147,2090.9563,transitorios
+Arroz cáscara,Piura,rendimiento_kg_ha,180,4798.8068,6866.7303,7878.805,8777.0756,9240.2147,10004.8077,10631.6931,transitorios
+Arroz cáscara,Puno,rendimiento_kg_ha,57,1228.0,1281.8824,1571.4286,1717.7419,1825.0,1870.1918,1930.4334,transitorios
+Arroz cáscara,San Martin,rendimiento_kg_ha,252,6247.6562,6504.7464,6756.8601,7001.8931,7728.2747,7892.2306,7937.9943,transitorios
+Arroz cáscara,Tumbes,rendimiento_kg_ha,152,4311.5478,5910.0,7276.3787,8014.9568,8601.9821,9053.5464,9511.7699,transitorios
+Arroz cáscara,Ucayali,rendimiento_kg_ha,251,1939.6189,2004.9436,2314.7175,2725.8936,4534.2338,6394.0062,7368.0473,transitorios
+Arándano,Nacional,rendimiento_kg_ha,7,930.6029,1003.0518,1243.6728,1420.3138,1724.8451,1953.5149,1975.0932,semipermanentes
+Cacao en grano,Nacional,rendimiento_kg_ha,41,28.806,42.2567,66.8693,384.6154,6022.9805,27302.55,37028.3636,permanentes
+Café en grano,Nacional,rendimiento_kg_ha,51,6.4374,24.3815,93.1846,348.1812,2581.3577,71100.0,299742.8509,permanentes
+Caña de azúcar,Nacional,rendimiento_kg_ha,844,72013.148,83406.5086,105521.439,125282.2852,139537.0497,159090.4502,169968.6365,semipermanentes
+Caña de azúcar,Ancash,rendimiento_kg_ha,147,104149.8585,107464.5826,124732.6517,135355.5284,144312.58,158751.8586,168677.5397,semipermanentes
+Caña de azúcar,Arequipa,rendimiento_kg_ha,146,69688.5845,72025.5757,90810.548,101452.8925,115153.813,129784.3147,160941.7316,semipermanentes
+Caña de azúcar,La Libertad,rendimiento_kg_ha,156,105090.8514,110345.3554,123332.728,133211.0978,145626.1675,159292.3083,163391.0821,semipermanentes
+Caña de azúcar,Lambayeque,rendimiento_kg_ha,156,69607.3229,78372.2714,88883.3811,98429.2423,105820.6631,122060.9369,134461.5084,semipermanentes
+Caña de azúcar,Lima,rendimiento_kg_ha,156,110951.2795,114178.2304,123106.6071,130913.2888,140165.6741,162467.1534,168600.9091,semipermanentes
+Caña de azúcar,Piura,rendimiento_kg_ha,83,107792.1194,115459.7118,132533.8878,140940.1932,149752.2448,164278.6214,202948.4406,semipermanentes
+Cebolla,Nacional,rendimiento_kg_ha,3922,4333.3333,6000.0,12571.0067,20940.9722,32524.9845,52421.1903,66784.7259,transitorios
+Cebolla,Amazonas,rendimiento_kg_ha,78,4539.0,4947.3011,5543.0,6000.0,6748.6111,7000.0,7000.0,transitorios
+Cebolla,Ancash,rendimiento_kg_ha,234,12957.6415,15387.9464,18559.5238,20500.0,21276.7857,22527.6316,25000.0,transitorios
+Cebolla,Apurimac,rendimiento_kg_ha,218,4422.0399,5181.2667,5960.3616,6390.4943,7169.5302,9124.5674,11985.0824,transitorios
+Cebolla,Arequipa,rendimiento_kg_ha,252,31770.9975,35239.8068,40685.5848,43801.5156,47401.7051,52085.5011,53727.2941,transitorios
+Cebolla,Ayacucho,rendimiento_kg_ha,241,6966.6667,7531.25,8777.7778,9500.0,10000.0,11000.0,12240.4762,transitorios
+Cebolla,Cajamarca,rendimiento_kg_ha,226,2840.0,4259.4805,6017.3469,8213.904,11986.1111,19410.7547,25000.0,transitorios
+Cebolla,Cusco,rendimiento_kg_ha,252,9387.2132,10979.1667,12414.4353,13331.4394,14108.3333,15358.1812,20068.3853,transitorios
+Cebolla,Huancavelica,rendimiento_kg_ha,80,5000.0,5200.0,6000.0,7379.8077,8605.2632,12000.0,15000.0,transitorios
+Cebolla,Huanuco,rendimiento_kg_ha,195,11286.9474,11994.0,12411.5385,14125.0,24833.3333,28790.0,29222.2857,transitorios
+Cebolla,Ica,rendimiento_kg_ha,243,24593.8212,31612.087,50757.3205,59176.4706,64079.9866,73314.9631,75267.7948,transitorios
+Cebolla,Junin,rendimiento_kg_ha,250,18079.8016,18360.4384,18747.8306,19011.9864,19543.0456,20655.5,20945.8333,transitorios
+Cebolla,La Libertad,rendimiento_kg_ha,252,19241.3235,21787.1795,30466.1549,35588.494,40101.9022,44765.1557,47762.0976,transitorios
+Cebolla,Lambayeque,rendimiento_kg_ha,245,10544.8485,13096.6184,24842.1053,29428.5714,32647.0588,55599.3123,66645.1677,transitorios
+Cebolla,Lima,rendimiento_kg_ha,247,19218.2,20000.0,22806.25,26955.5556,30650.0865,34584.4166,37294.5274,transitorios
+Cebolla,Lima Metropolitana,rendimiento_kg_ha,132,14475.6,15000.0,21991.9355,23478.6822,24788.0631,27590.0,31645.5,transitorios
+Cebolla,Loreto,rendimiento_kg_ha,24,3000.0,3000.0,3250.0,3500.0,4187.5,4500.0,4628.3333,transitorios
+Cebolla,Moquegua,rendimiento_kg_ha,194,8151.0,12292.5,24000.0,27882.1429,31910.75,36469.45,38358.4873,transitorios
+Cebolla,Piura,rendimiento_kg_ha,188,10217.5,14621.9347,16000.0,20000.0,27033.5366,40171.0526,46166.1111,transitorios
+Cebolla,Puno,rendimiento_kg_ha,98,10970.0,11623.0556,16363.2692,17448.1618,18292.3913,19170.4098,19866.0,transitorios
+Cebolla,Tacna,rendimiento_kg_ha,248,25690.5285,27731.4815,31683.5888,35000.0,36728.588,39497.6608,41812.0,transitorios
+Cebolla,Tumbes,rendimiento_kg_ha,25,7160.0,7374.1176,18000.0,20000.0,24428.5714,30970.9091,37840.0,transitorios
+Limón,Nacional,rendimiento_kg_ha,83,169.2143,425.3023,1139.3638,4552.3636,18603.4359,724675.0,2208249.0909,permanentes
+Limón,Apurimac,rendimiento_kg_ha,9,180.3697,330.4202,652.1739,4552.3636,11300.0,94195.2,135447.04,permanentes
+Limón,La Libertad,rendimiento_kg_ha,8,472.7812,601.4062,1738.4348,6812.25,17368.3846,44320.5135,55906.9027,permanentes
+Mango,Nacional,rendimiento_kg_ha,70,185.796,542.321,1778.9578,5369.9451,28715.383,691014.9667,4696398.9,permanentes
+Mango,La Libertad,rendimiento_kg_ha,9,241.92,345.6,1700.0,2693.36,10726.1538,598179.6,879294.0533,permanentes
+Maíz amarillo duro,Nacional,rendimiento_kg_ha,5408,1200.0,1500.0,2221.7067,3300.0,6501.2644,9488.04,10727.6094,transitorios
+Maíz amarillo duro,Amazonas,rendimiento_kg_ha,252,1642.271,1782.3298,1920.9879,2222.5691,2449.4829,2627.3884,2782.7315,transitorios
+Maíz amarillo duro,Ancash,rendimiento_kg_ha,252,4999.8258,5028.6167,5096.7962,6189.03,10370.8475,11218.1602,11586.9876,transitorios
+Maíz amarillo duro,Apurimac,rendimiento_kg_ha,156,972.2059,1115.0,1791.7912,2451.1583,3289.7893,5550.0,7000.0,transitorios
+Maíz amarillo duro,Arequipa,rendimiento_kg_ha,195,5282.125,5991.8182,6730.5249,7439.25,8009.0,8928.4848,10000.0,transitorios
+Maíz amarillo duro,Ayacucho,rendimiento_kg_ha,188,1388.4848,1539.353,1827.6224,2177.4476,2501.3441,3000.0,3345.3409,transitorios
+Maíz amarillo duro,Cajamarca,rendimiento_kg_ha,251,2413.8715,2628.1157,3051.7421,3522.2222,4660.5047,7289.9103,8343.9035,transitorios
+Maíz amarillo duro,Cusco,rendimiento_kg_ha,171,1000.0,1322.9167,1500.0,1620.8889,1871.9813,2394.6415,3333.3333,transitorios
+Maíz amarillo duro,Huancavelica,rendimiento_kg_ha,193,1000.0,1166.6667,1481.6176,1532.7119,1683.3333,3108.5714,7362.0,transitorios
+Maíz amarillo duro,Huanuco,rendimiento_kg_ha,252,2484.1862,2575.6204,2962.7985,3501.7343,4494.9714,6054.0613,6742.215,transitorios
+Maíz amarillo duro,Ica,rendimiento_kg_ha,252,7248.4132,7611.273,8416.5384,9033.7883,9528.4936,10293.0254,10643.0507,transitorios
+Maíz amarillo duro,Junin,rendimiento_kg_ha,252,2207.4158,2345.7145,2676.0971,2962.018,3647.3353,4374.5171,4892.3944,transitorios
+Maíz amarillo duro,La Libertad,rendimiento_kg_ha,252,6540.6775,6791.7592,7672.3328,8441.6472,9039.5987,9576.1614,9932.1086,transitorios
+Maíz amarillo duro,Lambayeque,rendimiento_kg_ha,251,4157.7568,4817.6811,5542.391,6152.2556,6781.9954,8045.8304,8889.4043,transitorios
+Maíz amarillo duro,Lima,rendimiento_kg_ha,252,7788.6014,8027.1772,8769.0817,9300.7518,9647.0314,10336.4822,10757.759,transitorios
+Maíz amarillo duro,Lima Metropolitana,rendimiento_kg_ha,200,5213.3095,5756.4286,7020.625,7850.0,8283.4868,9003.3333,9479.7862,transitorios
+Maíz amarillo duro,Loreto,rendimiento_kg_ha,252,1875.6317,1918.1768,2046.3014,2839.7616,3024.0436,3192.3759,3331.8209,transitorios
+Maíz amarillo duro,Madre de Dios,rendimiento_kg_ha,189,1270.0,1318.0,1801.061,2171.3799,3043.956,4780.7757,5146.8079,transitorios
+Maíz amarillo duro,Moquegua,rendimiento_kg_ha,209,2725.6667,2985.974,3360.0,3600.0,4100.0,4668.4,4988.1333,transitorios
+Maíz amarillo duro,Pasco,rendimiento_kg_ha,236,1140.333,1204.7843,1499.8663,1547.2957,1819.6543,2309.8562,2498.7552,transitorios
+Maíz amarillo duro,Piura,rendimiento_kg_ha,248,1194.5991,2385.5247,3418.6469,4049.448,4605.0232,5321.7035,5960.8645,transitorios
+Maíz amarillo duro,Puno,rendimiento_kg_ha,74,1569.2783,1612.0983,1641.0027,1677.5414,1711.1348,1797.1884,1945.3645,transitorios
+Maíz amarillo duro,San Martin,rendimiento_kg_ha,252,1782.2372,1984.8684,2022.9278,2170.1246,2559.8159,3494.0256,4110.3521,transitorios
+Maíz amarillo duro,Tacna,rendimiento_kg_ha,94,2480.5556,2546.4286,3000.0,3500.0,3685.8974,4000.0,4517.5,transitorios
+Maíz amarillo duro,Tumbes,rendimiento_kg_ha,245,1493.4531,1974.1935,2454.5455,2827.0833,3988.8889,6234.0741,6806.6667,transitorios
+Maíz amarillo duro,Ucayali,rendimiento_kg_ha,240,1992.0121,2096.7053,2221.5828,2308.708,2512.1929,3589.2335,3778.9961,transitorios
+Maíz amiláceo,Nacional,rendimiento_kg_ha,3186,726.6907,811.2645,1166.6667,1533.3333,2378.8108,3928.373,5388.8128,transitorios
+Maíz amiláceo,Amazonas,rendimiento_kg_ha,234,715.4771,774.8229,817.0395,842.6107,857.1078,1000.0,1390.8715,transitorios
+Maíz amiláceo,Ancash,rendimiento_kg_ha,224,1125.7733,1163.402,1207.2422,1254.7727,1306.5196,1396.3679,1488.3861,transitorios
+Maíz amiláceo,Apurimac,rendimiento_kg_ha,109,870.3496,987.4464,1210.6654,1680.454,2158.023,2807.9676,3115.0,transitorios
+Maíz amiláceo,Arequipa,rendimiento_kg_ha,239,2169.0091,2586.1633,3029.5141,3489.3636,4074.5,5141.2077,5792.245,transitorios
+Maíz amiláceo,Ayacucho,rendimiento_kg_ha,156,712.6487,888.3415,971.4777,1088.5829,1357.8119,2016.9525,2247.9703,transitorios
+Maíz amiláceo,Cajamarca,rendimiento_kg_ha,217,620.3644,716.1395,788.7281,835.8586,928.1818,1198.6685,1284.0,transitorios
+Maíz amiláceo,Cusco,rendimiento_kg_ha,118,1200.0,1497.8571,1796.8303,2266.8124,2819.5058,3602.335,3985.6499,transitorios
+Maíz amiláceo,Huancavelica,rendimiento_kg_ha,180,1100.0,1192.2161,1418.8429,1515.1552,1623.8689,2227.1155,2665.1679,transitorios
+Maíz amiláceo,Huanuco,rendimiento_kg_ha,114,838.8793,923.8636,1111.8765,1195.3773,1295.1292,1533.391,1633.4604,transitorios
+Maíz amiláceo,Ica,rendimiento_kg_ha,178,1738.5,1896.25,2391.3678,2990.0,4289.6648,5567.3571,6025.31,transitorios
+Maíz amiláceo,Junin,rendimiento_kg_ha,119,1201.9286,1303.5273,1497.0952,1960.0,2156.5021,2453.741,3220.5103,transitorios
+Maíz amiláceo,La Libertad,rendimiento_kg_ha,192,1168.5498,1223.042,1439.4901,1549.3893,1683.8069,1968.4091,2583.7,transitorios
+Maíz amiláceo,Lambayeque,rendimiento_kg_ha,247,1122.9353,1385.3737,1742.0474,2017.5439,2389.6657,3136.5517,3600.0,transitorios
+Maíz amiláceo,Lima,rendimiento_kg_ha,178,1000.0,1241.3462,1593.75,2000.0,2994.186,4676.0289,6038.3333,transitorios
+Maíz amiláceo,Lima Metropolitana,rendimiento_kg_ha,11,1471.0,2195.0,3125.0,3180.0,3215.0,3305.0,3305.0,transitorios
+Maíz amiláceo,Moquegua,rendimiento_kg_ha,194,1025.0453,1104.8272,1229.5723,1414.5455,1583.5357,2379.0676,3951.0714,transitorios
+Maíz amiláceo,Pasco,rendimiento_kg_ha,71,533.5199,722.717,1103.8476,1267.2757,1500.0,2000.0,2306.4978,transitorios
+Maíz amiláceo,Piura,rendimiento_kg_ha,128,624.9041,706.7728,883.7368,975.3756,1017.3332,1201.3472,1456.664,transitorios
+Maíz amiláceo,Puno,rendimiento_kg_ha,63,1471.1916,1525.8521,1565.3771,1618.2316,1652.2272,1838.7164,2100.0,transitorios
+Maíz amiláceo,Tacna,rendimiento_kg_ha,214,1534.9035,2112.5,2634.7007,2933.785,3000.0,3429.2398,3652.2222,transitorios
+Maíz choclo,Nacional,rendimiento_kg_ha,4628,2491.0366,4118.4489,6685.414,8914.0638,13386.3636,19398.0686,25036.5,transitorios
+Maíz choclo,Amazonas,rendimiento_kg_ha,222,4139.0949,5172.7982,6301.3575,6945.3913,7512.0888,8240.273,8441.2678,transitorios
+Maíz choclo,Ancash,rendimiento_kg_ha,247,9033.0482,9983.7758,10447.991,10803.7433,13003.8639,16767.3171,26139.7647,transitorios
+Maíz choclo,Apurimac,rendimiento_kg_ha,207,2955.9434,3548.4,4645.0261,7069.9327,10423.445,15000.0,15000.0,transitorios
+Maíz choclo,Arequipa,rendimiento_kg_ha,232,5197.2529,11303.6671,15327.6974,16908.2619,18219.5871,18951.9557,19173.2745,transitorios
+Maíz choclo,Ayacucho,rendimiento_kg_ha,218,4000.0,4347.1711,5239.1055,5774.2555,6396.1538,7631.5959,8553.3333,transitorios
+Maíz choclo,Cajamarca,rendimiento_kg_ha,201,1973.913,2195.6693,2843.4268,3806.5475,5439.4699,7000.0,8000.0,transitorios
+Maíz choclo,Cusco,rendimiento_kg_ha,188,7017.193,11941.791,16534.7782,19362.5554,20000.0,25000.0,25000.0,transitorios
+Maíz choclo,Huancavelica,rendimiento_kg_ha,216,6859.8214,7104.1925,8544.0401,9813.3347,10615.2812,12194.332,13514.2763,transitorios
+Maíz choclo,Huanuco,rendimiento_kg_ha,251,5826.3889,6695.8829,7486.1111,7845.0704,8355.3391,8887.5,9209.68,transitorios
+Maíz choclo,Ica,rendimiento_kg_ha,169,3094.9272,3425.4736,5563.0366,9530.0,12513.5135,17590.5903,19059.9355,transitorios
+Maíz choclo,Junin,rendimiento_kg_ha,238,7000.0,7496.7857,9000.0,11202.6467,12368.3788,14555.0448,16290.7909,transitorios
+Maíz choclo,La Libertad,rendimiento_kg_ha,248,7420.2738,7830.1545,9197.7444,11151.7483,15124.1486,18016.4241,26373.2785,transitorios
+Maíz choclo,Lambayeque,rendimiento_kg_ha,251,4549.9205,6347.8748,7703.0443,8335.1955,9061.8429,10833.7123,21026.7123,transitorios
+Maíz choclo,Lima,rendimiento_kg_ha,252,8386.4545,10475.0772,12990.5208,14495.9253,16645.2324,19322.5199,22648.4466,transitorios
+Maíz choclo,Lima Metropolitana,rendimiento_kg_ha,135,9686.2703,10105.0,11228.5012,12318.1818,13425.974,14250.0,15146.8,transitorios
+Maíz choclo,Loreto,rendimiento_kg_ha,252,3964.5482,4078.4276,4239.8628,4332.5203,4412.4941,4901.8304,5164.3349,transitorios
+Maíz choclo,Madre de Dios,rendimiento_kg_ha,39,4314.0,4950.0,5485.0,5800.0,6000.0,6293.6,6564.3564,transitorios
+Maíz choclo,Moquegua,rendimiento_kg_ha,222,10277.75,12579.7727,16113.9241,18744.5,24000.0,26825.0,28979.0,transitorios
+Maíz choclo,Pasco,rendimiento_kg_ha,159,4580.0,5715.3137,10000.0,13142.2414,15000.0,16000.0,16882.6582,transitorios
+Maíz choclo,Piura,rendimiento_kg_ha,134,3330.0,5000.0,6000.0,7000.0,7188.0435,7913.3333,10422.5,transitorios
+Maíz choclo,Puno,rendimiento_kg_ha,24,5007.2826,5272.5,5775.7353,6721.1538,8031.25,10422.3077,11230.3538,transitorios
+Maíz choclo,Tacna,rendimiento_kg_ha,250,6922.7564,7363.3333,8317.7083,9495.5357,12090.9091,15194.375,16032.4138,transitorios
+Maíz choclo,Tumbes,rendimiento_kg_ha,249,3586.747,5048.7179,6172.9452,6706.6667,7200.0,8360.7702,8790.5238,transitorios
+Maíz choclo,Ucayali,rendimiento_kg_ha,24,1619.2,1654.1379,1698.0769,1900.5,2611.6477,3483.25,3692.5,transitorios
+Palta,Nacional,rendimiento_kg_ha,133,124.8594,385.4466,2390.2439,12572.8155,39396.5636,362082.2144,4139018.6667,permanentes
+Palta,Amazonas,rendimiento_kg_ha,8,1209.6789,3615.367,10510.0,13274.9107,17923.0625,31289.7875,33657.9575,permanentes
+Palta,Apurimac,rendimiento_kg_ha,9,97.0411,189.5533,375.0,1455.814,3881.7945,323769.9355,481687.3204,permanentes
+Palta,Arequipa,rendimiento_kg_ha,9,458.4798,559.0654,871.6418,45882.3529,109064.8101,945145.4824,1389029.0965,permanentes
+Palta,Ayacucho,rendimiento_kg_ha,11,582.9766,1386.2065,8438.7502,13642.4581,28948.1793,1357557.384,2402391.4768,permanentes
+Palta,Cajamarca,rendimiento_kg_ha,10,1868.0074,2587.979,4750.6993,9280.6272,31090.0,92686.875,96315.375,permanentes
+Palta,La Libertad,rendimiento_kg_ha,8,1596.4004,7139.9238,40195.1201,91260.0304,159676.1567,387252.3767,421524.4064,permanentes
+Palta,Lima,rendimiento_kg_ha,11,5722.2385,6504.3677,14729.736,32764.2357,151669.0982,5069613.6443,8871910.8945,permanentes
+Papa,Nacional,rendimiento_kg_ha,4621,5623.0833,7500.0,11101.2987,15006.6482,19387.0968,32784.5697,37530.7302,transitorios
+Papa,Amazonas,rendimiento_kg_ha,252,12460.0465,13144.5398,14581.5591,15058.1531,17597.8348,18898.8647,20043.913,transitorios
+Papa,Ancash,rendimiento_kg_ha,252,9040.8302,9733.7316,10241.991,10682.6952,12179.2715,13269.3966,13665.0556,transitorios
+Papa,Apurimac,rendimiento_kg_ha,251,9937.7598,10863.3181,14467.6357,18263.3414,20254.531,22564.8173,23907.2705,transitorios
+Papa,Arequipa,rendimiento_kg_ha,252,17038.8721,18918.1587,28620.2009,34014.8667,35999.4892,39087.0802,40959.0942,transitorios
+Papa,Ayacucho,rendimiento_kg_ha,244,8805.4791,9672.2222,13593.5278,15806.264,17642.6705,21347.9152,24087.0029,transitorios
+Papa,Cajamarca,rendimiento_kg_ha,252,9102.7505,9612.793,10833.5334,11686.686,12642.2372,15208.7485,16209.4219,transitorios
+Papa,Cusco,rendimiento_kg_ha,216,6750.0,7951.3489,9680.3445,12838.1867,15017.1274,17506.8442,18503.3525,transitorios
+Papa,Huancavelica,rendimiento_kg_ha,252,8666.9216,9177.2479,10074.0376,10690.5563,12350.235,16504.6997,18620.8129,transitorios
+Papa,Huanuco,rendimiento_kg_ha,252,10188.8496,10715.7502,12984.0007,16403.6947,18984.9738,22691.6512,23512.356,transitorios
+Papa,Ica,rendimiento_kg_ha,219,5279.7412,5586.1111,8624.8485,28173.75,33974.3067,37711.467,41594.7771,transitorios
+Papa,Junin,rendimiento_kg_ha,252,13524.7875,14370.3793,15833.5869,17074.8951,18272.7671,21154.3805,23076.6403,transitorios
+Papa,La Libertad,rendimiento_kg_ha,252,13486.267,13845.6129,15352.6787,17639.1193,20955.8534,23171.7115,24962.3283,transitorios
+Papa,Lambayeque,rendimiento_kg_ha,187,4500.0,5030.0,5900.0,6400.0,7147.2527,8116.0714,10080.0,transitorios
+Papa,Lima,rendimiento_kg_ha,252,5959.8668,6772.4982,8494.08,22123.0315,28219.5903,32484.0585,35183.9841,transitorios
+Papa,Lima Metropolitana,rendimiento_kg_ha,115,17186.9091,21591.4039,25825.303,28000.0,29459.3029,30627.3333,31465.0,transitorios
+Papa,Moquegua,rendimiento_kg_ha,237,9714.9647,10618.7994,12107.7778,15420.8333,21164.2857,27396.0,28000.0,transitorios
+Papa,Pasco,rendimiento_kg_ha,251,7944.1605,9274.5872,13152.8774,16371.6517,19832.3817,22945.9538,23671.7009,transitorios
+Papa,Piura,rendimiento_kg_ha,252,7110.6803,8042.1094,9661.6032,10503.8462,11510.7143,13348.9316,14855.9661,transitorios
+Papa,Puno,rendimiento_kg_ha,145,9025.8619,9373.3604,10515.4639,12146.8601,14378.2632,17430.6727,22021.0348,transitorios
+Papa,Tacna,rendimiento_kg_ha,236,12287.4547,14380.2083,16314.8728,18036.9782,20000.0,21627.8409,22322.7778,transitorios
+Plátano,Nacional,rendimiento_kg_ha,64,407.8671,703.8043,1229.4004,4890.8333,200413.75,1907785.8484,3355699.1,semipermanentes
+Plátano,La Libertad,rendimiento_kg_ha,8,4307.0108,14271.495,67392.0402,187169.7984,495348.8125,1846520.5,2150088.1,semipermanentes
+Quinua,Nacional,rendimiento_kg_ha,1836,530.1036,728.8625,991.7085,1300.0,2091.2327,3699.2181,4347.3729,transitorios
+Quinua,Amazonas,rendimiento_kg_ha,75,467.0,587.9286,792.6667,968.4211,1108.3333,1330.0,1444.5714,transitorios
+Quinua,Ancash,rendimiento_kg_ha,123,990.7742,1000.0,1025.3205,1082.6772,1200.0,2366.2248,2984.0683,transitorios
+Quinua,Apurimac,rendimiento_kg_ha,107,832.3567,882.5003,1194.1009,1617.5496,2191.0078,2661.6413,3944.5,transitorios
+Quinua,Arequipa,rendimiento_kg_ha,196,1166.0459,1235.4025,2473.9815,3598.1052,4001.1022,4538.0184,4715.5556,transitorios
+Quinua,Ayacucho,rendimiento_kg_ha,167,723.9035,878.3042,1000.0,1375.0,1862.7267,2187.8056,2639.7212,transitorios
+Quinua,Cajamarca,rendimiento_kg_ha,144,575.8846,744.7047,870.3052,993.5955,1250.8053,1848.8636,2776.4,transitorios
+Quinua,Cusco,rendimiento_kg_ha,102,545.4031,700.0,882.2017,1167.4193,1489.2506,2752.0829,2999.3004,transitorios
+Quinua,Huancavelica,rendimiento_kg_ha,128,500.0,521.7424,869.8214,962.4038,998.5,1615.6957,1964.2288,transitorios
+Quinua,Huanuco,rendimiento_kg_ha,121,476.087,697.3684,807.8818,920.765,1076.9231,1297.491,1540.0,transitorios
+Quinua,Ica,rendimiento_kg_ha,54,879.5,1383.0,2000.0,2276.6202,2541.6667,3213.325,3357.0,transitorios
+Quinua,Junin,rendimiento_kg_ha,94,1123.9454,1180.4143,1334.3059,1748.7572,2096.417,2597.9845,2720.3421,transitorios
+Quinua,La Libertad,rendimiento_kg_ha,128,545.4425,644.552,935.625,1336.6393,2005.7101,3141.2903,4279.567,transitorios
+Quinua,Lambayeque,rendimiento_kg_ha,31,1054.5455,1215.9091,1618.6869,2178.8321,3000.0,3421.2121,3480.0,transitorios
+Quinua,Lima,rendimiento_kg_ha,33,1000.0,1000.0,1500.0,2500.0,2977.0115,5200.0,7476.0,transitorios
+Quinua,Lima Metropolitana,rendimiento_kg_ha,42,2000.0,2002.5,2076.25,2109.0,2327.5,2990.0,3000.0,transitorios
+Quinua,Moquegua,rendimiento_kg_ha,66,596.5584,641.1667,780.0,918.8,1128.7069,2161.6667,2846.5,transitorios
+Quinua,Puno,rendimiento_kg_ha,66,726.3548,904.3135,998.1986,1091.3284,1172.4734,1262.4857,1329.3634,transitorios
+Quinua,Tacna,rendimiento_kg_ha,146,1000.0,1442.5,1908.326,2072.7513,2350.354,2787.7145,3005.0,transitorios
+Tomate,Nacional,rendimiento_kg_ha,4834,3285.7143,4628.25,10161.0471,19069.8052,28798.7179,59472.5943,101038.5861,transitorios
+Tomate,Amazonas,rendimiento_kg_ha,228,4340.5,4763.2796,6516.9231,7330.6319,8000.0,8327.9701,8582.2179,transitorios
+Tomate,Ancash,rendimiento_kg_ha,249,15240.0,16264.2857,18576.9231,20500.0,21304.3478,25989.1892,28880.0,transitorios
+Tomate,Apurimac,rendimiento_kg_ha,234,5033.0,6200.0,14748.008,19550.0,24318.125,29080.7692,30167.5,transitorios
+Tomate,Arequipa,rendimiento_kg_ha,252,28845.0256,33084.5192,39210.8229,45069.3505,50133.368,54408.5601,56212.8947,transitorios
+Tomate,Ayacucho,rendimiento_kg_ha,251,7755.5556,9480.7692,11666.6667,13000.0,14666.6667,15900.0,16125.0,transitorios
+Tomate,Cajamarca,rendimiento_kg_ha,226,4133.2143,4522.3696,6007.3625,6757.4814,7691.6667,14964.661,25750.0,transitorios
+Tomate,Cusco,rendimiento_kg_ha,214,9000.0,10203.125,14477.2727,15540.9357,18000.0,20000.0,20000.0,transitorios
+Tomate,Huancavelica,rendimiento_kg_ha,140,5108.6667,6475.0,7666.6667,9267.8571,10687.5,13446.9444,15203.3333,transitorios
+Tomate,Huanuco,rendimiento_kg_ha,251,13600.0,14126.9841,16775.0,23090.9091,26507.9365,29000.0,29909.0909,transitorios
+Tomate,Ica,rendimiento_kg_ha,252,46205.1999,58604.2812,67551.5606,79198.4606,94691.2918,115807.4541,121087.0265,transitorios
+Tomate,Junin,rendimiento_kg_ha,97,10960.0,11500.0,12000.0,12300.0,12600.0,13000.0,13104.0,transitorios
+Tomate,La Libertad,rendimiento_kg_ha,252,19117.3333,23046.9871,28817.5214,31480.0,35195.3405,49516.129,74400.3571,transitorios
+Tomate,Lambayeque,rendimiento_kg_ha,243,9439.0,13849.5385,21267.8571,24500.0,27712.069,33315.625,36554.8936,transitorios
+Tomate,Lima,rendimiento_kg_ha,252,20327.6442,23300.3452,26995.6307,29694.2652,33085.0646,39495.4545,43357.1229,transitorios
+Tomate,Lima Metropolitana,rendimiento_kg_ha,222,20078.6333,20803.9394,21762.5,23014.2857,24872.6923,28462.0833,31290.0,transitorios
+Tomate,Loreto,rendimiento_kg_ha,252,3134.0,3166.6667,3348.8095,3600.0,4702.4194,5275.2381,5546.8376,transitorios
+Tomate,Madre de Dios,rendimiento_kg_ha,101,4800.0,6400.0,8000.0,10000.0,10400.0,12250.0,14000.0,transitorios
+Tomate,Moquegua,rendimiento_kg_ha,119,8000.0,14286.6667,22000.0,26140.0,28560.0,32000.0,33910.0,transitorios
+Tomate,Pasco,rendimiento_kg_ha,33,10000.0,10000.0,10000.0,10000.0,12000.0,15000.0,15340.0,transitorios
+Tomate,Piura,rendimiento_kg_ha,177,5000.0,8920.0,15000.0,20086.9565,25956.5217,37833.3333,46544.0,transitorios
+Tomate,Puno,rendimiento_kg_ha,18,7361.6667,7475.0,8000.0,8500.0,8925.0,9893.75,9978.75,transitorios
+Tomate,San Martin,rendimiento_kg_ha,252,9608.1989,9836.2726,10227.6152,11290.0178,12901.7014,16598.8018,18163.3333,transitorios
+Tomate,Tacna,rendimiento_kg_ha,251,23773.8095,25625.0,31708.3333,35000.0,37959.9359,42755.9524,45500.0,transitorios
+Tomate,Tumbes,rendimiento_kg_ha,125,3532.8,6022.5,10000.0,15000.0,20000.0,24000.0,26602.6667,transitorios
+Tomate,Ucayali,rendimiento_kg_ha,143,4255.871,4337.5,4770.8333,5886.7647,6741.5504,7943.9,9695.7273,transitorios
+Uva,Nacional,rendimiento_kg_ha,36,405.315,714.172,3129.1984,8483.0986,25667.8626,906573.7952,2592378.3133,permanentes
+Yuca,Nacional,rendimiento_kg_ha,4950,4909.3425,7297.2877,10306.925,12472.8368,15667.5861,26043.4219,37995.0505,transitorios
+Yuca,Amazonas,rendimiento_kg_ha,252,12825.6092,13059.014,13808.653,15189.424,16095.4735,16555.5544,17040.286,transitorios
+Yuca,Ancash,rendimiento_kg_ha,240,13772.5325,14663.3333,17755.0676,19787.3932,20868.75,22291.4286,23365.528,transitorios
+Yuca,Apurimac,rendimiento_kg_ha,200,4333.0,5000.0,8489.7541,14133.3333,22000.0,30000.0,30000.0,transitorios
+Yuca,Arequipa,rendimiento_kg_ha,180,8579.25,10095.0,11964.5,14992.25,15755.625,22014.5,32626.15,transitorios
+Yuca,Ayacucho,rendimiento_kg_ha,252,7748.4277,8122.5974,9582.2917,10690.5983,10972.4099,11397.1154,12232.0833,transitorios
+Yuca,Cajamarca,rendimiento_kg_ha,252,5581.602,6198.4472,7915.6798,8241.7576,8440.0337,8651.6965,8752.8074,transitorios
+Yuca,Cusco,rendimiento_kg_ha,252,7994.6052,8273.1911,9277.6523,9910.0561,11553.6293,13988.3892,14364.2787,transitorios
+Yuca,Huanuco,rendimiento_kg_ha,252,9816.9175,10059.7924,10756.8637,11522.1872,12890.7197,16025.7039,16673.092,transitorios
+Yuca,Ica,rendimiento_kg_ha,195,9977.8,14996.25,18659.4595,21144.375,22973.5714,25866.106,30609.12,transitorios
+Yuca,Junin,rendimiento_kg_ha,252,10515.91,10614.7001,11077.1825,11423.8474,14307.7244,15652.2301,16106.0505,transitorios
+Yuca,La Libertad,rendimiento_kg_ha,252,11399.0388,11831.674,13030.6648,14137.3906,15922.9165,18126.9799,19709.4167,transitorios
+Yuca,Lambayeque,rendimiento_kg_ha,241,5917.094,8077.551,9183.2461,10447.3684,11650.0,15312.5,18810.8235,transitorios
+Yuca,Lima,rendimiento_kg_ha,247,12347.2727,21420.8333,30485.3622,34017.8571,37564.295,39733.1199,40508.1527,transitorios
+Yuca,Lima Metropolitana,rendimiento_kg_ha,55,7848.5714,9000.0,10000.0,15000.0,17247.5,18000.0,18000.0,transitorios
+Yuca,Loreto,rendimiento_kg_ha,252,10163.4912,10203.4244,10256.768,10293.6859,10352.7388,10593.6836,10785.5266,transitorios
+Yuca,Madre de Dios,rendimiento_kg_ha,252,10259.0942,10578.753,11375.6077,13375.727,14153.3264,16036.7019,16887.2506,transitorios
+Yuca,Moquegua,rendimiento_kg_ha,8,7055.3,7276.5,8172.5,8460.0,9325.0,10000.0,10000.0,transitorios
+Yuca,Pasco,rendimiento_kg_ha,252,11959.7882,11981.0314,12047.5017,14491.2564,15204.506,16574.334,17032.31,transitorios
+Yuca,Piura,rendimiento_kg_ha,244,3923.5431,4089.8429,5435.4285,6711.0136,8616.3664,11269.7959,13207.2917,transitorios
+Yuca,Puno,rendimiento_kg_ha,84,9332.0,9694.7115,10131.5527,10818.9052,12037.6776,20214.5285,21124.1555,transitorios
+Yuca,San Martin,rendimiento_kg_ha,252,11986.3576,12000.0,13005.9856,15359.6408,15984.3977,17367.5836,17687.0897,transitorios
+Yuca,Tumbes,rendimiento_kg_ha,232,5288.1176,6858.3333,9000.0,11793.75,17664.7727,21351.2111,23954.2045,transitorios
+Yuca,Ucayali,rendimiento_kg_ha,252,12213.2392,12277.9139,12403.2505,13476.1647,14343.5965,14970.3536,15104.4543,transitorios
+Aceituna,Nacional,rendimiento_anual_kg_ha,17,461.7776,520.2828,2166.6667,3557.1755,5882.4742,13151.9503,17630.3901,permanentes
+Ajo,Nacional,rendimiento_anual_kg_ha,167,2187.1561,2995.6184,5371.2214,6280.4819,9075.5674,13137.0013,14510.2934,transitorios
+Algodón rama,Nacional,rendimiento_anual_kg_ha,19,821.9178,864.1859,1887.6847,3094.9052,3298.7328,5096.0943,7870.618,semipermanentes
+Arroz cáscara,Nacional,rendimiento_anual_kg_ha,175,1458.102,1774.522,2937.7319,7365.4572,9009.2457,13106.2905,13831.2016,transitorios
+Arándano,Nacional,rendimiento_anual_kg_ha,13,8179.102,8553.0711,10060.8,13088.687,14019.7237,16289.9908,18521.148,semipermanentes
+Cacao en grano,Nacional,rendimiento_anual_kg_ha,33,566.4886,660.1135,740.5554,858.9744,1021.5557,1503.2,1649.7252,permanentes
+Café en grano,Nacional,rendimiento_anual_kg_ha,34,349.0919,485.1059,689.2403,780.3203,1048.8342,1273.1307,2351.1326,permanentes
+Caña de azúcar,Nacional,rendimiento_anual_kg_ha,59,74425.9721,88134.9824,106546.0192,128358.3978,137388.9532,153355.3778,178194.8703,semipermanentes
+Cebolla,Nacional,rendimiento_anual_kg_ha,191,5634.2857,7000.0,11643.6979,20510.2041,32960.7542,53850.8276,66165.5614,transitorios
+Limón,Nacional,rendimiento_anual_kg_ha,51,3870.3846,4284.1057,6025.2199,9298.8139,11917.2694,20439.4872,43354.3577,permanentes
+Mango,Nacional,rendimiento_anual_kg_ha,54,2264.9249,3928.3466,6798.9278,10730.8574,15866.6776,31377.6967,113105.7162,permanentes
+Maíz amarillo duro,Nacional,rendimiento_anual_kg_ha,243,1580.1587,1680.3188,2534.5684,3516.5937,7342.1026,10128.0061,10848.1052,transitorios
+Maíz amiláceo,Nacional,rendimiento_anual_kg_ha,198,776.9915,944.833,1305.5356,1841.0279,2631.1293,3660.3517,4457.2394,transitorios
+Maíz choclo,Nacional,rendimiento_anual_kg_ha,215,2652.8043,4010.3181,6717.2528,11073.4745,14572.2068,17671.9721,18834.1122,transitorios
+Palta,Nacional,rendimiento_anual_kg_ha,52,6377.2364,6550.848,8820.6724,11169.9658,13989.0917,24674.551,34431.8366,permanentes
+Papa,Nacional,rendimiento_anual_kg_ha,199,6123.3889,9651.1958,12992.8059,18005.3913,21671.2852,35349.3214,37361.8633,transitorios
+Plátano,Nacional,rendimiento_anual_kg_ha,53,3475.1822,4468.6175,8400.0,11623.9088,14643.7613,23788.2844,50480.2857,semipermanentes
+Quinua,Nacional,rendimiento_anual_kg_ha,160,800.0782,973.6537,1200.0,1725.5443,2297.619,3634.0376,5270.0379,transitorios
+Tomate,Nacional,rendimiento_anual_kg_ha,228,3333.4654,5127.0561,11742.3214,18076.9987,26107.3276,50823.4167,104847.4685,transitorios
+Uva,Nacional,rendimiento_anual_kg_ha,30,6467.5,7000.0,9526.9998,12452.5923,23516.1826,32028.2447,38880.3288,permanentes
+Yuca,Nacional,rendimiento_anual_kg_ha,221,7774.9921,8202.5463,11065.4206,14736.1905,17057.515,25474.2525,36612.5762,transitorios
+Aceituna,Nacional,precio_s_kg,198,1.4686,1.8273,2.3725,3.555,6.0,8.0278,9.7747,permanentes
+Aceituna,Arequipa,precio_s_kg,31,1.3512,1.5349,2.2941,2.56,5.5,8.505,8.846,permanentes
+Aceituna,Ica,precio_s_kg,30,1.9148,2.0,2.365,2.7337,3.5,4.0,4.0,permanentes
+Aceituna,La Libertad,precio_s_kg,30,3.529,3.78,4.8,7.0,7.0,8.0,8.71,permanentes
+Aceituna,Lima,precio_s_kg,30,1.8816,1.9505,2.2375,2.97,7.5,9.0557,9.7678,permanentes
+Aceituna,Lima Metropolitana,precio_s_kg,17,3.6412,3.686,4.08,5.0,7.9673,8.0696,8.2922,permanentes
+Aceituna,Moquegua,precio_s_kg,23,2.0,2.0,2.0,4.0,4.5,9.5,10.0,permanentes
+Aceituna,Tacna,precio_s_kg,34,1.433,1.669,2.3,2.5,3.95,7.2404,7.5061,permanentes
+Ajo,Nacional,precio_s_kg,689,1.2,2.0,4.0,5.25,7.55,13.088,16.8788,transitorios
+Ajo,Amazonas,precio_s_kg,33,2.32,3.06,4.5,6.5,10.0,16.1902,17.5121,transitorios
+Ajo,Ancash,precio_s_kg,29,4.1196,4.182,4.5,6.5,7.5,8.0,8.0,transitorios
+Ajo,Apurimac,precio_s_kg,30,2.29,3.1035,3.8833,4.9563,7.75,9.3598,10.1661,transitorios
+Ajo,Arequipa,precio_s_kg,62,2.2105,2.313,3.4089,4.5,6.0,7.105,13.3691,transitorios
+Ajo,Ayacucho,precio_s_kg,64,2.615,3.287,4.5825,6.37,7.8827,11.718,18.5735,transitorios
+Ajo,Cajamarca,precio_s_kg,67,5.1648,6.2298,9.13,10.5343,11.9636,15.8598,17.8856,transitorios
+Ajo,Huancavelica,precio_s_kg,45,1.9456,2.866,4.0,5.12,6.7082,7.9531,8.6876,transitorios
+Ajo,Huanuco,precio_s_kg,51,2.51,3.35,3.9135,4.94,6.46,7.62,9.3387,transitorios
+Ajo,Junin,precio_s_kg,61,2.618,3.01,4.04,4.512,5.6748,7.93,14.276,transitorios
+Ajo,La Libertad,precio_s_kg,43,3.1932,3.512,4.355,6.0,9.8026,15.3994,17.2427,transitorios
+Ajo,Lima,precio_s_kg,57,1.56,3.016,3.84,4.6261,5.232,10.488,15.6267,transitorios
+Ajo,Lima Metropolitana,precio_s_kg,24,1.1,1.1075,1.3375,1.6,1.7625,2.4895,3.27,transitorios
+Ajo,Moquegua,precio_s_kg,38,2.8154,3.352,4.0,4.585,5.4676,6.4165,9.5474,transitorios
+Ajo,Pasco,precio_s_kg,9,1.2,1.2,1.5,3.1,3.2,4.0,4.0,transitorios
+Ajo,Piura,precio_s_kg,32,2.1922,4.528,8.0,10.0,10.1725,14.0,14.0,transitorios
+Ajo,Puno,precio_s_kg,9,1.2304,1.352,1.8355,2.0,2.0,2.5366,2.7002,transitorios
+Ajo,Tacna,precio_s_kg,28,2.27,3.07,4.475,5.0,7.0,8.0,8.73,transitorios
+Algodón rama,Nacional,precio_s_kg,187,1.4794,1.6666,3.222,3.8,4.88,6.613,7.084,semipermanentes
+Algodón rama,Ancash,precio_s_kg,16,3.562,3.97,6.205,6.255,6.3,6.3125,6.3425,semipermanentes
+Algodón rama,Arequipa,precio_s_kg,10,2.6,2.6,3.2,3.78,4.375,4.9195,4.9519,semipermanentes
+Algodón rama,Ica,precio_s_kg,59,1.3528,1.9419,3.265,3.6677,4.945,6.66,6.85,semipermanentes
+Algodón rama,Lambayeque,precio_s_kg,16,2.132,2.18,3.7915,4.25,4.3375,7.615,7.651,semipermanentes
+Algodón rama,Lima,precio_s_kg,28,2.6485,2.8202,3.4,3.8097,4.4925,4.955,5.2455,semipermanentes
+Algodón rama,Piura,precio_s_kg,23,3.4422,3.45,3.52,4.5,5.815,6.243,6.601,semipermanentes
+Algodón rama,San Martin,precio_s_kg,12,2.6596,2.818,3.0,3.32,3.41,3.5,3.5,semipermanentes
+Algodón rama,Ucayali,precio_s_kg,16,1.543,1.555,1.6481,1.7644,2.0,2.0275,2.0455,semipermanentes
+Arroz cáscara,Nacional,precio_s_kg,874,0.64,0.71,1.13,1.36,1.6,2.3535,2.5231,transitorios
+Arroz cáscara,Amazonas,precio_s_kg,67,0.9948,0.999,1.15,1.24,1.325,1.5094,1.53,transitorios
+Arroz cáscara,Ancash,precio_s_kg,28,1.2827,1.2935,1.33,1.6255,1.7426,1.849,1.8609,transitorios
+Arroz cáscara,Arequipa,precio_s_kg,31,1.223,1.265,1.345,1.5877,1.685,1.735,1.7533,transitorios
+Arroz cáscara,Cajamarca,precio_s_kg,67,1.0593,1.09,1.1806,1.39,1.5241,1.6552,1.7415,transitorios
+Arroz cáscara,Cusco,precio_s_kg,35,0.6136,0.682,0.885,1.01,2.0124,2.5,2.5619,transitorios
+Arroz cáscara,Huanuco,precio_s_kg,67,0.6785,0.8419,1.075,1.2594,1.3644,1.4,1.839,transitorios
+Arroz cáscara,Junin,precio_s_kg,67,0.8398,0.9,1.935,2.38,2.4924,2.6,2.73,transitorios
+Arroz cáscara,La Libertad,precio_s_kg,53,1.1922,1.2528,1.35,1.48,1.58,1.7893,2.1674,transitorios
+Arroz cáscara,Lambayeque,precio_s_kg,45,0.9664,1.1588,1.28,1.41,1.4698,1.724,1.7693,transitorios
+Arroz cáscara,Loreto,precio_s_kg,67,0.6166,0.63,0.6613,0.7,0.7284,0.7894,0.8106,transitorios
+Arroz cáscara,Madre de Dios,precio_s_kg,64,1.2663,1.2815,1.3607,1.4,1.5,1.7155,1.7874,transitorios
+Arroz cáscara,Pasco,precio_s_kg,58,1.5799,1.6785,1.88,2.0,2.078,2.3161,2.493,transitorios
+Arroz cáscara,Piura,precio_s_kg,48,1.0251,1.13,1.3674,1.45,1.6175,1.833,1.9812,transitorios
+Arroz cáscara,San Martin,precio_s_kg,67,0.9808,1.0136,1.0501,1.22,1.35,1.527,1.5615,transitorios
+Arroz cáscara,Tumbes,precio_s_kg,33,1.1021,1.1196,1.38,1.49,1.7,1.9687,2.0548,transitorios
+Arroz cáscara,Ucayali,precio_s_kg,66,0.7783,0.8405,0.915,1.05,1.1725,1.2515,1.2792,transitorios
+Arándano,Nacional,precio_s_kg,384,3.8,4.5015,6.5,11.42,12.9481,15.0,16.6893,semipermanentes
+Arándano,Ancash,precio_s_kg,67,11.4164,12.0631,12.8858,13.05,13.46,14.0,15.0,semipermanentes
+Arándano,Ica,precio_s_kg,60,5.0826,6.2715,8.865,11.425,12.0211,12.6212,12.9823,semipermanentes
+Arándano,La Libertad,precio_s_kg,67,5.8674,6.157,10.0,12.0,12.0,15.6058,16.9657,semipermanentes
+Arándano,Lambayeque,precio_s_kg,46,3.7143,3.8,5.3125,6.5,6.5,6.5,7.875,semipermanentes
+Arándano,Lima,precio_s_kg,67,7.2694,7.916,10.275,11.94,13.2493,15.0019,17.0,semipermanentes
+Arándano,Moquegua,precio_s_kg,22,10.0,10.0,10.75,13.5,15.375,16.0,16.0,semipermanentes
+Arándano,Piura,precio_s_kg,55,3.9494,4.244,4.51,4.71,5.575,9.3,10.0,semipermanentes
+Cacao en grano,Nacional,precio_s_kg,944,2.7443,4.5,7.07,8.32,16.7467,27.8405,32.5917,permanentes
+Cacao en grano,Amazonas,precio_s_kg,67,6.0126,6.16,6.72,8.0,19.45,27.3068,30.911,permanentes
+Cacao en grano,Ayacucho,precio_s_kg,47,6.235,6.459,7.25,8.43,16.839,28.0257,29.8081,permanentes
+Cacao en grano,Cajamarca,precio_s_kg,67,6.1712,7.047,7.725,8.58,21.7397,28.992,33.2942,permanentes
+Cacao en grano,Cusco,precio_s_kg,65,6.928,7.084,8.02,8.97,18.05,24.9582,27.3331,permanentes
+Cacao en grano,Huanuco,precio_s_kg,67,7.3892,7.582,8.24,10.43,20.9052,29.6476,34.0475,permanentes
+Cacao en grano,Junin,precio_s_kg,67,6.7352,7.091,7.8,9.48,20.7603,32.0204,34.6979,permanentes
+Cacao en grano,La Libertad,precio_s_kg,31,3.73,3.8,4.145,5.0,7.0,7.0,7.0583,permanentes
+Cacao en grano,Lambayeque,precio_s_kg,38,4.5,5.656,6.535,8.0,15.0,17.1055,21.6479,permanentes
+Cacao en grano,Loreto,precio_s_kg,67,2.7266,2.73,2.76,2.86,12.8454,27.7982,28.6297,permanentes
+Cacao en grano,Madre de Dios,precio_s_kg,67,5.7708,6.075,6.395,6.79,17.9062,27.3515,30.9091,permanentes
+Cacao en grano,Pasco,precio_s_kg,67,6.914,7.133,7.82,9.56,23.2757,28.3301,30.6712,permanentes
+Cacao en grano,Piura,precio_s_kg,65,4.8992,5.364,5.93,6.81,14.27,21.7209,25.339,permanentes
+Cacao en grano,Puno,precio_s_kg,28,7.3013,7.461,8.0,8.39,16.8547,23.8272,24.1368,permanentes
+Cacao en grano,San Martin,precio_s_kg,67,7.3296,7.419,8.07,9.32,20.7266,29.1698,31.4204,permanentes
+Cacao en grano,Tumbes,precio_s_kg,67,5.0,6.855,7.075,7.86,14.0428,22.8501,24.3195,permanentes
+Cacao en grano,Ucayali,precio_s_kg,67,6.243,6.343,7.19,8.44,15.7003,21.684,27.7251,permanentes
+Café en grano,Nacional,precio_s_kg,645,2.78,4.5,8.0,10.66,14.0119,19.3437,22.0252,permanentes
+Café en grano,Amazonas,precio_s_kg,51,7.265,8.395,10.4,13.36,17.208,25.3749,28.0,permanentes
+Café en grano,Ayacucho,precio_s_kg,41,6.146,7.35,8.13,10.66,14.0469,16.9706,18.7439,permanentes
+Café en grano,Cajamarca,precio_s_kg,53,7.104,7.56,9.74,12.75,16.63,19.7779,21.217,permanentes
+Café en grano,Cusco,precio_s_kg,45,7.236,8.348,10.64,11.5483,14.01,19.0028,19.6266,permanentes
+Café en grano,Huancavelica,precio_s_kg,21,4.258,4.53,8.33,14.86,15.65,19.8788,21.3358,permanentes
+Café en grano,Huanuco,precio_s_kg,67,6.219,7.066,8.94,11.42,13.865,19.5034,21.4881,permanentes
+Café en grano,Junin,precio_s_kg,46,6.4805,7.3225,9.1825,11.93,13.8751,19.8087,21.842,permanentes
+Café en grano,La Libertad,precio_s_kg,35,3.916,4.187,4.4,6.4068,7.715,8.9605,9.0,permanentes
+Café en grano,Lambayeque,precio_s_kg,31,7.65,8.0,10.745,14.9,17.995,20.0,28.82,permanentes
+Café en grano,Loreto,precio_s_kg,31,2.623,2.635,2.785,2.84,5.105,6.7945,7.1257,permanentes
+Café en grano,Madre de Dios,precio_s_kg,17,4.0432,4.216,4.73,5.61,8.6442,9.7642,10.0658,permanentes
+Café en grano,Pasco,precio_s_kg,37,5.342,6.79,9.73,11.0,14.43,18.0255,20.7658,permanentes
+Café en grano,Piura,precio_s_kg,43,5.9842,6.0,6.395,9.6,13.7071,19.8474,20.3706,permanentes
+Café en grano,Puno,precio_s_kg,29,7.234,7.466,12.18,13.0949,14.357,14.946,15.9573,permanentes
+Café en grano,San Martin,precio_s_kg,61,6.03,6.19,8.12,10.17,13.8862,17.2371,19.2922,permanentes
+Café en grano,Ucayali,precio_s_kg,37,7.0292,7.202,7.91,8.74,10.0,10.866,11.9492,permanentes
+Caña de azúcar,Nacional,precio_s_kg,251,0.08,0.09,0.11,0.13,0.17,0.21,0.275,semipermanentes
+Caña de azúcar,Ancash,precio_s_kg,28,0.13,0.13,0.1525,0.165,0.17,0.18,0.18,semipermanentes
+Caña de azúcar,Arequipa,precio_s_kg,53,0.1,0.1,0.13,0.16,0.17,0.24,0.3,semipermanentes
+Caña de azúcar,La Libertad,precio_s_kg,31,0.066,0.08,0.09,0.1,0.125,0.145,0.157,semipermanentes
+Caña de azúcar,Lambayeque,precio_s_kg,31,0.073,0.08,0.1,0.11,0.11,0.11,0.117,semipermanentes
+Caña de azúcar,Lima,precio_s_kg,55,0.1,0.1093,0.11,0.11,0.13,0.203,0.2146,semipermanentes
+Caña de azúcar,Piura,precio_s_kg,53,0.1058,0.1267,0.1379,0.1564,0.2,0.23,0.25,semipermanentes
+Cebolla,Nacional,precio_s_kg,1023,0.4008,0.5312,0.85,1.0873,1.4765,2.5,3.2468,transitorios
+Cebolla,Amazonas,precio_s_kg,13,2.0,2.0,2.0,2.0,2.5,2.94,2.988,transitorios
+Cebolla,Ancash,precio_s_kg,63,0.4986,0.574,0.9368,1.2,1.345,1.695,2.6114,transitorios
+Cebolla,Apurimac,precio_s_kg,52,0.702,0.852,1.075,1.32,1.785,2.3546,2.7437,transitorios
+Cebolla,Arequipa,precio_s_kg,67,0.3766,0.433,0.62,0.76,1.0747,1.73,3.305,transitorios
+Cebolla,Ayacucho,precio_s_kg,63,0.9178,1.111,1.25,1.4,1.5578,1.858,1.9344,transitorios
+Cebolla,Cajamarca,precio_s_kg,65,0.9264,0.974,1.47,2.0,2.43,2.6324,2.808,transitorios
+Cebolla,Cusco,precio_s_kg,67,0.8859,0.9648,1.15,1.39,1.8,2.685,2.7238,transitorios
+Cebolla,Huancavelica,precio_s_kg,31,0.43,0.51,0.7222,0.9,1.16,1.75,2.7,transitorios
+Cebolla,Huanuco,precio_s_kg,51,0.5,0.55,0.7787,1.1,1.4326,2.545,3.69,transitorios
+Cebolla,Ica,precio_s_kg,67,0.435,0.4748,0.6228,0.8,0.9096,1.192,1.7179,transitorios
+Cebolla,Junin,precio_s_kg,61,0.666,0.68,0.86,1.0,1.21,1.85,2.804,transitorios
+Cebolla,La Libertad,precio_s_kg,67,0.3992,0.47,0.715,0.9641,1.177,2.066,3.7556,transitorios
+Cebolla,Lambayeque,precio_s_kg,67,0.7098,0.763,0.9856,1.13,1.3757,1.685,3.812,transitorios
+Cebolla,Lima,precio_s_kg,67,0.663,0.708,1.025,1.3008,1.555,1.8726,2.8388,transitorios
+Cebolla,Lima Metropolitana,precio_s_kg,30,0.3345,0.4015,0.505,0.6437,0.8675,1.264,1.513,transitorios
+Cebolla,Moquegua,precio_s_kg,50,0.3592,0.445,0.8,1.0,1.0,1.6532,1.9,transitorios
+Cebolla,Piura,precio_s_kg,52,0.751,0.806,1.0,1.205,1.6675,2.0135,2.4264,transitorios
+Cebolla,Puno,precio_s_kg,24,0.8069,0.83,0.9925,1.005,1.1094,1.2901,1.3,transitorios
+Cebolla,Tacna,precio_s_kg,66,0.3825,0.4625,0.72,0.927,1.2675,3.06,3.5,transitorios
+Limón,Nacional,precio_s_kg,1306,0.6005,0.8498,1.12,1.5206,2.24,4.1185,5.7275,permanentes
+Limón,Amazonas,precio_s_kg,67,1.0715,1.123,1.3269,1.8091,2.3366,3.458,4.4802,permanentes
+Limón,Ancash,precio_s_kg,67,1.6966,1.812,2.09,2.3318,2.66,3.864,5.9276,permanentes
+Limón,Apurimac,precio_s_kg,67,0.8432,0.913,1.11,1.4651,1.8984,2.34,3.5066,permanentes
+Limón,Arequipa,precio_s_kg,12,1.5781,1.8905,2.44,2.6065,3.0,3.09,3.178,permanentes
+Limón,Ayacucho,precio_s_kg,67,1.4966,1.637,1.975,2.1731,2.445,3.2164,3.6409,permanentes
+Limón,Cajamarca,precio_s_kg,67,1.1366,1.173,1.3581,1.54,2.3612,5.0847,5.5992,permanentes
+Limón,Cusco,precio_s_kg,67,0.7792,1.0,1.155,1.2,1.5,1.8253,2.0391,permanentes
+Limón,Huancavelica,precio_s_kg,67,0.8541,0.9098,1.157,1.5,2.0,3.329,5.0978,permanentes
+Limón,Huanuco,precio_s_kg,67,0.9898,1.13,1.425,1.87,2.055,2.8315,5.3534,permanentes
+Limón,Ica,precio_s_kg,61,1.0,1.13,1.42,1.93,2.5,3.017,4.106,permanentes
+Limón,Junin,precio_s_kg,67,0.7464,0.782,1.0,1.07,1.25,1.5559,3.0444,permanentes
+Limón,La Libertad,precio_s_kg,67,0.8738,0.9221,1.0,1.05,1.2891,1.592,1.991,permanentes
+Limón,Lambayeque,precio_s_kg,67,0.4542,0.512,0.69,0.8683,1.125,2.1637,6.54,permanentes
+Limón,Lima,precio_s_kg,11,1.3,1.3,1.3,1.5,1.6,1.9,1.98,permanentes
+Limón,Loreto,precio_s_kg,67,0.93,0.94,0.95,0.97,0.9758,0.984,0.989,permanentes
+Limón,Madre de Dios,precio_s_kg,67,1.4396,1.546,2.1886,2.57,3.045,5.3471,6.9024,permanentes
+Limón,Moquegua,precio_s_kg,31,1.924,1.99,2.0,2.3,2.7341,3.2935,3.5,permanentes
+Limón,Pasco,precio_s_kg,23,0.61,1.0333,1.6674,2.0,2.4,4.81,5.0,permanentes
+Limón,Piura,precio_s_kg,67,0.7029,0.77,0.9505,1.12,1.435,2.9639,5.131,permanentes
+Limón,Puno,precio_s_kg,28,0.95,0.95,1.03,1.16,1.2296,1.653,2.311,permanentes
+Limón,San Martin,precio_s_kg,67,0.873,0.977,1.3136,1.66,2.0352,2.685,6.2906,permanentes
+Limón,Tumbes,precio_s_kg,67,0.8196,0.8518,1.1362,1.54,2.21,4.7121,6.873,permanentes
+Limón,Ucayali,precio_s_kg,67,0.6,0.61,1.545,3.01,4.7627,5.4763,6.121,permanentes
+Mango,Nacional,precio_s_kg,833,0.3,0.408,1.0,1.46,2.07,3.5,4.9132,permanentes
+Mango,Amazonas,precio_s_kg,55,1.0689,1.1253,2.76,3.5035,4.19,5.0834,5.2878,permanentes
+Mango,Ancash,precio_s_kg,40,0.9678,1.037,1.3219,1.485,1.7288,3.5,3.5305,permanentes
+Mango,Apurimac,precio_s_kg,43,1.0,1.007,1.385,1.9567,2.2854,3.1,3.2264,permanentes
+Mango,Arequipa,precio_s_kg,17,2.7748,2.794,3.0,3.15,3.5,4.2433,4.4684,permanentes
+Mango,Ayacucho,precio_s_kg,63,0.9962,1.0519,1.225,1.48,1.9612,3.09,3.2,permanentes
+Mango,Cajamarca,precio_s_kg,64,0.8,1.069,1.46,1.6,1.9676,2.474,2.6368,permanentes
+Mango,Cusco,precio_s_kg,27,1.1527,2.0,2.7,2.8,2.84,2.967,3.1819,permanentes
+Mango,Huancavelica,precio_s_kg,36,0.8971,0.9854,1.215,1.435,1.9863,2.5626,2.9899,permanentes
+Mango,Huanuco,precio_s_kg,40,0.5356,0.579,0.795,0.9245,0.9923,1.1332,1.2065,permanentes
+Mango,Ica,precio_s_kg,24,0.9432,0.9725,1.2267,1.3702,1.8185,2.345,2.4308,permanentes
+Mango,Junin,precio_s_kg,22,0.8663,0.8935,1.12,1.3915,1.4479,1.5291,1.5389,permanentes
+Mango,La Libertad,precio_s_kg,67,1.0,1.003,1.22,1.46,2.09,2.4618,2.5238,permanentes
+Mango,Lambayeque,precio_s_kg,35,0.2291,0.2547,0.475,0.8,1.22,1.993,2.1452,permanentes
+Mango,Lima,precio_s_kg,39,0.8658,1.0,1.1786,1.49,1.895,2.756,2.9062,permanentes
+Mango,Lima Metropolitana,precio_s_kg,12,0.8822,0.891,0.975,1.35,2.2817,3.1591,3.6918,permanentes
+Mango,Loreto,precio_s_kg,44,0.3,0.3,0.31,0.3368,0.3598,0.4785,0.4914,permanentes
+Mango,Madre de Dios,precio_s_kg,15,1.2872,1.2955,1.4706,1.5686,1.775,1.974,2.0748,permanentes
+Mango,Moquegua,precio_s_kg,35,1.67,2.0,2.5259,3.0,3.0803,3.5,4.49,permanentes
+Mango,Pasco,precio_s_kg,12,0.7477,0.7884,0.9453,1.03,1.5725,2.0,2.0,permanentes
+Mango,Piura,precio_s_kg,60,0.4062,0.4998,0.9325,1.07,1.6942,2.8825,4.6886,permanentes
+Mango,San Martin,precio_s_kg,39,0.6252,0.668,0.74,0.8387,0.87,1.0,1.0,permanentes
+Mango,Tumbes,precio_s_kg,17,0.7483,0.7817,0.89,1.0323,1.4,1.918,2.2956,permanentes
+Mango,Ucayali,precio_s_kg,27,0.6864,0.796,1.5532,1.62,1.6595,1.8894,1.9544,permanentes
+Maíz amarillo duro,Nacional,precio_s_kg,1386,0.7785,0.842,1.22,1.4,1.5986,2.0,2.4015,transitorios
+Maíz amarillo duro,Amazonas,precio_s_kg,67,1.0698,1.093,1.325,1.4,1.4881,1.7611,1.8802,transitorios
+Maíz amarillo duro,Ancash,precio_s_kg,67,1.1966,1.263,1.5,1.62,1.6551,1.6986,1.7001,transitorios
+Maíz amarillo duro,Apurimac,precio_s_kg,41,1.0,1.13,1.41,1.62,2.0,2.3389,2.6645,transitorios
+Maíz amarillo duro,Arequipa,precio_s_kg,41,1.0,1.0,1.01,1.4,1.6,1.8,1.8,transitorios
+Maíz amarillo duro,Ayacucho,precio_s_kg,46,1.4645,1.4825,1.6162,1.755,1.8429,2.27,2.3975,transitorios
+Maíz amarillo duro,Cajamarca,precio_s_kg,67,0.9996,1.077,1.23,1.36,1.5076,1.7418,1.9766,transitorios
+Maíz amarillo duro,Cusco,precio_s_kg,45,1.292,1.5,1.71,1.8593,2.05,2.3729,2.4315,transitorios
+Maíz amarillo duro,Huancavelica,precio_s_kg,58,0.9785,1.137,1.3621,1.5,1.6143,2.1515,2.572,transitorios
+Maíz amarillo duro,Huanuco,precio_s_kg,67,1.0094,1.062,1.2232,1.3235,1.465,1.727,1.8636,transitorios
+Maíz amarillo duro,Ica,precio_s_kg,67,1.1381,1.153,1.2298,1.31,1.43,1.63,1.6736,transitorios
+Maíz amarillo duro,Junin,precio_s_kg,67,0.9466,1.043,1.5995,1.63,1.68,1.777,1.8815,transitorios
+Maíz amarillo duro,La Libertad,precio_s_kg,67,1.138,1.1502,1.3,1.38,1.4673,1.564,1.6968,transitorios
+Maíz amarillo duro,Lambayeque,precio_s_kg,67,1.09,1.142,1.2507,1.34,1.425,1.507,1.5468,transitorios
+Maíz amarillo duro,Lima,precio_s_kg,67,1.11,1.1372,1.175,1.2274,1.3089,1.454,1.534,transitorios
+Maíz amarillo duro,Lima Metropolitana,precio_s_kg,45,0.7944,0.82,1.1,1.25,1.35,1.49,1.556,transitorios
+Maíz amarillo duro,Loreto,precio_s_kg,67,0.7481,0.753,0.79,0.8005,0.8291,0.85,0.8655,transitorios
+Maíz amarillo duro,Madre de Dios,precio_s_kg,48,1.0947,1.1,1.2175,1.25,1.415,1.572,1.7518,transitorios
+Maíz amarillo duro,Moquegua,precio_s_kg,47,0.6822,0.733,1.425,1.56,1.8,2.3391,2.4387,transitorios
+Maíz amarillo duro,Pasco,precio_s_kg,66,0.9886,1.0726,1.1725,1.5,1.6793,2.3275,2.4085,transitorios
+Maíz amarillo duro,Piura,precio_s_kg,67,1.2294,1.3,1.395,1.51,1.626,1.741,1.8531,transitorios
+Maíz amarillo duro,Puno,precio_s_kg,14,1.82,1.82,2.035,2.3,2.5275,3.0103,3.0257,transitorios
+Maíz amarillo duro,San Martin,precio_s_kg,67,0.893,0.962,1.035,1.17,1.245,1.355,1.5622,transitorios
+Maíz amarillo duro,Tumbes,precio_s_kg,65,1.0096,1.16,1.38,1.5,1.59,1.97,2.2,transitorios
+Maíz amarillo duro,Ucayali,precio_s_kg,66,0.9649,0.9882,1.2025,1.3016,1.4005,1.595,1.699,transitorios
+Maíz amiláceo,Nacional,precio_s_kg,814,1.4039,1.6865,2.6179,3.5338,4.3052,5.72,6.7788,transitorios
+Maíz amiláceo,Amazonas,precio_s_kg,67,1.67,1.902,2.56,3.7,4.28,5.97,6.3947,transitorios
+Maíz amiláceo,Ancash,precio_s_kg,36,3.537,3.565,3.955,4.855,5.0026,5.1525,5.251,transitorios
+Maíz amiláceo,Apurimac,precio_s_kg,32,2.8724,3.043,3.5218,4.0,4.5916,5.1,5.4101,transitorios
+Maíz amiláceo,Arequipa,precio_s_kg,58,1.5,1.5085,2.6025,4.0,4.5675,5.4235,5.7754,transitorios
+Maíz amiláceo,Ayacucho,precio_s_kg,40,1.6987,1.9997,2.8575,3.0868,3.6475,4.809,5.1803,transitorios
+Maíz amiláceo,Cajamarca,precio_s_kg,50,1.7678,2.0984,2.94,3.475,3.9375,4.5317,4.9124,transitorios
+Maíz amiláceo,Cusco,precio_s_kg,38,2.2037,2.261,3.4571,4.27,5.3037,8.0,8.0,transitorios
+Maíz amiláceo,Huancavelica,precio_s_kg,39,1.8574,2.3299,2.9938,3.55,4.045,5.901,6.6546,transitorios
+Maíz amiláceo,Huanuco,precio_s_kg,31,2.599,2.865,3.47,4.0,4.1907,4.3844,4.759,transitorios
+Maíz amiláceo,Ica,precio_s_kg,45,1.5,1.6046,1.8,2.0,2.3,2.934,3.0,transitorios
+Maíz amiláceo,Junin,precio_s_kg,41,2.7453,2.86,3.41,4.02,4.64,6.0,6.176,transitorios
+Maíz amiláceo,La Libertad,precio_s_kg,45,1.94,2.52,3.2,3.5,3.81,4.1552,4.3008,transitorios
+Maíz amiláceo,Lambayeque,precio_s_kg,65,1.246,1.506,1.97,2.22,2.5459,3.0,3.364,transitorios
+Maíz amiláceo,Lima,precio_s_kg,43,1.4,1.501,2.52,3.04,3.625,4.4814,5.0921,transitorios
+Maíz amiláceo,Moquegua,precio_s_kg,49,2.3054,2.6831,3.98,4.247,5.005,6.2807,6.8847,transitorios
+Maíz amiláceo,Pasco,precio_s_kg,16,2.213,2.825,3.2507,3.58,3.9082,4.585,4.789,transitorios
+Maíz amiláceo,Piura,precio_s_kg,44,1.0,1.115,1.6875,2.33,2.9936,3.8893,4.1254,transitorios
+Maíz amiláceo,Puno,precio_s_kg,21,2.018,2.09,2.45,2.77,3.776,4.3968,4.5046,transitorios
+Maíz amiláceo,Tacna,precio_s_kg,47,3.23,4.0,4.7739,5.0,5.32,6.3179,6.7663,transitorios
+Maíz choclo,Nacional,precio_s_kg,1223,0.42,0.4636,1.2236,1.61,2.13,3.279,4.303,transitorios
+Maíz choclo,Amazonas,precio_s_kg,62,1.2005,1.261,1.4064,1.7155,2.3675,4.628,6.454,transitorios
+Maíz choclo,Ancash,precio_s_kg,65,0.7664,0.812,0.95,1.4924,1.69,1.7808,1.9873,transitorios
+Maíz choclo,Apurimac,precio_s_kg,65,0.695,0.9001,1.1,1.29,1.5,1.7201,1.8768,transitorios
+Maíz choclo,Arequipa,precio_s_kg,47,0.8946,0.96,1.2073,1.61,2.0,2.964,3.0415,transitorios
+Maíz choclo,Ayacucho,precio_s_kg,64,0.9308,1.1045,1.2653,1.44,1.6025,1.917,2.2291,transitorios
+Maíz choclo,Cajamarca,precio_s_kg,58,1.6476,1.822,2.1375,2.41,2.79,3.9905,4.5557,transitorios
+Maíz choclo,Cusco,precio_s_kg,47,0.9984,1.023,1.3539,1.97,2.5,3.0,3.0262,transitorios
+Maíz choclo,Huancavelica,precio_s_kg,66,0.865,0.9975,1.367,1.51,1.8725,2.1902,2.5595,transitorios
+Maíz choclo,Huanuco,precio_s_kg,67,1.14,1.163,1.82,2.3107,2.5219,2.834,3.111,transitorios
+Maíz choclo,Ica,precio_s_kg,47,0.8352,1.0,1.4223,1.58,2.14,2.493,2.9385,transitorios
+Maíz choclo,Junin,precio_s_kg,65,0.7756,1.032,1.3662,1.78,2.1,2.8,3.1608,transitorios
+Maíz choclo,La Libertad,precio_s_kg,63,1.3658,1.5747,1.9185,2.05,2.4317,2.772,3.0376,transitorios
+Maíz choclo,Lambayeque,precio_s_kg,67,1.87,1.893,1.975,2.05,2.12,2.1731,2.1906,transitorios
+Maíz choclo,Lima,precio_s_kg,66,0.9165,1.0875,1.3725,1.6571,2.0464,2.4255,2.8365,transitorios
+Maíz choclo,Lima Metropolitana,precio_s_kg,20,0.8714,0.917,1.4875,1.675,2.0,4.015,4.243,transitorios
+Maíz choclo,Loreto,precio_s_kg,67,0.41,0.41,0.42,0.44,0.45,0.477,0.4886,transitorios
+Maíz choclo,Moquegua,precio_s_kg,52,1.1708,1.35,1.5,1.8,2.5,3.3326,3.5784,transitorios
+Maíz choclo,Pasco,precio_s_kg,54,0.6555,0.7065,0.8325,1.0,1.0324,1.5,1.5423,transitorios
+Maíz choclo,Piura,precio_s_kg,44,0.5003,0.8916,1.16,1.305,1.5,1.676,1.907,transitorios
+Maíz choclo,Tacna,precio_s_kg,65,2.4764,3.0,3.0419,3.3415,3.63,4.3692,5.3603,transitorios
+Maíz choclo,Tumbes,precio_s_kg,67,0.7329,0.7732,0.875,1.15,1.3189,1.534,1.6612,transitorios
+Palta,Nacional,precio_s_kg,1439,0.48,0.889,2.0,3.0446,4.0,5.739,7.6494,permanentes
+Palta,Amazonas,precio_s_kg,67,1.4066,1.603,2.08,2.77,3.3037,3.6909,3.9097,permanentes
+Palta,Ancash,precio_s_kg,67,3.3962,3.538,4.47,4.8796,5.3437,5.9951,6.7536,permanentes
+Palta,Apurimac,precio_s_kg,62,2.1066,2.403,2.7853,2.9565,3.1696,3.4855,4.263,permanentes
+Palta,Arequipa,precio_s_kg,65,2.6032,3.5,4.0,4.27,4.9596,5.932,5.99,permanentes
+Palta,Ayacucho,precio_s_kg,67,2.4225,2.559,3.0788,4.1063,4.8755,6.189,6.6608,permanentes
+Palta,Cajamarca,precio_s_kg,67,2.0346,2.225,2.84,3.07,3.25,3.651,3.7669,permanentes
+Palta,Cusco,precio_s_kg,67,1.0,1.0,1.305,1.51,2.68,4.99,5.0572,permanentes
+Palta,Huancavelica,precio_s_kg,64,2.1572,2.456,2.7656,3.425,4.1753,4.6255,5.0401,permanentes
+Palta,Huanuco,precio_s_kg,67,1.83,1.955,2.85,3.22,3.4,3.791,4.0916,permanentes
+Palta,Ica,precio_s_kg,52,2.8706,3.095,3.7855,4.24,5.3225,6.0815,6.7473,permanentes
+Palta,Junin,precio_s_kg,67,1.0466,1.149,1.53,1.64,1.7468,1.884,1.9144,permanentes
+Palta,La Libertad,precio_s_kg,67,1.9662,2.3187,3.01,3.7578,3.9247,4.1521,4.2876,permanentes
+Palta,Lambayeque,precio_s_kg,61,1.48,2.2,2.4179,2.5,2.89,4.49,4.66,permanentes
+Palta,Lima,precio_s_kg,67,2.5394,2.692,3.295,3.7271,4.1153,4.7832,5.1304,permanentes
+Palta,Lima Metropolitana,precio_s_kg,60,2.3504,2.6195,3.2,3.665,3.9758,4.5095,5.615,permanentes
+Palta,Loreto,precio_s_kg,63,0.47,0.47,0.48,0.49,0.5,0.5244,0.5303,permanentes
+Palta,Madre de Dios,precio_s_kg,21,2.216,4.28,4.64,5.18,5.44,6.42,7.084,permanentes
+Palta,Moquegua,precio_s_kg,67,3.9364,4.146,5.1363,5.96,7.2,8.615,9.423,permanentes
+Palta,Pasco,precio_s_kg,67,1.0364,1.132,2.0945,2.39,2.66,3.041,3.3493,permanentes
+Palta,Piura,precio_s_kg,66,0.893,0.9925,1.5125,2.0196,2.9378,4.1161,4.6516,permanentes
+Palta,Puno,precio_s_kg,34,2.4133,2.42,2.525,2.8,2.9079,3.321,3.3917,permanentes
+Palta,San Martin,precio_s_kg,67,0.8798,0.903,1.108,1.29,1.6052,3.204,3.7334,permanentes
+Palta,Tacna,precio_s_kg,30,3.145,3.5365,3.8068,4.505,5.0,5.829,6.71,permanentes
+Palta,Ucayali,precio_s_kg,57,0.73,0.748,1.26,1.48,1.64,1.8706,1.9632,permanentes
+Papa,Nacional,precio_s_kg,1208,0.5,0.68,0.95,1.2,1.57,2.28,2.7351,transitorios
+Papa,Amazonas,precio_s_kg,67,0.7296,0.9,1.085,1.4723,1.8167,2.354,2.4236,transitorios
+Papa,Ancash,precio_s_kg,65,0.8128,0.862,1.08,1.23,1.5056,2.02,2.3052,transitorios
+Papa,Apurimac,precio_s_kg,66,0.706,0.7548,1.0125,1.1679,1.3766,1.6817,2.1608,transitorios
+Papa,Arequipa,precio_s_kg,67,0.5496,0.593,0.94,1.13,1.28,1.6145,1.7553,transitorios
+Papa,Ayacucho,precio_s_kg,67,0.5912,0.76,0.96,1.14,1.4541,1.751,2.7618,transitorios
+Papa,Cajamarca,precio_s_kg,67,0.7066,0.769,1.135,1.3,1.67,2.058,2.2938,transitorios
+Papa,Cusco,precio_s_kg,54,0.8795,1.0365,1.1925,1.4821,1.9683,2.5415,2.8679,transitorios
+Papa,Huancavelica,precio_s_kg,67,0.4796,0.591,0.8656,1.02,1.28,1.56,1.5934,transitorios
+Papa,Huanuco,precio_s_kg,67,0.5882,0.6857,0.8483,1.04,1.2608,1.912,2.1512,transitorios
+Papa,Ica,precio_s_kg,61,0.524,0.6133,0.95,1.0,1.32,1.55,1.66,transitorios
+Papa,Junin,precio_s_kg,67,0.6032,0.663,0.7926,0.89,1.055,1.597,1.8442,transitorios
+Papa,La Libertad,precio_s_kg,67,0.7892,0.879,1.17,1.4,1.6903,2.307,2.5006,transitorios
+Papa,Lambayeque,precio_s_kg,43,0.7452,0.824,0.9,0.9944,1.2,1.5,1.5388,transitorios
+Papa,Lima,precio_s_kg,67,0.3796,0.5346,0.8712,1.1654,1.4869,1.8735,2.3414,transitorios
+Papa,Lima Metropolitana,precio_s_kg,22,0.4021,0.412,0.5282,0.6,0.7575,1.19,1.358,transitorios
+Papa,Moquegua,precio_s_kg,58,0.7171,0.7955,1.17,1.5,1.9507,2.5896,2.8575,transitorios
+Papa,Pasco,precio_s_kg,67,0.45,0.572,0.795,1.07,1.4019,1.934,2.0672,transitorios
+Papa,Piura,precio_s_kg,67,0.683,0.739,0.96,1.34,1.66,2.281,2.3978,transitorios
+Papa,Puno,precio_s_kg,37,1.25,1.426,1.82,2.0505,2.5337,3.254,3.7804,transitorios
+Papa,Tacna,precio_s_kg,65,1.2086,1.2825,1.5,1.74,2.0,2.644,2.7724,transitorios
+Plátano,Nacional,precio_s_kg,1440,0.4,0.59,0.9156,1.0863,1.2797,2.4,2.8478,semipermanentes
+Plátano,Amazonas,precio_s_kg,67,0.8362,0.88,0.95,1.14,1.215,1.3654,1.4955,semipermanentes
+Plátano,Ancash,precio_s_kg,65,2.334,2.496,2.67,2.7968,2.84,2.8778,2.9472,semipermanentes
+Plátano,Apurimac,precio_s_kg,63,0.6872,0.7701,0.805,1.0,1.185,1.57,1.67,semipermanentes
+Plátano,Ayacucho,precio_s_kg,67,0.8066,0.81,0.9277,1.0,1.035,1.12,1.247,semipermanentes
+Plátano,Cajamarca,precio_s_kg,67,0.5266,0.54,0.6,0.72,0.888,0.9277,0.9494,semipermanentes
+Plátano,Cusco,precio_s_kg,67,0.82,0.833,0.995,1.1053,1.155,1.4609,1.6949,semipermanentes
+Plátano,Huancavelica,precio_s_kg,50,0.7647,0.8535,0.9825,1.114,1.3524,2.1965,2.4,semipermanentes
+Plátano,Huanuco,precio_s_kg,67,0.62,0.63,0.785,0.92,1.0478,1.1124,1.207,semipermanentes
+Plátano,Ica,precio_s_kg,67,1.0832,1.1297,1.18,1.1919,1.2759,1.43,1.47,semipermanentes
+Plátano,Junin,precio_s_kg,67,0.73,0.776,0.865,0.98,1.01,1.0964,1.1095,semipermanentes
+Plátano,La Libertad,precio_s_kg,67,1.0692,1.163,1.25,1.31,1.3847,1.45,1.4938,semipermanentes
+Plátano,Lambayeque,precio_s_kg,65,0.846,1.0876,1.37,1.9,2.1,2.4806,2.652,semipermanentes
+Plátano,Lima,precio_s_kg,64,0.7904,0.99,1.12,1.26,1.385,1.7694,1.8035,semipermanentes
+Plátano,Lima Metropolitana,precio_s_kg,57,0.5748,0.63,0.73,0.75,0.79,1.1729,1.344,semipermanentes
+Plátano,Loreto,precio_s_kg,56,0.4,0.4,0.4,0.41,0.4265,0.4374,0.4394,semipermanentes
+Plátano,Madre de Dios,precio_s_kg,67,0.8766,0.903,0.95,1.0184,1.1046,1.1693,1.2566,semipermanentes
+Plátano,Pasco,precio_s_kg,67,0.8766,0.89,1.0236,1.1,1.17,1.273,1.3823,semipermanentes
+Plátano,Piura,precio_s_kg,67,0.8532,0.89,0.98,1.13,1.295,1.5291,1.6501,semipermanentes
+Plátano,Puno,precio_s_kg,67,1.0,1.0,1.085,1.17,1.4037,1.8138,2.2418,semipermanentes
+Plátano,San Martin,precio_s_kg,67,0.6698,0.68,0.755,0.83,1.0213,1.1415,1.2744,semipermanentes
+Plátano,Tumbes,precio_s_kg,67,0.7396,0.898,1.02,1.1278,1.3199,1.493,1.6118,semipermanentes
+Plátano,Ucayali,precio_s_kg,67,0.5866,0.65,0.915,1.24,1.376,1.6218,1.6554,semipermanentes
+Quinua,Nacional,precio_s_kg,505,3.0,3.5,4.4,5.0,5.72,6.5,7.0968,transitorios
+Quinua,Ancash,precio_s_kg,9,5.2672,5.376,5.62,5.72,5.83,6.0,6.0,transitorios
+Quinua,Apurimac,precio_s_kg,31,2.664,3.0,3.9,4.78,5.55,6.215,6.8647,transitorios
+Quinua,Arequipa,precio_s_kg,66,2.9075,3.36,4.035,5.5101,6.178,6.4999,6.8713,transitorios
+Quinua,Ayacucho,precio_s_kg,55,3.0166,3.879,4.5224,4.87,5.02,5.6705,6.2561,transitorios
+Quinua,Cajamarca,precio_s_kg,49,3.0864,4.01,4.87,5.1,5.53,6.1937,6.5016,transitorios
+Quinua,Cusco,precio_s_kg,27,3.2672,3.507,3.995,4.41,4.5924,5.541,6.6534,transitorios
+Quinua,Huancavelica,precio_s_kg,28,3.5959,3.748,4.2899,4.755,5.8034,6.825,7.0,transitorios
+Quinua,Huanuco,precio_s_kg,41,4.032,4.28,5.0,5.45,5.7,6.01,6.2,transitorios
+Quinua,Ica,precio_s_kg,21,3.0806,3.4028,3.5,3.6,4.3,5.8,5.84,transitorios
+Quinua,Junin,precio_s_kg,24,3.8022,3.9235,4.33,4.9,5.5906,5.9851,6.0112,transitorios
+Quinua,La Libertad,precio_s_kg,35,3.8205,4.3779,5.15,5.821,6.0,7.3615,7.9111,transitorios
+Quinua,Lima Metropolitana,precio_s_kg,20,5.75,5.75,6.475,6.5,6.5,6.75,6.75,transitorios
+Quinua,Moquegua,precio_s_kg,9,5.02,5.1,6.0,6.0,6.0,6.6,6.92,transitorios
+Quinua,Puno,precio_s_kg,19,3.6204,3.822,4.5,4.8,5.194,5.6053,5.6142,transitorios
+Quinua,Tacna,precio_s_kg,66,3.3553,4.0,4.2993,4.8367,5.0,5.4775,5.5,transitorios
+Tomate,Nacional,precio_s_kg,1261,0.3671,0.6,1.2,1.51,1.97,2.79,4.0,transitorios
+Tomate,Amazonas,precio_s_kg,50,1.0,1.0,1.1105,1.2,1.2875,1.491,1.5,transitorios
+Tomate,Ancash,precio_s_kg,66,1.183,1.2423,1.4037,1.7263,2.155,2.5325,3.0115,transitorios
+Tomate,Apurimac,precio_s_kg,65,1.0576,1.156,1.5,1.67,2.0,2.298,2.536,transitorios
+Tomate,Arequipa,precio_s_kg,67,0.596,0.8,1.045,1.3167,1.6438,2.2936,2.4764,transitorios
+Tomate,Ayacucho,precio_s_kg,64,0.923,1.183,1.38,1.5194,1.6095,1.6799,1.81,transitorios
+Tomate,Cajamarca,precio_s_kg,65,1.2752,1.5,1.86,2.2469,2.56,2.8112,3.1499,transitorios
+Tomate,Cusco,precio_s_kg,59,1.54,1.568,2.53,3.0,4.0,4.0,4.42,transitorios
+Tomate,Huancavelica,precio_s_kg,43,0.642,0.8646,1.2344,1.5,2.0,2.5,2.948,transitorios
+Tomate,Huanuco,precio_s_kg,64,0.7963,0.943,1.18,1.41,1.6069,2.04,2.1622,transitorios
+Tomate,Ica,precio_s_kg,67,0.6498,0.709,0.925,1.3233,1.4725,1.5562,1.7814,transitorios
+Tomate,Junin,precio_s_kg,27,0.8,0.8,1.0,1.1,1.2,1.37,1.474,transitorios
+Tomate,La Libertad,precio_s_kg,67,0.7724,0.927,1.2322,1.47,1.7349,2.3257,2.8168,transitorios
+Tomate,Lambayeque,precio_s_kg,61,0.6892,0.8,1.0,1.3,1.75,2.0,2.434,transitorios
+Tomate,Lima,precio_s_kg,67,0.926,1.039,1.36,1.65,2.0002,2.2494,2.3253,transitorios
+Tomate,Lima Metropolitana,precio_s_kg,55,0.714,0.828,1.1599,1.35,1.6,2.2,2.687,transitorios
+Tomate,Loreto,precio_s_kg,62,0.3578,0.36,0.37,0.37,0.38,0.3898,0.39,transitorios
+Tomate,Madre de Dios,precio_s_kg,10,1.0,1.0,1.0,1.15,1.675,2.0,2.0,transitorios
+Tomate,Moquegua,precio_s_kg,38,0.8,0.8212,1.0,1.1668,1.5,2.0,2.0,transitorios
+Tomate,Piura,precio_s_kg,42,0.841,1.0015,1.3,1.51,1.99,2.114,2.8975,transitorios
+Tomate,San Martin,precio_s_kg,67,1.257,1.4938,1.7589,1.95,2.19,2.825,3.5592,transitorios
+Tomate,Tacna,precio_s_kg,67,0.898,1.022,1.335,1.5,1.93,2.485,3.1746,transitorios
+Tomate,Tumbes,precio_s_kg,37,0.852,1.3,1.5,1.75,2.0,2.26,2.428,transitorios
+Tomate,Ucayali,precio_s_kg,47,1.5328,1.7065,1.8462,2.03,2.46,2.939,3.324,transitorios
+Uva,Nacional,precio_s_kg,668,1.1372,1.5,2.34,2.94,3.5025,5.0,6.0,permanentes
+Uva,Ancash,precio_s_kg,67,2.162,2.25,2.455,2.9614,3.1757,3.5643,3.6868,permanentes
+Uva,Arequipa,precio_s_kg,65,2.3676,3.1464,3.95,4.7,5.0,6.0,6.0,permanentes
+Uva,Ayacucho,precio_s_kg,24,2.0575,2.2725,2.56,2.8,3.0,3.45,3.731,permanentes
+Uva,Cajamarca,precio_s_kg,67,1.2,1.853,2.2032,2.45,2.76,3.3801,3.6195,permanentes
+Uva,Ica,precio_s_kg,57,1.0013,1.142,1.5265,1.8125,1.99,2.41,3.0,permanentes
+Uva,La Libertad,precio_s_kg,67,1.636,1.803,2.07,2.54,3.061,3.6976,3.8311,permanentes
+Uva,Lambayeque,precio_s_kg,56,1.7785,1.9975,2.4987,2.51,2.6525,2.9425,2.988,permanentes
+Uva,Lima,precio_s_kg,41,0.904,0.94,1.31,1.5099,1.88,2.5,2.7258,permanentes
+Uva,Lima Metropolitana,precio_s_kg,19,2.1726,2.223,2.335,2.65,3.0663,3.8469,4.1294,permanentes
+Uva,Moquegua,precio_s_kg,51,2.45,2.625,3.0,3.42,3.7196,4.5,5.25,permanentes
+Uva,Piura,precio_s_kg,60,2.85,2.85,3.3661,3.6,3.7584,3.984,6.0,permanentes
+Uva,San Martin,precio_s_kg,67,2.9886,3.0887,3.2456,3.3966,3.695,4.513,4.6502,permanentes
+Uva,Tacna,precio_s_kg,23,3.0,3.005,3.3,4.2471,5.04,5.6198,5.8506,permanentes
+Yuca,Nacional,precio_s_kg,1332,0.39,0.421,1.0,1.24,1.52,2.0911,2.6773,transitorios
+Yuca,Amazonas,precio_s_kg,67,1.0382,1.05,1.08,1.14,1.2887,1.4952,1.5361,transitorios
+Yuca,Ancash,precio_s_kg,60,1.1731,1.2485,1.4275,1.6091,1.885,2.0717,2.6119,transitorios
+Yuca,Apurimac,precio_s_kg,55,0.7994,1.0,1.135,1.3384,1.6509,2.5,2.73,transitorios
+Yuca,Arequipa,precio_s_kg,44,1.3516,1.4575,1.7225,2.07,2.5478,3.0,3.0,transitorios
+Yuca,Ayacucho,precio_s_kg,67,0.8,0.8,1.215,1.38,1.5143,1.8716,2.1292,transitorios
+Yuca,Cajamarca,precio_s_kg,67,1.1032,1.156,1.295,1.55,1.7264,1.8393,2.025,transitorios
+Yuca,Cusco,precio_s_kg,67,1.0564,1.123,1.305,1.5,2.0395,2.2438,2.5981,transitorios
+Yuca,Huanuco,precio_s_kg,67,0.7898,0.823,1.185,1.364,1.535,1.7575,1.8511,transitorios
+Yuca,Ica,precio_s_kg,60,0.8259,0.84,1.0,1.1681,1.29,1.4,1.705,transitorios
+Yuca,Junin,precio_s_kg,67,0.43,0.528,0.835,1.0256,1.37,1.6283,1.6853,transitorios
+Yuca,La Libertad,precio_s_kg,67,0.7928,0.9,0.9945,1.15,1.443,1.7882,2.0054,transitorios
+Yuca,Lambayeque,precio_s_kg,64,0.9926,1.0015,1.1296,1.3224,1.4923,1.7189,1.8231,transitorios
+Yuca,Lima,precio_s_kg,67,0.39,0.532,0.725,0.96,1.2806,1.7171,1.7549,transitorios
+Yuca,Lima Metropolitana,precio_s_kg,15,1.0,1.0,1.165,1.3,1.3638,1.5218,1.5625,transitorios
+Yuca,Loreto,precio_s_kg,67,0.3766,0.38,0.39,0.3964,0.41,0.4205,0.4219,transitorios
+Yuca,Madre de Dios,precio_s_kg,67,0.96,0.973,1.0,1.1,1.2434,1.4002,1.4554,transitorios
+Yuca,Pasco,precio_s_kg,67,0.7266,0.733,0.8832,0.97,1.13,1.507,1.72,transitorios
+Yuca,Piura,precio_s_kg,67,1.2858,1.383,1.52,1.6,1.8212,1.9489,2.113,transitorios
+Yuca,Puno,precio_s_kg,28,1.6351,1.7545,2.1075,2.4447,2.6052,2.8166,3.2913,transitorios
+Yuca,San Martin,precio_s_kg,67,0.6466,0.673,0.735,0.85,1.0926,1.2494,1.2736,transitorios
+Yuca,Tumbes,precio_s_kg,67,0.6191,0.8,1.045,1.3,1.4822,1.9273,2.0306,transitorios
+Yuca,Ucayali,precio_s_kg,67,0.56,0.563,0.785,0.95,1.1897,1.4198,1.4399,transitorios

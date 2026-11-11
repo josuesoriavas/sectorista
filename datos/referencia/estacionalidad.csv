@@ -1,0 +1,4549 @@
+cultivo,departamento,mes,participacion_media,participacion_max,anios
+Aceituna,Arequipa,1,0.0,0.0,15
+Aceituna,Arequipa,2,0.0,0.0,15
+Aceituna,Arequipa,3,0.0318,0.1315,15
+Aceituna,Arequipa,4,0.3636,0.619,15
+Aceituna,Arequipa,5,0.411,0.7088,15
+Aceituna,Arequipa,6,0.1552,0.4219,15
+Aceituna,Arequipa,7,0.0376,0.1211,15
+Aceituna,Arequipa,8,0.0008,0.0049,15
+Aceituna,Arequipa,9,0.0,0.0,15
+Aceituna,Arequipa,10,0.0,0.0,15
+Aceituna,Arequipa,11,0.0,0.0,15
+Aceituna,Arequipa,12,0.0,0.0,15
+Aceituna,Ica,1,0.0,0.0,15
+Aceituna,Ica,2,0.0,0.0,15
+Aceituna,Ica,3,0.1331,0.4364,15
+Aceituna,Ica,4,0.2429,0.6694,15
+Aceituna,Ica,5,0.11,0.429,15
+Aceituna,Ica,6,0.0234,0.0779,15
+Aceituna,Ica,7,0.2231,0.6485,15
+Aceituna,Ica,8,0.1975,0.5014,15
+Aceituna,Ica,9,0.0669,0.3146,15
+Aceituna,Ica,10,0.0031,0.0232,15
+Aceituna,Ica,11,0.0,0.0,15
+Aceituna,Ica,12,0.0,0.0,15
+Aceituna,La Libertad,1,0.0,0.0,15
+Aceituna,La Libertad,2,0.0,0.0,15
+Aceituna,La Libertad,3,0.0,0.0,15
+Aceituna,La Libertad,4,0.0002,0.0035,15
+Aceituna,La Libertad,5,0.1493,0.2102,15
+Aceituna,La Libertad,6,0.1595,0.194,15
+Aceituna,La Libertad,7,0.2541,0.362,15
+Aceituna,La Libertad,8,0.2423,0.458,15
+Aceituna,La Libertad,9,0.1945,0.2327,15
+Aceituna,La Libertad,10,0.0,0.0,15
+Aceituna,La Libertad,11,0.0,0.0,15
+Aceituna,La Libertad,12,0.0,0.0,15
+Aceituna,Lima,1,0.0,0.0,15
+Aceituna,Lima,2,0.0,0.0,15
+Aceituna,Lima,3,0.0008,0.0102,15
+Aceituna,Lima,4,0.157,0.2941,15
+Aceituna,Lima,5,0.3823,0.5328,15
+Aceituna,Lima,6,0.2978,0.4173,15
+Aceituna,Lima,7,0.1029,0.2844,15
+Aceituna,Lima,8,0.0304,0.1387,15
+Aceituna,Lima,9,0.0201,0.1249,15
+Aceituna,Lima,10,0.0018,0.0149,15
+Aceituna,Lima,11,0.0042,0.0347,15
+Aceituna,Lima,12,0.0027,0.0408,15
+Aceituna,Lima Metropolitana,1,0.0,0.0,15
+Aceituna,Lima Metropolitana,2,0.0,0.0,15
+Aceituna,Lima Metropolitana,3,0.0,0.0,15
+Aceituna,Lima Metropolitana,4,0.0528,0.4837,15
+Aceituna,Lima Metropolitana,5,0.4004,0.5273,15
+Aceituna,Lima Metropolitana,6,0.5131,0.6486,15
+Aceituna,Lima Metropolitana,7,0.0337,0.4107,15
+Aceituna,Lima Metropolitana,8,0.0,0.0,15
+Aceituna,Lima Metropolitana,9,0.0,0.0,15
+Aceituna,Lima Metropolitana,10,0.0,0.0,15
+Aceituna,Lima Metropolitana,11,0.0,0.0,15
+Aceituna,Lima Metropolitana,12,0.0,0.0,15
+Aceituna,Moquegua,1,0.0,0.0,15
+Aceituna,Moquegua,2,0.0,0.0,15
+Aceituna,Moquegua,3,0.0,0.0,15
+Aceituna,Moquegua,4,0.0273,0.2727,15
+Aceituna,Moquegua,5,0.0808,0.5207,15
+Aceituna,Moquegua,6,0.2579,0.8349,15
+Aceituna,Moquegua,7,0.3513,0.9444,15
+Aceituna,Moquegua,8,0.2284,0.5831,15
+Aceituna,Moquegua,9,0.0543,0.3269,15
+Aceituna,Moquegua,10,0.0,0.0,15
+Aceituna,Moquegua,11,0.0,0.0,15
+Aceituna,Moquegua,12,0.0,0.0,15
+Aceituna,Tacna,1,0.0,0.0,15
+Aceituna,Tacna,2,0.0015,0.0209,15
+Aceituna,Tacna,3,0.0716,0.1798,15
+Aceituna,Tacna,4,0.2944,0.619,15
+Aceituna,Tacna,5,0.3498,0.5569,15
+Aceituna,Tacna,6,0.1759,0.3966,15
+Aceituna,Tacna,7,0.0646,0.1674,15
+Aceituna,Tacna,8,0.0327,0.0931,15
+Aceituna,Tacna,9,0.0072,0.0461,15
+Aceituna,Tacna,10,0.0022,0.0166,15
+Aceituna,Tacna,11,0.0,0.0,15
+Aceituna,Tacna,12,0.0,0.0,15
+Ajo,Amazonas,1,0.075,0.3697,15
+Ajo,Amazonas,2,0.0338,0.2298,15
+Ajo,Amazonas,3,0.0495,0.2489,15
+Ajo,Amazonas,4,0.0799,0.6667,15
+Ajo,Amazonas,5,0.1023,0.285,15
+Ajo,Amazonas,6,0.125,0.3675,15
+Ajo,Amazonas,7,0.1037,0.315,15
+Ajo,Amazonas,8,0.0887,0.5042,15
+Ajo,Amazonas,9,0.0607,0.2668,15
+Ajo,Amazonas,10,0.0995,0.4978,15
+Ajo,Amazonas,11,0.0907,0.3333,15
+Ajo,Amazonas,12,0.0911,0.2489,15
+Ajo,Ancash,1,0.1051,0.5,14
+Ajo,Ancash,2,0.0468,0.2517,14
+Ajo,Ancash,3,0.06,0.25,14
+Ajo,Ancash,4,0.0202,0.2835,14
+Ajo,Ancash,5,0.0577,0.2133,14
+Ajo,Ancash,6,0.0296,0.1965,14
+Ajo,Ancash,7,0.0245,0.2009,14
+Ajo,Ancash,8,0.0015,0.0215,14
+Ajo,Ancash,9,0.017,0.2096,14
+Ajo,Ancash,10,0.2083,0.7179,14
+Ajo,Ancash,11,0.2406,0.4765,14
+Ajo,Ancash,12,0.1886,0.5294,14
+Ajo,Apurimac,1,0.0055,0.0531,15
+Ajo,Apurimac,2,0.0148,0.0893,15
+Ajo,Apurimac,3,0.0338,0.304,15
+Ajo,Apurimac,4,0.0629,0.2384,15
+Ajo,Apurimac,5,0.2442,0.4144,15
+Ajo,Apurimac,6,0.3307,0.8358,15
+Ajo,Apurimac,7,0.147,0.4383,15
+Ajo,Apurimac,8,0.0383,0.1558,15
+Ajo,Apurimac,9,0.0289,0.1109,15
+Ajo,Apurimac,10,0.0057,0.0495,15
+Ajo,Apurimac,11,0.0087,0.0669,15
+Ajo,Apurimac,12,0.0793,0.275,15
+Ajo,Arequipa,1,0.0249,0.0727,15
+Ajo,Arequipa,2,0.0112,0.0352,15
+Ajo,Arequipa,3,0.014,0.0401,15
+Ajo,Arequipa,4,0.0155,0.0492,15
+Ajo,Arequipa,5,0.0145,0.0278,15
+Ajo,Arequipa,6,0.0086,0.0164,15
+Ajo,Arequipa,7,0.0198,0.0492,15
+Ajo,Arequipa,8,0.0657,0.0924,15
+Ajo,Arequipa,9,0.1098,0.1588,15
+Ajo,Arequipa,10,0.16,0.328,15
+Ajo,Arequipa,11,0.359,0.4386,15
+Ajo,Arequipa,12,0.1969,0.3217,15
+Ajo,Ayacucho,1,0.0079,0.0386,15
+Ajo,Ayacucho,2,0.0185,0.1049,15
+Ajo,Ayacucho,3,0.0446,0.1628,15
+Ajo,Ayacucho,4,0.0769,0.1603,15
+Ajo,Ayacucho,5,0.1463,0.2851,15
+Ajo,Ayacucho,6,0.3333,0.5385,15
+Ajo,Ayacucho,7,0.229,0.4158,15
+Ajo,Ayacucho,8,0.0206,0.0589,15
+Ajo,Ayacucho,9,0.0348,0.1909,15
+Ajo,Ayacucho,10,0.019,0.0915,15
+Ajo,Ayacucho,11,0.0161,0.0458,15
+Ajo,Ayacucho,12,0.053,0.1672,15
+Ajo,Cajamarca,1,0.0095,0.031,15
+Ajo,Cajamarca,2,0.0481,0.1273,15
+Ajo,Cajamarca,3,0.072,0.1057,15
+Ajo,Cajamarca,4,0.135,0.2056,15
+Ajo,Cajamarca,5,0.1308,0.215,15
+Ajo,Cajamarca,6,0.1065,0.1691,15
+Ajo,Cajamarca,7,0.0774,0.1123,15
+Ajo,Cajamarca,8,0.0855,0.1299,15
+Ajo,Cajamarca,9,0.1069,0.1581,15
+Ajo,Cajamarca,10,0.1282,0.2225,15
+Ajo,Cajamarca,11,0.0698,0.1074,15
+Ajo,Cajamarca,12,0.0303,0.0685,15
+Ajo,Huancavelica,1,0.0037,0.017,15
+Ajo,Huancavelica,2,0.0,0.0,15
+Ajo,Huancavelica,3,0.0373,0.1,15
+Ajo,Huancavelica,4,0.1683,0.3873,15
+Ajo,Huancavelica,5,0.3059,0.5046,15
+Ajo,Huancavelica,6,0.2492,0.5812,15
+Ajo,Huancavelica,7,0.1278,0.6304,15
+Ajo,Huancavelica,8,0.0617,0.3193,15
+Ajo,Huancavelica,9,0.0263,0.1853,15
+Ajo,Huancavelica,10,0.018,0.1258,15
+Ajo,Huancavelica,11,0.0016,0.0149,15
+Ajo,Huancavelica,12,0.0003,0.0038,15
+Ajo,Huanuco,1,0.0222,0.059,15
+Ajo,Huanuco,2,0.0177,0.0576,15
+Ajo,Huanuco,3,0.0135,0.0532,15
+Ajo,Huanuco,4,0.0369,0.0871,15
+Ajo,Huanuco,5,0.4648,0.6603,15
+Ajo,Huanuco,6,0.3065,0.4573,15
+Ajo,Huanuco,7,0.0466,0.1397,15
+Ajo,Huanuco,8,0.014,0.1237,15
+Ajo,Huanuco,9,0.0072,0.0608,15
+Ajo,Huanuco,10,0.0148,0.0821,15
+Ajo,Huanuco,11,0.0279,0.1458,15
+Ajo,Huanuco,12,0.0279,0.0873,15
+Ajo,Ica,1,0.1271,1.0,13
+Ajo,Ica,2,0.0352,0.457,13
+Ajo,Ica,3,0.0,0.0,13
+Ajo,Ica,4,0.0,0.0,13
+Ajo,Ica,5,0.0,0.0,13
+Ajo,Ica,6,0.0,0.0,13
+Ajo,Ica,7,0.0,0.0,13
+Ajo,Ica,8,0.0,0.0,13
+Ajo,Ica,9,0.0769,1.0,13
+Ajo,Ica,10,0.3516,1.0,13
+Ajo,Ica,11,0.2521,1.0,13
+Ajo,Ica,12,0.1571,1.0,13
+Ajo,Junin,1,0.0034,0.016,15
+Ajo,Junin,2,0.0045,0.0153,15
+Ajo,Junin,3,0.0072,0.0223,15
+Ajo,Junin,4,0.0132,0.0372,15
+Ajo,Junin,5,0.1125,0.166,15
+Ajo,Junin,6,0.4229,0.5179,15
+Ajo,Junin,7,0.3198,0.4308,15
+Ajo,Junin,8,0.091,0.2467,15
+Ajo,Junin,9,0.012,0.0459,15
+Ajo,Junin,10,0.0069,0.0156,15
+Ajo,Junin,11,0.0035,0.0132,15
+Ajo,Junin,12,0.0029,0.0299,15
+Ajo,La Libertad,1,0.0028,0.016,15
+Ajo,La Libertad,2,0.0023,0.0106,15
+Ajo,La Libertad,3,0.0699,0.1817,15
+Ajo,La Libertad,4,0.1775,0.2572,15
+Ajo,La Libertad,5,0.2356,0.3998,15
+Ajo,La Libertad,6,0.2329,0.3395,15
+Ajo,La Libertad,7,0.1681,0.3122,15
+Ajo,La Libertad,8,0.052,0.1484,15
+Ajo,La Libertad,9,0.02,0.0766,15
+Ajo,La Libertad,10,0.0155,0.089,15
+Ajo,La Libertad,11,0.0133,0.0788,15
+Ajo,La Libertad,12,0.0101,0.0403,15
+Ajo,Lima,1,0.1902,0.3653,15
+Ajo,Lima,2,0.069,0.1951,15
+Ajo,Lima,3,0.0269,0.0761,15
+Ajo,Lima,4,0.0034,0.0116,15
+Ajo,Lima,5,0.0027,0.009,15
+Ajo,Lima,6,0.0025,0.0088,15
+Ajo,Lima,7,0.0036,0.0213,15
+Ajo,Lima,8,0.0033,0.0144,15
+Ajo,Lima,9,0.0101,0.0459,15
+Ajo,Lima,10,0.0928,0.2176,15
+Ajo,Lima,11,0.2572,0.3993,15
+Ajo,Lima,12,0.3382,0.5625,15
+Ajo,Lima Metropolitana,1,0.0299,0.2035,15
+Ajo,Lima Metropolitana,2,0.0121,0.1405,15
+Ajo,Lima Metropolitana,3,0.0151,0.1443,15
+Ajo,Lima Metropolitana,4,0.0,0.0,15
+Ajo,Lima Metropolitana,5,0.0647,0.5474,15
+Ajo,Lima Metropolitana,6,0.0,0.0,15
+Ajo,Lima Metropolitana,7,0.0,0.0,15
+Ajo,Lima Metropolitana,8,0.0,0.0,15
+Ajo,Lima Metropolitana,9,0.0338,0.1762,15
+Ajo,Lima Metropolitana,10,0.1836,0.4241,15
+Ajo,Lima Metropolitana,11,0.4368,0.7124,15
+Ajo,Lima Metropolitana,12,0.2241,0.557,15
+Ajo,Moquegua,1,0.2296,0.6606,15
+Ajo,Moquegua,2,0.1334,0.4337,15
+Ajo,Moquegua,3,0.0795,0.5138,15
+Ajo,Moquegua,4,0.0341,0.2105,15
+Ajo,Moquegua,5,0.0057,0.043,15
+Ajo,Moquegua,6,0.0224,0.2087,15
+Ajo,Moquegua,7,0.0125,0.0759,15
+Ajo,Moquegua,8,0.0202,0.2331,15
+Ajo,Moquegua,9,0.1196,1.0,15
+Ajo,Moquegua,10,0.0683,0.5645,15
+Ajo,Moquegua,11,0.0944,0.3577,15
+Ajo,Moquegua,12,0.1803,0.5727,15
+Ajo,Pasco,1,0.0,0.0,10
+Ajo,Pasco,2,0.0,0.0,10
+Ajo,Pasco,3,0.0,0.0,10
+Ajo,Pasco,4,0.0,0.0,10
+Ajo,Pasco,5,0.6205,1.0,10
+Ajo,Pasco,6,0.3795,1.0,10
+Ajo,Pasco,7,0.0,0.0,10
+Ajo,Pasco,8,0.0,0.0,10
+Ajo,Pasco,9,0.0,0.0,10
+Ajo,Pasco,10,0.0,0.0,10
+Ajo,Pasco,11,0.0,0.0,10
+Ajo,Pasco,12,0.0,0.0,10
+Ajo,Piura,1,0.0022,0.0326,15
+Ajo,Piura,2,0.0009,0.0135,15
+Ajo,Piura,3,0.0107,0.1429,15
+Ajo,Piura,4,0.0028,0.0198,15
+Ajo,Piura,5,0.0276,0.1359,15
+Ajo,Piura,6,0.0227,0.0671,15
+Ajo,Piura,7,0.0785,0.3177,15
+Ajo,Piura,8,0.019,0.1016,15
+Ajo,Piura,9,0.0349,0.3176,15
+Ajo,Piura,10,0.1989,0.4595,15
+Ajo,Piura,11,0.3364,0.6784,15
+Ajo,Piura,12,0.2653,0.6684,15
+Ajo,Tacna,1,0.2034,0.4305,15
+Ajo,Tacna,2,0.0422,0.2561,15
+Ajo,Tacna,3,0.0088,0.0845,15
+Ajo,Tacna,4,0.0113,0.1702,15
+Ajo,Tacna,5,0.0034,0.0509,15
+Ajo,Tacna,6,0.0,0.0,15
+Ajo,Tacna,7,0.0089,0.095,15
+Ajo,Tacna,8,0.0,0.0,15
+Ajo,Tacna,9,0.0942,0.3102,15
+Ajo,Tacna,10,0.1765,0.3559,15
+Ajo,Tacna,11,0.1954,0.6324,15
+Ajo,Tacna,12,0.2559,0.9795,15
+Algodón rama,Ancash,1,0.1242,0.3586,15
+Algodón rama,Ancash,2,0.2648,0.6229,15
+Algodón rama,Ancash,3,0.262,0.466,15
+Algodón rama,Ancash,4,0.2542,0.539,15
+Algodón rama,Ancash,5,0.0681,0.3126,15
+Algodón rama,Ancash,6,0.0246,0.3684,15
+Algodón rama,Ancash,7,0.0,0.0,15
+Algodón rama,Ancash,8,0.0,0.0,15
+Algodón rama,Ancash,9,0.0,0.0,15
+Algodón rama,Ancash,10,0.0,0.0,15
+Algodón rama,Ancash,11,0.0,0.0,15
+Algodón rama,Ancash,12,0.0022,0.0258,15
+Algodón rama,Arequipa,1,0.0,0.0,15
+Algodón rama,Arequipa,2,0.0,0.0,15
+Algodón rama,Arequipa,3,0.0,0.0,15
+Algodón rama,Arequipa,4,0.1101,0.459,15
+Algodón rama,Arequipa,5,0.3019,0.6545,15
+Algodón rama,Arequipa,6,0.3255,0.5937,15
+Algodón rama,Arequipa,7,0.2351,1.0,15
+Algodón rama,Arequipa,8,0.026,0.1813,15
+Algodón rama,Arequipa,9,0.0014,0.0208,15
+Algodón rama,Arequipa,10,0.0,0.0,15
+Algodón rama,Arequipa,11,0.0,0.0,15
+Algodón rama,Arequipa,12,0.0,0.0,15
+Algodón rama,Huanuco,1,0.0,0.0,8
+Algodón rama,Huanuco,2,0.0,0.0,8
+Algodón rama,Huanuco,3,0.0,0.0,8
+Algodón rama,Huanuco,4,0.0,0.0,8
+Algodón rama,Huanuco,5,0.0,0.0,8
+Algodón rama,Huanuco,6,0.0586,0.4686,8
+Algodón rama,Huanuco,7,0.3881,0.5188,8
+Algodón rama,Huanuco,8,0.4621,0.6053,8
+Algodón rama,Huanuco,9,0.0912,0.4722,8
+Algodón rama,Huanuco,10,0.0,0.0,8
+Algodón rama,Huanuco,11,0.0,0.0,8
+Algodón rama,Huanuco,12,0.0,0.0,8
+Algodón rama,Ica,1,0.0684,0.1285,15
+Algodón rama,Ica,2,0.0734,0.1095,15
+Algodón rama,Ica,3,0.1002,0.1972,15
+Algodón rama,Ica,4,0.2853,0.3792,15
+Algodón rama,Ica,5,0.2857,0.3978,15
+Algodón rama,Ica,6,0.1174,0.1917,15
+Algodón rama,Ica,7,0.0379,0.1289,15
+Algodón rama,Ica,8,0.0017,0.0096,15
+Algodón rama,Ica,9,0.0021,0.0097,15
+Algodón rama,Ica,10,0.0019,0.0083,15
+Algodón rama,Ica,11,0.0048,0.0119,15
+Algodón rama,Ica,12,0.0213,0.062,15
+Algodón rama,La Libertad,1,0.0,0.0,8
+Algodón rama,La Libertad,2,0.0,0.0,8
+Algodón rama,La Libertad,3,0.0004,0.0022,8
+Algodón rama,La Libertad,4,0.0001,0.0011,8
+Algodón rama,La Libertad,5,0.11,0.8537,8
+Algodón rama,La Libertad,6,0.3128,0.7483,8
+Algodón rama,La Libertad,7,0.3757,0.6709,8
+Algodón rama,La Libertad,8,0.1709,0.7929,8
+Algodón rama,La Libertad,9,0.0297,0.2071,8
+Algodón rama,La Libertad,10,0.0002,0.002,8
+Algodón rama,La Libertad,11,0.0,0.0,8
+Algodón rama,La Libertad,12,0.0,0.0,8
+Algodón rama,Lambayeque,1,0.0017,0.0211,15
+Algodón rama,Lambayeque,2,0.0013,0.0189,15
+Algodón rama,Lambayeque,3,0.0026,0.02,15
+Algodón rama,Lambayeque,4,0.2425,0.9639,15
+Algodón rama,Lambayeque,5,0.4946,1.0,15
+Algodón rama,Lambayeque,6,0.183,0.5199,15
+Algodón rama,Lambayeque,7,0.0385,0.2333,15
+Algodón rama,Lambayeque,8,0.0178,0.208,15
+Algodón rama,Lambayeque,9,0.0178,0.1485,15
+Algodón rama,Lambayeque,10,0.0002,0.002,15
+Algodón rama,Lambayeque,11,0.0,0.0004,15
+Algodón rama,Lambayeque,12,0.0,0.0,15
+Algodón rama,Lima,1,0.0001,0.0011,15
+Algodón rama,Lima,2,0.0033,0.0455,15
+Algodón rama,Lima,3,0.0447,0.2798,15
+Algodón rama,Lima,4,0.1889,0.3733,15
+Algodón rama,Lima,5,0.3882,0.6192,15
+Algodón rama,Lima,6,0.3062,0.6951,15
+Algodón rama,Lima,7,0.0666,0.3028,15
+Algodón rama,Lima,8,0.0021,0.0279,15
+Algodón rama,Lima,9,0.0,0.0,15
+Algodón rama,Lima,10,0.0,0.0,15
+Algodón rama,Lima,11,0.0,0.0,15
+Algodón rama,Lima,12,0.0,0.0,15
+Algodón rama,Lima Metropolitana,1,0.0,0.0,10
+Algodón rama,Lima Metropolitana,2,0.0,0.0,10
+Algodón rama,Lima Metropolitana,3,0.0,0.0,10
+Algodón rama,Lima Metropolitana,4,0.0,0.0,10
+Algodón rama,Lima Metropolitana,5,0.0,0.0,10
+Algodón rama,Lima Metropolitana,6,1.0,1.0,10
+Algodón rama,Lima Metropolitana,7,0.0,0.0,10
+Algodón rama,Lima Metropolitana,8,0.0,0.0,10
+Algodón rama,Lima Metropolitana,9,0.0,0.0,10
+Algodón rama,Lima Metropolitana,10,0.0,0.0,10
+Algodón rama,Lima Metropolitana,11,0.0,0.0,10
+Algodón rama,Lima Metropolitana,12,0.0,0.0,10
+Algodón rama,Piura,1,0.0,0.0,15
+Algodón rama,Piura,2,0.0,0.0,15
+Algodón rama,Piura,3,0.0,0.0,15
+Algodón rama,Piura,4,0.0,0.0,15
+Algodón rama,Piura,5,0.0014,0.0213,15
+Algodón rama,Piura,6,0.0699,0.6054,15
+Algodón rama,Piura,7,0.1632,0.634,15
+Algodón rama,Piura,8,0.183,0.6187,15
+Algodón rama,Piura,9,0.1587,0.6738,15
+Algodón rama,Piura,10,0.1534,0.4505,15
+Algodón rama,Piura,11,0.1976,0.8134,15
+Algodón rama,Piura,12,0.0728,0.4713,15
+Algodón rama,San Martin,1,0.0,0.0,11
+Algodón rama,San Martin,2,0.0,0.0,11
+Algodón rama,San Martin,3,0.0,0.0,11
+Algodón rama,San Martin,4,0.0,0.0,11
+Algodón rama,San Martin,5,0.0,0.0,11
+Algodón rama,San Martin,6,0.0,0.0,11
+Algodón rama,San Martin,7,0.0292,0.1501,11
+Algodón rama,San Martin,8,0.3733,1.0,11
+Algodón rama,San Martin,9,0.3511,0.9078,11
+Algodón rama,San Martin,10,0.2388,0.7321,11
+Algodón rama,San Martin,11,0.0075,0.0477,11
+Algodón rama,San Martin,12,0.0,0.0,11
+Algodón rama,Ucayali,1,0.0,0.0,15
+Algodón rama,Ucayali,2,0.0,0.0,15
+Algodón rama,Ucayali,3,0.0,0.0,15
+Algodón rama,Ucayali,4,0.0,0.0,15
+Algodón rama,Ucayali,5,0.0,0.0,15
+Algodón rama,Ucayali,6,0.0,0.0,15
+Algodón rama,Ucayali,7,0.0041,0.062,15
+Algodón rama,Ucayali,8,0.0438,0.214,15
+Algodón rama,Ucayali,9,0.2831,0.4106,15
+Algodón rama,Ucayali,10,0.319,0.4532,15
+Algodón rama,Ucayali,11,0.3496,0.7208,15
+Algodón rama,Ucayali,12,0.0004,0.0059,15
+Arroz cáscara,Amazonas,1,0.0704,0.1023,15
+Arroz cáscara,Amazonas,2,0.0684,0.107,15
+Arroz cáscara,Amazonas,3,0.0867,0.1205,15
+Arroz cáscara,Amazonas,4,0.0971,0.1315,15
+Arroz cáscara,Amazonas,5,0.1038,0.1298,15
+Arroz cáscara,Amazonas,6,0.1141,0.1286,15
+Arroz cáscara,Amazonas,7,0.1098,0.1317,15
+Arroz cáscara,Amazonas,8,0.0854,0.1014,15
+Arroz cáscara,Amazonas,9,0.086,0.1108,15
+Arroz cáscara,Amazonas,10,0.0671,0.0987,15
+Arroz cáscara,Amazonas,11,0.055,0.0765,15
+Arroz cáscara,Amazonas,12,0.0563,0.0869,15
+Arroz cáscara,Ancash,1,0.0049,0.0537,15
+Arroz cáscara,Ancash,2,0.1476,0.4605,15
+Arroz cáscara,Ancash,3,0.3211,0.5411,15
+Arroz cáscara,Ancash,4,0.3141,0.4887,15
+Arroz cáscara,Ancash,5,0.1753,0.317,15
+Arroz cáscara,Ancash,6,0.0365,0.2725,15
+Arroz cáscara,Ancash,7,0.0005,0.0072,15
+Arroz cáscara,Ancash,8,0.0,0.0,15
+Arroz cáscara,Ancash,9,0.0,0.0,15
+Arroz cáscara,Ancash,10,0.0,0.0,15
+Arroz cáscara,Ancash,11,0.0,0.0,15
+Arroz cáscara,Ancash,12,0.0,0.0,15
+Arroz cáscara,Arequipa,1,0.0,0.0,15
+Arroz cáscara,Arequipa,2,0.0468,0.0788,15
+Arroz cáscara,Arequipa,3,0.3573,0.4999,15
+Arroz cáscara,Arequipa,4,0.3114,0.4062,15
+Arroz cáscara,Arequipa,5,0.223,0.2853,15
+Arroz cáscara,Arequipa,6,0.0598,0.1031,15
+Arroz cáscara,Arequipa,7,0.0017,0.0246,15
+Arroz cáscara,Arequipa,8,0.0,0.0,15
+Arroz cáscara,Arequipa,9,0.0,0.0,15
+Arroz cáscara,Arequipa,10,0.0,0.0,15
+Arroz cáscara,Arequipa,11,0.0,0.0,15
+Arroz cáscara,Arequipa,12,0.0,0.0,15
+Arroz cáscara,Ayacucho,1,0.0835,0.8889,13
+Arroz cáscara,Ayacucho,2,0.302,1.0,13
+Arroz cáscara,Ayacucho,3,0.2787,0.6205,13
+Arroz cáscara,Ayacucho,4,0.1965,0.4796,13
+Arroz cáscara,Ayacucho,5,0.0824,0.4107,13
+Arroz cáscara,Ayacucho,6,0.0321,0.3187,13
+Arroz cáscara,Ayacucho,7,0.0247,0.2967,13
+Arroz cáscara,Ayacucho,8,0.0,0.0,13
+Arroz cáscara,Ayacucho,9,0.0,0.0,13
+Arroz cáscara,Ayacucho,10,0.0,0.0,13
+Arroz cáscara,Ayacucho,11,0.0,0.0,13
+Arroz cáscara,Ayacucho,12,0.0,0.0,13
+Arroz cáscara,Cajamarca,1,0.0286,0.0477,15
+Arroz cáscara,Cajamarca,2,0.0233,0.0395,15
+Arroz cáscara,Cajamarca,3,0.0769,0.1228,15
+Arroz cáscara,Cajamarca,4,0.1028,0.1521,15
+Arroz cáscara,Cajamarca,5,0.1321,0.1909,15
+Arroz cáscara,Cajamarca,6,0.1331,0.1914,15
+Arroz cáscara,Cajamarca,7,0.0645,0.0909,15
+Arroz cáscara,Cajamarca,8,0.0343,0.0778,15
+Arroz cáscara,Cajamarca,9,0.0937,0.1407,15
+Arroz cáscara,Cajamarca,10,0.1384,0.1876,15
+Arroz cáscara,Cajamarca,11,0.0992,0.1693,15
+Arroz cáscara,Cajamarca,12,0.073,0.1558,15
+Arroz cáscara,Cusco,1,0.037,0.1882,15
+Arroz cáscara,Cusco,2,0.0615,0.1435,15
+Arroz cáscara,Cusco,3,0.0618,0.1736,15
+Arroz cáscara,Cusco,4,0.235,0.3925,15
+Arroz cáscara,Cusco,5,0.3968,0.5696,15
+Arroz cáscara,Cusco,6,0.167,0.3469,15
+Arroz cáscara,Cusco,7,0.0192,0.1817,15
+Arroz cáscara,Cusco,8,0.0031,0.0359,15
+Arroz cáscara,Cusco,9,0.0,0.0,15
+Arroz cáscara,Cusco,10,0.0158,0.2366,15
+Arroz cáscara,Cusco,11,0.0015,0.0224,15
+Arroz cáscara,Cusco,12,0.0012,0.0168,15
+Arroz cáscara,Huanuco,1,0.0895,0.1192,15
+Arroz cáscara,Huanuco,2,0.1265,0.1749,15
+Arroz cáscara,Huanuco,3,0.116,0.1471,15
+Arroz cáscara,Huanuco,4,0.0944,0.1252,15
+Arroz cáscara,Huanuco,5,0.0702,0.0964,15
+Arroz cáscara,Huanuco,6,0.0569,0.0895,15
+Arroz cáscara,Huanuco,7,0.0668,0.0946,15
+Arroz cáscara,Huanuco,8,0.0877,0.1236,15
+Arroz cáscara,Huanuco,9,0.0815,0.112,15
+Arroz cáscara,Huanuco,10,0.0697,0.1257,15
+Arroz cáscara,Huanuco,11,0.0653,0.1087,15
+Arroz cáscara,Huanuco,12,0.0754,0.1385,15
+Arroz cáscara,Junin,1,0.0254,0.0992,15
+Arroz cáscara,Junin,2,0.0457,0.1181,15
+Arroz cáscara,Junin,3,0.082,0.1609,15
+Arroz cáscara,Junin,4,0.1658,0.2443,15
+Arroz cáscara,Junin,5,0.2596,0.3491,15
+Arroz cáscara,Junin,6,0.2251,0.3395,15
+Arroz cáscara,Junin,7,0.0866,0.1701,15
+Arroz cáscara,Junin,8,0.0267,0.0618,15
+Arroz cáscara,Junin,9,0.025,0.0434,15
+Arroz cáscara,Junin,10,0.0221,0.0489,15
+Arroz cáscara,Junin,11,0.0227,0.0602,15
+Arroz cáscara,Junin,12,0.0134,0.066,15
+Arroz cáscara,La Libertad,1,0.0063,0.029,15
+Arroz cáscara,La Libertad,2,0.0252,0.0552,15
+Arroz cáscara,La Libertad,3,0.1029,0.2567,15
+Arroz cáscara,La Libertad,4,0.3151,0.568,15
+Arroz cáscara,La Libertad,5,0.3665,0.6541,15
+Arroz cáscara,La Libertad,6,0.1708,0.773,15
+Arroz cáscara,La Libertad,7,0.0118,0.0809,15
+Arroz cáscara,La Libertad,8,0.0005,0.0022,15
+Arroz cáscara,La Libertad,9,0.0,0.0,15
+Arroz cáscara,La Libertad,10,0.0,0.0,15
+Arroz cáscara,La Libertad,11,0.0003,0.0023,15
+Arroz cáscara,La Libertad,12,0.0005,0.0018,15
+Arroz cáscara,Lambayeque,1,0.0365,0.0651,15
+Arroz cáscara,Lambayeque,2,0.0193,0.0448,15
+Arroz cáscara,Lambayeque,3,0.0001,0.0006,15
+Arroz cáscara,Lambayeque,4,0.004,0.0186,15
+Arroz cáscara,Lambayeque,5,0.2429,0.4906,15
+Arroz cáscara,Lambayeque,6,0.4626,0.6648,15
+Arroz cáscara,Lambayeque,7,0.2102,0.5855,15
+Arroz cáscara,Lambayeque,8,0.0082,0.0244,15
+Arroz cáscara,Lambayeque,9,0.0001,0.0012,15
+Arroz cáscara,Lambayeque,10,0.0,0.0,15
+Arroz cáscara,Lambayeque,11,0.0001,0.0015,15
+Arroz cáscara,Lambayeque,12,0.0161,0.0694,15
+Arroz cáscara,Loreto,1,0.0819,0.1016,15
+Arroz cáscara,Loreto,2,0.0471,0.0654,15
+Arroz cáscara,Loreto,3,0.0296,0.0375,15
+Arroz cáscara,Loreto,4,0.0158,0.0334,15
+Arroz cáscara,Loreto,5,0.0075,0.0189,15
+Arroz cáscara,Loreto,6,0.0082,0.0151,15
+Arroz cáscara,Loreto,7,0.0318,0.039,15
+Arroz cáscara,Loreto,8,0.0719,0.0877,15
+Arroz cáscara,Loreto,9,0.1697,0.1998,15
+Arroz cáscara,Loreto,10,0.2477,0.308,15
+Arroz cáscara,Loreto,11,0.1312,0.1447,15
+Arroz cáscara,Loreto,12,0.1577,0.1808,15
+Arroz cáscara,Madre de Dios,1,0.1448,0.2152,15
+Arroz cáscara,Madre de Dios,2,0.3031,0.4963,15
+Arroz cáscara,Madre de Dios,3,0.2979,0.5341,15
+Arroz cáscara,Madre de Dios,4,0.0842,0.1481,15
+Arroz cáscara,Madre de Dios,5,0.0244,0.0902,15
+Arroz cáscara,Madre de Dios,6,0.0201,0.0765,15
+Arroz cáscara,Madre de Dios,7,0.0236,0.0683,15
+Arroz cáscara,Madre de Dios,8,0.0262,0.0829,15
+Arroz cáscara,Madre de Dios,9,0.0237,0.0625,15
+Arroz cáscara,Madre de Dios,10,0.0188,0.0572,15
+Arroz cáscara,Madre de Dios,11,0.0185,0.0838,15
+Arroz cáscara,Madre de Dios,12,0.0146,0.0674,15
+Arroz cáscara,Pasco,1,0.1711,0.2647,15
+Arroz cáscara,Pasco,2,0.2177,0.302,15
+Arroz cáscara,Pasco,3,0.1117,0.2677,15
+Arroz cáscara,Pasco,4,0.0543,0.1163,15
+Arroz cáscara,Pasco,5,0.0465,0.1417,15
+Arroz cáscara,Pasco,6,0.0698,0.1405,15
+Arroz cáscara,Pasco,7,0.108,0.1658,15
+Arroz cáscara,Pasco,8,0.0795,0.1263,15
+Arroz cáscara,Pasco,9,0.023,0.0841,15
+Arroz cáscara,Pasco,10,0.0112,0.0442,15
+Arroz cáscara,Pasco,11,0.0098,0.041,15
+Arroz cáscara,Pasco,12,0.0973,0.1874,15
+Arroz cáscara,Piura,1,0.1302,0.2076,15
+Arroz cáscara,Piura,2,0.023,0.0696,15
+Arroz cáscara,Piura,3,0.0,0.0,15
+Arroz cáscara,Piura,4,0.0002,0.0017,15
+Arroz cáscara,Piura,5,0.0601,0.3528,15
+Arroz cáscara,Piura,6,0.3063,0.4704,15
+Arroz cáscara,Piura,7,0.2506,0.3997,15
+Arroz cáscara,Piura,8,0.029,0.1661,15
+Arroz cáscara,Piura,9,0.0002,0.0025,15
+Arroz cáscara,Piura,10,0.0045,0.0665,15
+Arroz cáscara,Piura,11,0.0216,0.0807,15
+Arroz cáscara,Piura,12,0.1744,0.2938,15
+Arroz cáscara,Puno,1,0.0,0.0,15
+Arroz cáscara,Puno,2,0.0,0.0,15
+Arroz cáscara,Puno,3,0.0163,0.1035,15
+Arroz cáscara,Puno,4,0.5027,0.939,15
+Arroz cáscara,Puno,5,0.3904,1.0,15
+Arroz cáscara,Puno,6,0.0906,0.3935,15
+Arroz cáscara,Puno,7,0.0,0.0,15
+Arroz cáscara,Puno,8,0.0,0.0,15
+Arroz cáscara,Puno,9,0.0,0.0,15
+Arroz cáscara,Puno,10,0.0,0.0,15
+Arroz cáscara,Puno,11,0.0,0.0,15
+Arroz cáscara,Puno,12,0.0,0.0,15
+Arroz cáscara,San Martin,1,0.0726,0.107,15
+Arroz cáscara,San Martin,2,0.0756,0.0872,15
+Arroz cáscara,San Martin,3,0.0749,0.0924,15
+Arroz cáscara,San Martin,4,0.0853,0.1099,15
+Arroz cáscara,San Martin,5,0.0935,0.1083,15
+Arroz cáscara,San Martin,6,0.0999,0.1185,15
+Arroz cáscara,San Martin,7,0.0852,0.0962,15
+Arroz cáscara,San Martin,8,0.0741,0.0826,15
+Arroz cáscara,San Martin,9,0.0704,0.0815,15
+Arroz cáscara,San Martin,10,0.0796,0.1027,15
+Arroz cáscara,San Martin,11,0.0976,0.1208,15
+Arroz cáscara,San Martin,12,0.0912,0.1182,15
+Arroz cáscara,Tumbes,1,0.0992,0.2432,15
+Arroz cáscara,Tumbes,2,0.0014,0.0133,15
+Arroz cáscara,Tumbes,3,0.0,0.0,15
+Arroz cáscara,Tumbes,4,0.0,0.0,15
+Arroz cáscara,Tumbes,5,0.0434,0.2121,15
+Arroz cáscara,Tumbes,6,0.3254,0.4006,15
+Arroz cáscara,Tumbes,7,0.1075,0.2395,15
+Arroz cáscara,Tumbes,8,0.0058,0.0492,15
+Arroz cáscara,Tumbes,9,0.0009,0.0074,15
+Arroz cáscara,Tumbes,10,0.0,0.0,15
+Arroz cáscara,Tumbes,11,0.0496,0.223,15
+Arroz cáscara,Tumbes,12,0.3669,0.4665,15
+Arroz cáscara,Ucayali,1,0.0833,0.1443,15
+Arroz cáscara,Ucayali,2,0.0844,0.1236,15
+Arroz cáscara,Ucayali,3,0.0785,0.153,15
+Arroz cáscara,Ucayali,4,0.0732,0.1408,15
+Arroz cáscara,Ucayali,5,0.0574,0.1267,15
+Arroz cáscara,Ucayali,6,0.0438,0.0871,15
+Arroz cáscara,Ucayali,7,0.0515,0.1085,15
+Arroz cáscara,Ucayali,8,0.0889,0.1561,15
+Arroz cáscara,Ucayali,9,0.1679,0.264,15
+Arroz cáscara,Ucayali,10,0.1174,0.2187,15
+Arroz cáscara,Ucayali,11,0.0766,0.1416,15
+Arroz cáscara,Ucayali,12,0.0771,0.1342,15
+Arándano,Ancash,1,0.0409,0.0995,9
+Arándano,Ancash,2,0.0342,0.0736,9
+Arándano,Ancash,3,0.0342,0.0775,9
+Arándano,Ancash,4,0.032,0.0685,9
+Arándano,Ancash,5,0.032,0.0711,9
+Arándano,Ancash,6,0.0351,0.1304,9
+Arándano,Ancash,7,0.05,0.1087,9
+Arándano,Ancash,8,0.1117,0.1763,9
+Arándano,Ancash,9,0.1737,0.2733,9
+Arándano,Ancash,10,0.1821,0.294,9
+Arándano,Ancash,11,0.1629,0.2551,9
+Arándano,Ancash,12,0.1111,0.2066,9
+Arándano,Ica,1,0.0242,0.0997,10
+Arándano,Ica,2,0.0093,0.0432,10
+Arándano,Ica,3,0.0047,0.036,10
+Arándano,Ica,4,0.0065,0.048,10
+Arándano,Ica,5,0.0012,0.0103,10
+Arándano,Ica,6,0.0068,0.0273,10
+Arándano,Ica,7,0.1141,1.0,10
+Arándano,Ica,8,0.0951,0.174,10
+Arándano,Ica,9,0.2174,0.357,10
+Arándano,Ica,10,0.2441,0.3429,10
+Arándano,Ica,11,0.1919,0.3148,10
+Arándano,Ica,12,0.0848,0.2332,10
+Arándano,La Libertad,1,0.0526,0.103,11
+Arándano,La Libertad,2,0.0248,0.0509,11
+Arándano,La Libertad,3,0.0276,0.1889,11
+Arándano,La Libertad,4,0.0033,0.0136,11
+Arándano,La Libertad,5,0.01,0.0945,11
+Arándano,La Libertad,6,0.0039,0.013,11
+Arándano,La Libertad,7,0.0396,0.2417,11
+Arándano,La Libertad,8,0.0793,0.1343,11
+Arándano,La Libertad,9,0.2092,0.4118,11
+Arándano,La Libertad,10,0.2301,0.3042,11
+Arándano,La Libertad,11,0.179,0.2565,11
+Arándano,La Libertad,12,0.1408,0.2938,11
+Arándano,Lambayeque,1,0.0554,0.125,8
+Arándano,Lambayeque,2,0.0241,0.0489,8
+Arándano,Lambayeque,3,0.0053,0.0126,8
+Arándano,Lambayeque,4,0.0015,0.0061,8
+Arándano,Lambayeque,5,0.0012,0.0057,8
+Arándano,Lambayeque,6,0.0066,0.017,8
+Arándano,Lambayeque,7,0.0298,0.0606,8
+Arándano,Lambayeque,8,0.0998,0.1711,8
+Arándano,Lambayeque,9,0.1738,0.3074,8
+Arándano,Lambayeque,10,0.2634,0.3423,8
+Arándano,Lambayeque,11,0.224,0.2841,8
+Arándano,Lambayeque,12,0.115,0.1705,8
+Arándano,Lima,1,0.0337,0.1181,11
+Arándano,Lima,2,0.0159,0.0722,11
+Arándano,Lima,3,0.0299,0.2616,11
+Arándano,Lima,4,0.0033,0.0118,11
+Arándano,Lima,5,0.0021,0.0066,11
+Arándano,Lima,6,0.0053,0.0176,11
+Arándano,Lima,7,0.0319,0.1487,11
+Arándano,Lima,8,0.0667,0.13,11
+Arándano,Lima,9,0.2036,0.3383,11
+Arándano,Lima,10,0.2387,0.3358,11
+Arándano,Lima,11,0.2178,0.4286,11
+Arándano,Lima,12,0.1511,0.2857,11
+Arándano,Moquegua,1,0.0,0.0,6
+Arándano,Moquegua,2,0.0234,0.1402,6
+Arándano,Moquegua,3,0.0415,0.2492,6
+Arándano,Moquegua,4,0.0363,0.2181,6
+Arándano,Moquegua,5,0.0208,0.1246,6
+Arándano,Moquegua,6,0.0,0.0,6
+Arándano,Moquegua,7,0.0609,0.1658,6
+Arándano,Moquegua,8,0.2697,0.4953,6
+Arándano,Moquegua,9,0.3141,0.5973,6
+Arándano,Moquegua,10,0.1671,0.315,6
+Arándano,Moquegua,11,0.0623,0.1505,6
+Arándano,Moquegua,12,0.0039,0.0236,6
+Arándano,Piura,1,0.0407,0.0906,6
+Arándano,Piura,2,0.0185,0.051,6
+Arándano,Piura,3,0.015,0.0454,6
+Arándano,Piura,4,0.0014,0.0086,6
+Arándano,Piura,5,0.0069,0.0386,6
+Arándano,Piura,6,0.0119,0.0588,6
+Arándano,Piura,7,0.0311,0.0447,6
+Arándano,Piura,8,0.1176,0.1966,6
+Arándano,Piura,9,0.159,0.2456,6
+Arándano,Piura,10,0.2285,0.307,6
+Arándano,Piura,11,0.2256,0.3083,6
+Arándano,Piura,12,0.1439,0.2351,6
+Cacao en grano,Amazonas,1,0.0535,0.0848,15
+Cacao en grano,Amazonas,2,0.0575,0.086,15
+Cacao en grano,Amazonas,3,0.073,0.1076,15
+Cacao en grano,Amazonas,4,0.0951,0.1512,15
+Cacao en grano,Amazonas,5,0.108,0.1828,15
+Cacao en grano,Amazonas,6,0.1176,0.1581,15
+Cacao en grano,Amazonas,7,0.1135,0.1571,15
+Cacao en grano,Amazonas,8,0.0909,0.1226,15
+Cacao en grano,Amazonas,9,0.0969,0.3524,15
+Cacao en grano,Amazonas,10,0.0613,0.09,15
+Cacao en grano,Amazonas,11,0.0557,0.0877,15
+Cacao en grano,Amazonas,12,0.077,0.2144,15
+Cacao en grano,Ayacucho,1,0.0032,0.0106,15
+Cacao en grano,Ayacucho,2,0.005,0.0159,15
+Cacao en grano,Ayacucho,3,0.0233,0.0542,15
+Cacao en grano,Ayacucho,4,0.0845,0.1218,15
+Cacao en grano,Ayacucho,5,0.2115,0.3025,15
+Cacao en grano,Ayacucho,6,0.2761,0.3722,15
+Cacao en grano,Ayacucho,7,0.1941,0.2761,15
+Cacao en grano,Ayacucho,8,0.1031,0.1829,15
+Cacao en grano,Ayacucho,9,0.0512,0.1756,15
+Cacao en grano,Ayacucho,10,0.0251,0.1248,15
+Cacao en grano,Ayacucho,11,0.013,0.0801,15
+Cacao en grano,Ayacucho,12,0.0099,0.0829,15
+Cacao en grano,Cajamarca,1,0.1018,0.1275,15
+Cacao en grano,Cajamarca,2,0.1113,0.1266,15
+Cacao en grano,Cajamarca,3,0.1181,0.1609,15
+Cacao en grano,Cajamarca,4,0.1229,0.1613,15
+Cacao en grano,Cajamarca,5,0.1052,0.1489,15
+Cacao en grano,Cajamarca,6,0.0917,0.1237,15
+Cacao en grano,Cajamarca,7,0.0668,0.0996,15
+Cacao en grano,Cajamarca,8,0.0491,0.072,15
+Cacao en grano,Cajamarca,9,0.0431,0.0716,15
+Cacao en grano,Cajamarca,10,0.0494,0.0676,15
+Cacao en grano,Cajamarca,11,0.0671,0.0857,15
+Cacao en grano,Cajamarca,12,0.0735,0.0909,15
+Cacao en grano,Cusco,1,0.1347,0.168,15
+Cacao en grano,Cusco,2,0.1559,0.1911,15
+Cacao en grano,Cusco,3,0.1025,0.1563,15
+Cacao en grano,Cusco,4,0.0985,0.1443,15
+Cacao en grano,Cusco,5,0.16,0.196,15
+Cacao en grano,Cusco,6,0.1091,0.1566,15
+Cacao en grano,Cusco,7,0.044,0.1019,15
+Cacao en grano,Cusco,8,0.0265,0.099,15
+Cacao en grano,Cusco,9,0.0107,0.0335,15
+Cacao en grano,Cusco,10,0.006,0.0149,15
+Cacao en grano,Cusco,11,0.0517,0.0746,15
+Cacao en grano,Cusco,12,0.1005,0.1402,15
+Cacao en grano,Huanuco,1,0.0665,0.077,15
+Cacao en grano,Huanuco,2,0.0732,0.0819,15
+Cacao en grano,Huanuco,3,0.0857,0.1005,15
+Cacao en grano,Huanuco,4,0.0976,0.1234,15
+Cacao en grano,Huanuco,5,0.1191,0.1562,15
+Cacao en grano,Huanuco,6,0.1239,0.17,15
+Cacao en grano,Huanuco,7,0.1044,0.1269,15
+Cacao en grano,Huanuco,8,0.0804,0.0906,15
+Cacao en grano,Huanuco,9,0.0705,0.0804,15
+Cacao en grano,Huanuco,10,0.0626,0.0768,15
+Cacao en grano,Huanuco,11,0.0593,0.0741,15
+Cacao en grano,Huanuco,12,0.0568,0.0743,15
+Cacao en grano,Junin,1,0.0169,0.0253,15
+Cacao en grano,Junin,2,0.0274,0.0407,15
+Cacao en grano,Junin,3,0.0799,0.0864,15
+Cacao en grano,Junin,4,0.1223,0.135,15
+Cacao en grano,Junin,5,0.1621,0.1952,15
+Cacao en grano,Junin,6,0.1722,0.1992,15
+Cacao en grano,Junin,7,0.1536,0.1704,15
+Cacao en grano,Junin,8,0.0939,0.1103,15
+Cacao en grano,Junin,9,0.0715,0.0822,15
+Cacao en grano,Junin,10,0.0454,0.0566,15
+Cacao en grano,Junin,11,0.0298,0.0426,15
+Cacao en grano,Junin,12,0.025,0.0372,15
+Cacao en grano,La Libertad,1,0.0,0.0,15
+Cacao en grano,La Libertad,2,0.0234,0.0502,15
+Cacao en grano,La Libertad,3,0.1865,0.2479,15
+Cacao en grano,La Libertad,4,0.393,0.4455,15
+Cacao en grano,La Libertad,5,0.2832,0.3266,15
+Cacao en grano,La Libertad,6,0.114,0.1225,15
+Cacao en grano,La Libertad,7,0.0,0.0,15
+Cacao en grano,La Libertad,8,0.0,0.0,15
+Cacao en grano,La Libertad,9,0.0,0.0,15
+Cacao en grano,La Libertad,10,0.0,0.0,15
+Cacao en grano,La Libertad,11,0.0,0.0,15
+Cacao en grano,La Libertad,12,0.0,0.0,15
+Cacao en grano,Lambayeque,1,0.0236,0.1117,15
+Cacao en grano,Lambayeque,2,0.0513,0.3333,15
+Cacao en grano,Lambayeque,3,0.0754,0.2857,15
+Cacao en grano,Lambayeque,4,0.1735,0.4286,15
+Cacao en grano,Lambayeque,5,0.058,0.1938,15
+Cacao en grano,Lambayeque,6,0.0719,0.45,15
+Cacao en grano,Lambayeque,7,0.1922,0.7273,15
+Cacao en grano,Lambayeque,8,0.1062,0.5909,15
+Cacao en grano,Lambayeque,9,0.0539,0.2222,15
+Cacao en grano,Lambayeque,10,0.0773,0.3,15
+Cacao en grano,Lambayeque,11,0.081,0.3077,15
+Cacao en grano,Lambayeque,12,0.0355,0.4054,15
+Cacao en grano,Loreto,1,0.054,0.0848,15
+Cacao en grano,Loreto,2,0.0623,0.1003,15
+Cacao en grano,Loreto,3,0.0395,0.0549,15
+Cacao en grano,Loreto,4,0.0285,0.0554,15
+Cacao en grano,Loreto,5,0.0118,0.0332,15
+Cacao en grano,Loreto,6,0.0046,0.0097,15
+Cacao en grano,Loreto,7,0.0183,0.0285,15
+Cacao en grano,Loreto,8,0.0652,0.125,15
+Cacao en grano,Loreto,9,0.0949,0.1365,15
+Cacao en grano,Loreto,10,0.1305,0.1719,15
+Cacao en grano,Loreto,11,0.1836,0.2445,15
+Cacao en grano,Loreto,12,0.3068,0.3713,15
+Cacao en grano,Madre de Dios,1,0.0237,0.0649,15
+Cacao en grano,Madre de Dios,2,0.042,0.1502,15
+Cacao en grano,Madre de Dios,3,0.0583,0.1149,15
+Cacao en grano,Madre de Dios,4,0.0874,0.1378,15
+Cacao en grano,Madre de Dios,5,0.1522,0.2092,15
+Cacao en grano,Madre de Dios,6,0.1566,0.2411,15
+Cacao en grano,Madre de Dios,7,0.157,0.2896,15
+Cacao en grano,Madre de Dios,8,0.1345,0.2054,15
+Cacao en grano,Madre de Dios,9,0.0787,0.1291,15
+Cacao en grano,Madre de Dios,10,0.0448,0.0774,15
+Cacao en grano,Madre de Dios,11,0.0311,0.1042,15
+Cacao en grano,Madre de Dios,12,0.0339,0.0999,15
+Cacao en grano,Pasco,1,0.047,0.0843,15
+Cacao en grano,Pasco,2,0.0432,0.1049,15
+Cacao en grano,Pasco,3,0.0513,0.123,15
+Cacao en grano,Pasco,4,0.0636,0.1153,15
+Cacao en grano,Pasco,5,0.0875,0.1607,15
+Cacao en grano,Pasco,6,0.1063,0.202,15
+Cacao en grano,Pasco,7,0.1291,0.3025,15
+Cacao en grano,Pasco,8,0.0978,0.1749,15
+Cacao en grano,Pasco,9,0.09,0.224,15
+Cacao en grano,Pasco,10,0.1038,0.2082,15
+Cacao en grano,Pasco,11,0.0897,0.1562,15
+Cacao en grano,Pasco,12,0.0906,0.2292,15
+Cacao en grano,Piura,1,0.0342,0.1227,15
+Cacao en grano,Piura,2,0.0891,0.3721,15
+Cacao en grano,Piura,3,0.0838,0.2597,15
+Cacao en grano,Piura,4,0.1382,0.2821,15
+Cacao en grano,Piura,5,0.1615,0.4233,15
+Cacao en grano,Piura,6,0.1612,0.2935,15
+Cacao en grano,Piura,7,0.1285,0.3503,15
+Cacao en grano,Piura,8,0.0542,0.1934,15
+Cacao en grano,Piura,9,0.0243,0.0697,15
+Cacao en grano,Piura,10,0.0257,0.0823,15
+Cacao en grano,Piura,11,0.0315,0.1239,15
+Cacao en grano,Piura,12,0.0679,0.265,15
+Cacao en grano,Puno,1,0.0,0.0,15
+Cacao en grano,Puno,2,0.0,0.0,15
+Cacao en grano,Puno,3,0.0,0.0,15
+Cacao en grano,Puno,4,0.1147,0.5,15
+Cacao en grano,Puno,5,0.2169,0.4161,15
+Cacao en grano,Puno,6,0.3194,0.496,15
+Cacao en grano,Puno,7,0.2049,0.4029,15
+Cacao en grano,Puno,8,0.1394,0.3054,15
+Cacao en grano,Puno,9,0.0037,0.0334,15
+Cacao en grano,Puno,10,0.0011,0.0167,15
+Cacao en grano,Puno,11,0.0,0.0,15
+Cacao en grano,Puno,12,0.0,0.0,15
+Cacao en grano,San Martin,1,0.0641,0.0797,15
+Cacao en grano,San Martin,2,0.0701,0.0817,15
+Cacao en grano,San Martin,3,0.0714,0.0912,15
+Cacao en grano,San Martin,4,0.0809,0.1193,15
+Cacao en grano,San Martin,5,0.097,0.1379,15
+Cacao en grano,San Martin,6,0.1026,0.1248,15
+Cacao en grano,San Martin,7,0.0908,0.1088,15
+Cacao en grano,San Martin,8,0.0827,0.098,15
+Cacao en grano,San Martin,9,0.0803,0.0951,15
+Cacao en grano,San Martin,10,0.0835,0.1067,15
+Cacao en grano,San Martin,11,0.0887,0.1106,15
+Cacao en grano,San Martin,12,0.0879,0.1205,15
+Cacao en grano,Tumbes,1,0.0867,0.1076,15
+Cacao en grano,Tumbes,2,0.0887,0.1187,15
+Cacao en grano,Tumbes,3,0.0931,0.1097,15
+Cacao en grano,Tumbes,4,0.0806,0.1121,15
+Cacao en grano,Tumbes,5,0.0845,0.1219,15
+Cacao en grano,Tumbes,6,0.0753,0.0995,15
+Cacao en grano,Tumbes,7,0.0792,0.1009,15
+Cacao en grano,Tumbes,8,0.0746,0.0892,15
+Cacao en grano,Tumbes,9,0.0809,0.1506,15
+Cacao en grano,Tumbes,10,0.0764,0.099,15
+Cacao en grano,Tumbes,11,0.0869,0.1073,15
+Cacao en grano,Tumbes,12,0.0931,0.1554,15
+Cacao en grano,Ucayali,1,0.0437,0.0714,15
+Cacao en grano,Ucayali,2,0.0451,0.0732,15
+Cacao en grano,Ucayali,3,0.0544,0.094,15
+Cacao en grano,Ucayali,4,0.0771,0.139,15
+Cacao en grano,Ucayali,5,0.1031,0.1767,15
+Cacao en grano,Ucayali,6,0.1162,0.1972,15
+Cacao en grano,Ucayali,7,0.1153,0.2,15
+Cacao en grano,Ucayali,8,0.1072,0.2506,15
+Cacao en grano,Ucayali,9,0.105,0.2583,15
+Cacao en grano,Ucayali,10,0.0888,0.1601,15
+Cacao en grano,Ucayali,11,0.0711,0.1146,15
+Cacao en grano,Ucayali,12,0.0729,0.1276,15
+Café en grano,Amazonas,1,0.0,0.0,15
+Café en grano,Amazonas,2,0.0003,0.0027,15
+Café en grano,Amazonas,3,0.0059,0.0398,15
+Café en grano,Amazonas,4,0.1352,0.1663,15
+Café en grano,Amazonas,5,0.2179,0.2693,15
+Café en grano,Amazonas,6,0.2481,0.3112,15
+Café en grano,Amazonas,7,0.2128,0.2771,15
+Café en grano,Amazonas,8,0.1113,0.1465,15
+Café en grano,Amazonas,9,0.0483,0.0745,15
+Café en grano,Amazonas,10,0.0149,0.05,15
+Café en grano,Amazonas,11,0.004,0.0155,15
+Café en grano,Amazonas,12,0.0011,0.0125,15
+Café en grano,Ayacucho,1,0.0004,0.0018,15
+Café en grano,Ayacucho,2,0.0041,0.0112,15
+Café en grano,Ayacucho,3,0.028,0.0608,15
+Café en grano,Ayacucho,4,0.1225,0.2367,15
+Café en grano,Ayacucho,5,0.2597,0.3956,15
+Café en grano,Ayacucho,6,0.2567,0.3484,15
+Café en grano,Ayacucho,7,0.1571,0.4185,15
+Café en grano,Ayacucho,8,0.0778,0.1721,15
+Café en grano,Ayacucho,9,0.0479,0.2094,15
+Café en grano,Ayacucho,10,0.0226,0.1571,15
+Café en grano,Ayacucho,11,0.0137,0.1351,15
+Café en grano,Ayacucho,12,0.0096,0.1128,15
+Café en grano,Cajamarca,1,0.0,0.0,15
+Café en grano,Cajamarca,2,0.0,0.0,15
+Café en grano,Cajamarca,3,0.0421,0.0567,15
+Café en grano,Cajamarca,4,0.0633,0.0795,15
+Café en grano,Cajamarca,5,0.1392,0.1587,15
+Café en grano,Cajamarca,6,0.2803,0.3012,15
+Café en grano,Cajamarca,7,0.2563,0.2929,15
+Café en grano,Cajamarca,8,0.1271,0.1546,15
+Café en grano,Cajamarca,9,0.0624,0.0786,15
+Café en grano,Cajamarca,10,0.0291,0.0381,15
+Café en grano,Cajamarca,11,0.0002,0.0008,15
+Café en grano,Cajamarca,12,0.0001,0.0005,15
+Café en grano,Cusco,1,0.0003,0.0027,15
+Café en grano,Cusco,2,0.0045,0.0161,15
+Café en grano,Cusco,3,0.0586,0.1187,15
+Café en grano,Cusco,4,0.1334,0.1906,15
+Café en grano,Cusco,5,0.276,0.3177,15
+Café en grano,Cusco,6,0.3182,0.3733,15
+Café en grano,Cusco,7,0.1405,0.2242,15
+Café en grano,Cusco,8,0.0661,0.1095,15
+Café en grano,Cusco,9,0.0016,0.0072,15
+Café en grano,Cusco,10,0.0007,0.0032,15
+Café en grano,Cusco,11,0.0001,0.0006,15
+Café en grano,Cusco,12,0.0,0.0,15
+Café en grano,Huancavelica,1,0.0,0.0,14
+Café en grano,Huancavelica,2,0.0,0.0,14
+Café en grano,Huancavelica,3,0.0,0.0,14
+Café en grano,Huancavelica,4,0.0858,0.1734,14
+Café en grano,Huancavelica,5,0.4281,0.782,14
+Café en grano,Huancavelica,6,0.3185,0.7377,14
+Café en grano,Huancavelica,7,0.1118,0.4589,14
+Café en grano,Huancavelica,8,0.0359,0.176,14
+Café en grano,Huancavelica,9,0.0,0.0,14
+Café en grano,Huancavelica,10,0.0,0.0,14
+Café en grano,Huancavelica,11,0.0,0.0,14
+Café en grano,Huancavelica,12,0.02,0.0784,14
+Café en grano,Huanuco,1,0.0178,0.0248,15
+Café en grano,Huanuco,2,0.0394,0.046,15
+Café en grano,Huanuco,3,0.0772,0.0905,15
+Café en grano,Huanuco,4,0.1254,0.164,15
+Café en grano,Huanuco,5,0.1891,0.2478,15
+Café en grano,Huanuco,6,0.2146,0.2667,15
+Café en grano,Huanuco,7,0.168,0.1792,15
+Café en grano,Huanuco,8,0.0828,0.108,15
+Café en grano,Huanuco,9,0.0445,0.0702,15
+Café en grano,Huanuco,10,0.0231,0.0432,15
+Café en grano,Huanuco,11,0.0129,0.0267,15
+Café en grano,Huanuco,12,0.0054,0.0138,15
+Café en grano,Junin,1,0.0013,0.0072,15
+Café en grano,Junin,2,0.0406,0.0551,15
+Café en grano,Junin,3,0.112,0.1502,15
+Café en grano,Junin,4,0.2081,0.2577,15
+Café en grano,Junin,5,0.2501,0.2966,15
+Café en grano,Junin,6,0.2201,0.2471,15
+Café en grano,Junin,7,0.1127,0.1353,15
+Café en grano,Junin,8,0.0503,0.0777,15
+Café en grano,Junin,9,0.0049,0.0155,15
+Café en grano,Junin,10,0.0,0.0,15
+Café en grano,Junin,11,0.0,0.0,15
+Café en grano,Junin,12,0.0,0.0,15
+Café en grano,La Libertad,1,0.019,0.035,15
+Café en grano,La Libertad,2,0.0364,0.0696,15
+Café en grano,La Libertad,3,0.0752,0.0972,15
+Café en grano,La Libertad,4,0.1786,0.204,15
+Café en grano,La Libertad,5,0.2234,0.2731,15
+Café en grano,La Libertad,6,0.1669,0.188,15
+Café en grano,La Libertad,7,0.2186,0.2969,15
+Café en grano,La Libertad,8,0.0788,0.0956,15
+Café en grano,La Libertad,9,0.0022,0.0118,15
+Café en grano,La Libertad,10,0.001,0.005,15
+Café en grano,La Libertad,11,0.0,0.0,15
+Café en grano,La Libertad,12,0.0,0.0,15
+Café en grano,Lambayeque,1,0.0008,0.0119,15
+Café en grano,Lambayeque,2,0.0035,0.0177,15
+Café en grano,Lambayeque,3,0.0072,0.0371,15
+Café en grano,Lambayeque,4,0.007,0.0281,15
+Café en grano,Lambayeque,5,0.0671,0.3458,15
+Café en grano,Lambayeque,6,0.3033,0.6529,15
+Café en grano,Lambayeque,7,0.2592,0.3753,15
+Café en grano,Lambayeque,8,0.1603,0.3535,15
+Café en grano,Lambayeque,9,0.0857,0.2883,15
+Café en grano,Lambayeque,10,0.0594,0.1738,15
+Café en grano,Lambayeque,11,0.0303,0.1498,15
+Café en grano,Lambayeque,12,0.0162,0.0874,15
+Café en grano,Loreto,1,0.0,0.0,15
+Café en grano,Loreto,2,0.0,0.0,15
+Café en grano,Loreto,3,0.0,0.0,15
+Café en grano,Loreto,4,0.0,0.0,15
+Café en grano,Loreto,5,0.0,0.0,15
+Café en grano,Loreto,6,0.007,0.0411,15
+Café en grano,Loreto,7,0.0455,0.144,15
+Café en grano,Loreto,8,0.079,0.1029,15
+Café en grano,Loreto,9,0.1042,0.1404,15
+Café en grano,Loreto,10,0.0724,0.1927,15
+Café en grano,Loreto,11,0.2108,0.2813,15
+Café en grano,Loreto,12,0.4811,0.5809,15
+Café en grano,Madre de Dios,1,0.0037,0.0197,15
+Café en grano,Madre de Dios,2,0.0132,0.0539,15
+Café en grano,Madre de Dios,3,0.1605,0.4286,15
+Café en grano,Madre de Dios,4,0.3356,0.6091,15
+Café en grano,Madre de Dios,5,0.2933,0.5173,15
+Café en grano,Madre de Dios,6,0.1217,0.3426,15
+Café en grano,Madre de Dios,7,0.0596,0.2783,15
+Café en grano,Madre de Dios,8,0.0084,0.0527,15
+Café en grano,Madre de Dios,9,0.0,0.0,15
+Café en grano,Madre de Dios,10,0.0,0.0,15
+Café en grano,Madre de Dios,11,0.0,0.0,15
+Café en grano,Madre de Dios,12,0.0041,0.061,15
+Café en grano,Pasco,1,0.0,0.0,15
+Café en grano,Pasco,2,0.0,0.0,15
+Café en grano,Pasco,3,0.0182,0.0471,15
+Café en grano,Pasco,4,0.0788,0.1844,15
+Café en grano,Pasco,5,0.2077,0.367,15
+Café en grano,Pasco,6,0.3884,0.5175,15
+Café en grano,Pasco,7,0.2093,0.3065,15
+Café en grano,Pasco,8,0.0691,0.2041,15
+Café en grano,Pasco,9,0.0251,0.0743,15
+Café en grano,Pasco,10,0.0034,0.0512,15
+Café en grano,Pasco,11,0.0,0.0,15
+Café en grano,Pasco,12,0.0,0.0,15
+Café en grano,Piura,1,0.0025,0.0381,15
+Café en grano,Piura,2,0.0026,0.0387,15
+Café en grano,Piura,3,0.0027,0.0394,15
+Café en grano,Piura,4,0.0051,0.0399,15
+Café en grano,Piura,5,0.0499,0.1602,15
+Café en grano,Piura,6,0.2879,0.4075,15
+Café en grano,Piura,7,0.3818,0.5307,15
+Café en grano,Piura,8,0.1882,0.3519,15
+Café en grano,Piura,9,0.0449,0.1769,15
+Café en grano,Piura,10,0.0117,0.0878,15
+Café en grano,Piura,11,0.016,0.1762,15
+Café en grano,Piura,12,0.0068,0.0634,15
+Café en grano,Puno,1,0.0,0.0,15
+Café en grano,Puno,2,0.0,0.0,15
+Café en grano,Puno,3,0.0133,0.0817,15
+Café en grano,Puno,4,0.0994,0.321,15
+Café en grano,Puno,5,0.2732,0.4044,15
+Café en grano,Puno,6,0.407,0.5381,15
+Café en grano,Puno,7,0.1489,0.2128,15
+Café en grano,Puno,8,0.0582,0.1567,15
+Café en grano,Puno,9,0.0,0.0,15
+Café en grano,Puno,10,0.0,0.0,15
+Café en grano,Puno,11,0.0,0.0,15
+Café en grano,Puno,12,0.0,0.0,15
+Café en grano,San Martin,1,0.0084,0.0219,15
+Café en grano,San Martin,2,0.0377,0.0547,15
+Café en grano,San Martin,3,0.1034,0.1471,15
+Café en grano,San Martin,4,0.2811,0.3324,15
+Café en grano,San Martin,5,0.2904,0.3486,15
+Café en grano,San Martin,6,0.1788,0.2268,15
+Café en grano,San Martin,7,0.0664,0.0876,15
+Café en grano,San Martin,8,0.0203,0.0414,15
+Café en grano,San Martin,9,0.008,0.0296,15
+Café en grano,San Martin,10,0.0021,0.0046,15
+Café en grano,San Martin,11,0.0012,0.004,15
+Café en grano,San Martin,12,0.0022,0.0198,15
+Café en grano,Ucayali,1,0.0077,0.0396,15
+Café en grano,Ucayali,2,0.0105,0.057,15
+Café en grano,Ucayali,3,0.0629,0.1937,15
+Café en grano,Ucayali,4,0.0971,0.2113,15
+Café en grano,Ucayali,5,0.1664,0.2709,15
+Café en grano,Ucayali,6,0.1934,0.3721,15
+Café en grano,Ucayali,7,0.1871,0.292,15
+Café en grano,Ucayali,8,0.1059,0.2826,15
+Café en grano,Ucayali,9,0.0659,0.172,15
+Café en grano,Ucayali,10,0.0265,0.1171,15
+Café en grano,Ucayali,11,0.026,0.1068,15
+Café en grano,Ucayali,12,0.0505,0.4019,15
+Caña de azúcar,Ancash,1,0.0828,0.1014,13
+Caña de azúcar,Ancash,2,0.0764,0.0978,13
+Caña de azúcar,Ancash,3,0.0845,0.1008,13
+Caña de azúcar,Ancash,4,0.0673,0.1097,13
+Caña de azúcar,Ancash,5,0.0654,0.1138,13
+Caña de azúcar,Ancash,6,0.0808,0.1067,13
+Caña de azúcar,Ancash,7,0.0638,0.1197,13
+Caña de azúcar,Ancash,8,0.087,0.1147,13
+Caña de azúcar,Ancash,9,0.1006,0.1247,13
+Caña de azúcar,Ancash,10,0.0976,0.119,13
+Caña de azúcar,Ancash,11,0.1002,0.1204,13
+Caña de azúcar,Ancash,12,0.0935,0.1143,13
+Caña de azúcar,Arequipa,1,0.0623,0.0992,13
+Caña de azúcar,Arequipa,2,0.0581,0.1066,13
+Caña de azúcar,Arequipa,3,0.0737,0.1685,13
+Caña de azúcar,Arequipa,4,0.0586,0.1073,13
+Caña de azúcar,Arequipa,5,0.0782,0.1188,13
+Caña de azúcar,Arequipa,6,0.0767,0.1477,13
+Caña de azúcar,Arequipa,7,0.1031,0.1446,13
+Caña de azúcar,Arequipa,8,0.092,0.1217,13
+Caña de azúcar,Arequipa,9,0.1055,0.1583,13
+Caña de azúcar,Arequipa,10,0.088,0.1215,13
+Caña de azúcar,Arequipa,11,0.1043,0.1316,13
+Caña de azúcar,Arequipa,12,0.0995,0.1377,13
+Caña de azúcar,La Libertad,1,0.0804,0.0973,13
+Caña de azúcar,La Libertad,2,0.081,0.0973,13
+Caña de azúcar,La Libertad,3,0.0719,0.0935,13
+Caña de azúcar,La Libertad,4,0.0615,0.0907,13
+Caña de azúcar,La Libertad,5,0.0678,0.0847,13
+Caña de azúcar,La Libertad,6,0.0698,0.0937,13
+Caña de azúcar,La Libertad,7,0.0825,0.1059,13
+Caña de azúcar,La Libertad,8,0.0962,0.1143,13
+Caña de azúcar,La Libertad,9,0.0941,0.1049,13
+Caña de azúcar,La Libertad,10,0.1011,0.1066,13
+Caña de azúcar,La Libertad,11,0.0972,0.1138,13
+Caña de azúcar,La Libertad,12,0.0967,0.1118,13
+Caña de azúcar,Lambayeque,1,0.0863,0.0995,13
+Caña de azúcar,Lambayeque,2,0.0655,0.0844,13
+Caña de azúcar,Lambayeque,3,0.0444,0.0645,13
+Caña de azúcar,Lambayeque,4,0.0592,0.0981,13
+Caña de azúcar,Lambayeque,5,0.0779,0.1002,13
+Caña de azúcar,Lambayeque,6,0.0839,0.1012,13
+Caña de azúcar,Lambayeque,7,0.0955,0.1178,13
+Caña de azúcar,Lambayeque,8,0.0959,0.1153,13
+Caña de azúcar,Lambayeque,9,0.0975,0.1264,13
+Caña de azúcar,Lambayeque,10,0.102,0.127,13
+Caña de azúcar,Lambayeque,11,0.0968,0.1263,13
+Caña de azúcar,Lambayeque,12,0.0951,0.1165,13
+Caña de azúcar,Lima,1,0.0798,0.0887,13
+Caña de azúcar,Lima,2,0.0689,0.0862,13
+Caña de azúcar,Lima,3,0.0723,0.0911,13
+Caña de azúcar,Lima,4,0.0749,0.0961,13
+Caña de azúcar,Lima,5,0.0782,0.0972,13
+Caña de azúcar,Lima,6,0.0897,0.0997,13
+Caña de azúcar,Lima,7,0.089,0.107,13
+Caña de azúcar,Lima,8,0.0927,0.107,13
+Caña de azúcar,Lima,9,0.0906,0.0992,13
+Caña de azúcar,Lima,10,0.0943,0.1037,13
+Caña de azúcar,Lima,11,0.0925,0.1027,13
+Caña de azúcar,Lima,12,0.0772,0.0943,13
+Caña de azúcar,Piura,1,0.0651,0.1315,7
+Caña de azúcar,Piura,2,0.0593,0.0864,7
+Caña de azúcar,Piura,3,0.0349,0.1066,7
+Caña de azúcar,Piura,4,0.0633,0.106,7
+Caña de azúcar,Piura,5,0.0987,0.1144,7
+Caña de azúcar,Piura,6,0.0914,0.1457,7
+Caña de azúcar,Piura,7,0.1015,0.1664,7
+Caña de azúcar,Piura,8,0.0923,0.1231,7
+Caña de azúcar,Piura,9,0.0948,0.1657,7
+Caña de azúcar,Piura,10,0.0913,0.1122,7
+Caña de azúcar,Piura,11,0.0995,0.1336,7
+Caña de azúcar,Piura,12,0.1077,0.1385,7
+Cebolla,Amazonas,1,0.0,0.0,15
+Cebolla,Amazonas,2,0.0,0.0,15
+Cebolla,Amazonas,3,0.0333,0.5,15
+Cebolla,Amazonas,4,0.7211,1.0,15
+Cebolla,Amazonas,5,0.1766,0.5,15
+Cebolla,Amazonas,6,0.0246,0.3684,15
+Cebolla,Amazonas,7,0.0,0.0,15
+Cebolla,Amazonas,8,0.0444,0.5,15
+Cebolla,Amazonas,9,0.0,0.0,15
+Cebolla,Amazonas,10,0.0,0.0,15
+Cebolla,Amazonas,11,0.0,0.0,15
+Cebolla,Amazonas,12,0.0,0.0,15
+Cebolla,Ancash,1,0.062,0.1304,15
+Cebolla,Ancash,2,0.0538,0.1013,15
+Cebolla,Ancash,3,0.0552,0.1544,15
+Cebolla,Ancash,4,0.0482,0.1144,15
+Cebolla,Ancash,5,0.0692,0.161,15
+Cebolla,Ancash,6,0.0573,0.1287,15
+Cebolla,Ancash,7,0.0737,0.1705,15
+Cebolla,Ancash,8,0.0999,0.2247,15
+Cebolla,Ancash,9,0.1289,0.2436,15
+Cebolla,Ancash,10,0.1244,0.2704,15
+Cebolla,Ancash,11,0.1089,0.1791,15
+Cebolla,Ancash,12,0.1184,0.2181,15
+Cebolla,Apurimac,1,0.0217,0.0947,15
+Cebolla,Apurimac,2,0.0328,0.1116,15
+Cebolla,Apurimac,3,0.0598,0.227,15
+Cebolla,Apurimac,4,0.1371,0.2215,15
+Cebolla,Apurimac,5,0.2128,0.4901,15
+Cebolla,Apurimac,6,0.2155,0.4528,15
+Cebolla,Apurimac,7,0.1217,0.3034,15
+Cebolla,Apurimac,8,0.0528,0.2156,15
+Cebolla,Apurimac,9,0.0217,0.0819,15
+Cebolla,Apurimac,10,0.0137,0.0664,15
+Cebolla,Apurimac,11,0.0125,0.0516,15
+Cebolla,Apurimac,12,0.098,0.2435,15
+Cebolla,Arequipa,1,0.0852,0.1162,15
+Cebolla,Arequipa,2,0.0624,0.0903,15
+Cebolla,Arequipa,3,0.0554,0.0736,15
+Cebolla,Arequipa,4,0.0665,0.0932,15
+Cebolla,Arequipa,5,0.0635,0.0983,15
+Cebolla,Arequipa,6,0.0776,0.1435,15
+Cebolla,Arequipa,7,0.1224,0.2042,15
+Cebolla,Arequipa,8,0.1276,0.1852,15
+Cebolla,Arequipa,9,0.0951,0.1643,15
+Cebolla,Arequipa,10,0.0669,0.0879,15
+Cebolla,Arequipa,11,0.0833,0.1142,15
+Cebolla,Arequipa,12,0.0942,0.1146,15
+Cebolla,Ayacucho,1,0.07,0.1355,15
+Cebolla,Ayacucho,2,0.1354,0.2164,15
+Cebolla,Ayacucho,3,0.1609,0.4046,15
+Cebolla,Ayacucho,4,0.188,0.2754,15
+Cebolla,Ayacucho,5,0.1891,0.2858,15
+Cebolla,Ayacucho,6,0.1281,0.2479,15
+Cebolla,Ayacucho,7,0.046,0.1064,15
+Cebolla,Ayacucho,8,0.0139,0.0417,15
+Cebolla,Ayacucho,9,0.0134,0.0415,15
+Cebolla,Ayacucho,10,0.0133,0.0565,15
+Cebolla,Ayacucho,11,0.0173,0.0467,15
+Cebolla,Ayacucho,12,0.0247,0.0745,15
+Cebolla,Cajamarca,1,0.041,0.2049,15
+Cebolla,Cajamarca,2,0.0643,0.1372,15
+Cebolla,Cajamarca,3,0.1194,0.2342,15
+Cebolla,Cajamarca,4,0.1065,0.181,15
+Cebolla,Cajamarca,5,0.0588,0.1204,15
+Cebolla,Cajamarca,6,0.0453,0.1282,15
+Cebolla,Cajamarca,7,0.1794,0.6345,15
+Cebolla,Cajamarca,8,0.1612,0.3364,15
+Cebolla,Cajamarca,9,0.1351,0.2698,15
+Cebolla,Cajamarca,10,0.0636,0.2099,15
+Cebolla,Cajamarca,11,0.0155,0.0896,15
+Cebolla,Cajamarca,12,0.0099,0.0529,15
+Cebolla,Cusco,1,0.0686,0.1083,15
+Cebolla,Cusco,2,0.0766,0.1014,15
+Cebolla,Cusco,3,0.1063,0.1704,15
+Cebolla,Cusco,4,0.1692,0.2869,15
+Cebolla,Cusco,5,0.1361,0.2981,15
+Cebolla,Cusco,6,0.0953,0.1681,15
+Cebolla,Cusco,7,0.0957,0.1379,15
+Cebolla,Cusco,8,0.0614,0.0968,15
+Cebolla,Cusco,9,0.0496,0.0933,15
+Cebolla,Cusco,10,0.0452,0.076,15
+Cebolla,Cusco,11,0.0477,0.0702,15
+Cebolla,Cusco,12,0.0482,0.1377,15
+Cebolla,Huancavelica,1,0.0641,0.5833,15
+Cebolla,Huancavelica,2,0.002,0.0304,15
+Cebolla,Huancavelica,3,0.0223,0.1681,15
+Cebolla,Huancavelica,4,0.3423,0.8931,15
+Cebolla,Huancavelica,5,0.2175,0.6903,15
+Cebolla,Huancavelica,6,0.137,0.6372,15
+Cebolla,Huancavelica,7,0.1555,0.5506,15
+Cebolla,Huancavelica,8,0.05,0.4652,15
+Cebolla,Huancavelica,9,0.0,0.0,15
+Cebolla,Huancavelica,10,0.0093,0.1393,15
+Cebolla,Huancavelica,11,0.0,0.0,15
+Cebolla,Huancavelica,12,0.0,0.0,15
+Cebolla,Huanuco,1,0.0108,0.0348,15
+Cebolla,Huanuco,2,0.0097,0.0244,15
+Cebolla,Huanuco,3,0.0316,0.1124,15
+Cebolla,Huanuco,4,0.2499,0.4157,15
+Cebolla,Huanuco,5,0.288,0.3879,15
+Cebolla,Huanuco,6,0.1947,0.2529,15
+Cebolla,Huanuco,7,0.0783,0.1482,15
+Cebolla,Huanuco,8,0.006,0.0328,15
+Cebolla,Huanuco,9,0.0288,0.1367,15
+Cebolla,Huanuco,10,0.0493,0.1597,15
+Cebolla,Huanuco,11,0.0296,0.0727,15
+Cebolla,Huanuco,12,0.0234,0.0625,15
+Cebolla,Ica,1,0.0426,0.0968,15
+Cebolla,Ica,2,0.0208,0.051,15
+Cebolla,Ica,3,0.0198,0.0613,15
+Cebolla,Ica,4,0.0417,0.1476,15
+Cebolla,Ica,5,0.0455,0.0841,15
+Cebolla,Ica,6,0.0611,0.1385,15
+Cebolla,Ica,7,0.0825,0.1645,15
+Cebolla,Ica,8,0.1125,0.2333,15
+Cebolla,Ica,9,0.1265,0.228,15
+Cebolla,Ica,10,0.1889,0.3084,15
+Cebolla,Ica,11,0.1758,0.3832,15
+Cebolla,Ica,12,0.0825,0.1315,15
+Cebolla,Junin,1,0.0845,0.1837,15
+Cebolla,Junin,2,0.1055,0.3241,15
+Cebolla,Junin,3,0.117,0.2414,15
+Cebolla,Junin,4,0.1224,0.188,15
+Cebolla,Junin,5,0.1015,0.161,15
+Cebolla,Junin,6,0.0816,0.1183,15
+Cebolla,Junin,7,0.0773,0.0974,15
+Cebolla,Junin,8,0.0891,0.1459,15
+Cebolla,Junin,9,0.0621,0.0889,15
+Cebolla,Junin,10,0.0532,0.0839,15
+Cebolla,Junin,11,0.0509,0.088,15
+Cebolla,Junin,12,0.0549,0.0804,15
+Cebolla,La Libertad,1,0.0705,0.1993,15
+Cebolla,La Libertad,2,0.0543,0.0994,15
+Cebolla,La Libertad,3,0.0488,0.0987,15
+Cebolla,La Libertad,4,0.0464,0.1253,15
+Cebolla,La Libertad,5,0.082,0.2103,15
+Cebolla,La Libertad,6,0.1063,0.1786,15
+Cebolla,La Libertad,7,0.1044,0.2337,15
+Cebolla,La Libertad,8,0.1028,0.2827,15
+Cebolla,La Libertad,9,0.1186,0.1923,15
+Cebolla,La Libertad,10,0.1253,0.2266,15
+Cebolla,La Libertad,11,0.0752,0.1484,15
+Cebolla,La Libertad,12,0.0654,0.1455,15
+Cebolla,Lambayeque,1,0.0592,0.238,15
+Cebolla,Lambayeque,2,0.0541,0.1437,15
+Cebolla,Lambayeque,3,0.0502,0.1443,15
+Cebolla,Lambayeque,4,0.0406,0.099,15
+Cebolla,Lambayeque,5,0.071,0.1584,15
+Cebolla,Lambayeque,6,0.0566,0.1192,15
+Cebolla,Lambayeque,7,0.0945,0.1594,15
+Cebolla,Lambayeque,8,0.1083,0.3257,15
+Cebolla,Lambayeque,9,0.1704,0.3313,15
+Cebolla,Lambayeque,10,0.1326,0.3584,15
+Cebolla,Lambayeque,11,0.0875,0.2551,15
+Cebolla,Lambayeque,12,0.0749,0.1885,15
+Cebolla,Lima,1,0.1536,0.2851,15
+Cebolla,Lima,2,0.119,0.1908,15
+Cebolla,Lima,3,0.0619,0.1243,15
+Cebolla,Lima,4,0.0384,0.0605,15
+Cebolla,Lima,5,0.0338,0.0761,15
+Cebolla,Lima,6,0.0386,0.0761,15
+Cebolla,Lima,7,0.1169,0.2626,15
+Cebolla,Lima,8,0.0796,0.1564,15
+Cebolla,Lima,9,0.0543,0.1079,15
+Cebolla,Lima,10,0.0669,0.127,15
+Cebolla,Lima,11,0.106,0.1822,15
+Cebolla,Lima,12,0.1311,0.2141,15
+Cebolla,Lima Metropolitana,1,0.367,0.4874,15
+Cebolla,Lima Metropolitana,2,0.3061,0.4087,15
+Cebolla,Lima Metropolitana,3,0.042,0.1248,15
+Cebolla,Lima Metropolitana,4,0.0,0.0,15
+Cebolla,Lima Metropolitana,5,0.0068,0.027,15
+Cebolla,Lima Metropolitana,6,0.0073,0.0478,15
+Cebolla,Lima Metropolitana,7,0.0046,0.025,15
+Cebolla,Lima Metropolitana,8,0.0012,0.0092,15
+Cebolla,Lima Metropolitana,9,0.0013,0.0199,15
+Cebolla,Lima Metropolitana,10,0.0023,0.0234,15
+Cebolla,Lima Metropolitana,11,0.0637,0.2848,15
+Cebolla,Lima Metropolitana,12,0.1978,0.2736,15
+Cebolla,Moquegua,1,0.0839,0.1854,15
+Cebolla,Moquegua,2,0.0867,0.3989,15
+Cebolla,Moquegua,3,0.3511,0.8223,15
+Cebolla,Moquegua,4,0.1837,0.4296,15
+Cebolla,Moquegua,5,0.0946,0.1943,15
+Cebolla,Moquegua,6,0.0419,0.2081,15
+Cebolla,Moquegua,7,0.0177,0.1075,15
+Cebolla,Moquegua,8,0.0196,0.1324,15
+Cebolla,Moquegua,9,0.0155,0.0696,15
+Cebolla,Moquegua,10,0.0253,0.1001,15
+Cebolla,Moquegua,11,0.0387,0.1346,15
+Cebolla,Moquegua,12,0.0413,0.1212,15
+Cebolla,Piura,1,0.0695,0.2055,15
+Cebolla,Piura,2,0.0569,0.1585,15
+Cebolla,Piura,3,0.0346,0.2132,15
+Cebolla,Piura,4,0.0307,0.1165,15
+Cebolla,Piura,5,0.039,0.1537,15
+Cebolla,Piura,6,0.1059,0.3262,15
+Cebolla,Piura,7,0.164,0.4075,15
+Cebolla,Piura,8,0.105,0.2107,15
+Cebolla,Piura,9,0.0595,0.2176,15
+Cebolla,Piura,10,0.0625,0.188,15
+Cebolla,Piura,11,0.1368,0.2436,15
+Cebolla,Piura,12,0.1356,0.3191,15
+Cebolla,Puno,1,0.0073,0.0391,15
+Cebolla,Puno,2,0.0621,0.1465,15
+Cebolla,Puno,3,0.1334,0.2775,15
+Cebolla,Puno,4,0.5237,0.818,15
+Cebolla,Puno,5,0.2584,0.4573,15
+Cebolla,Puno,6,0.0138,0.0783,15
+Cebolla,Puno,7,0.0,0.0,15
+Cebolla,Puno,8,0.0,0.0,15
+Cebolla,Puno,9,0.0,0.0,15
+Cebolla,Puno,10,0.0,0.0,15
+Cebolla,Puno,11,0.0,0.0,15
+Cebolla,Puno,12,0.0013,0.0074,15
+Cebolla,Tacna,1,0.0578,0.1219,15
+Cebolla,Tacna,2,0.0679,0.124,15
+Cebolla,Tacna,3,0.164,0.3423,15
+Cebolla,Tacna,4,0.257,0.4295,15
+Cebolla,Tacna,5,0.1588,0.3528,15
+Cebolla,Tacna,6,0.0337,0.1276,15
+Cebolla,Tacna,7,0.031,0.0717,15
+Cebolla,Tacna,8,0.0446,0.1217,15
+Cebolla,Tacna,9,0.0631,0.1086,15
+Cebolla,Tacna,10,0.0391,0.0826,15
+Cebolla,Tacna,11,0.0326,0.1033,15
+Cebolla,Tacna,12,0.0505,0.1503,15
+Cebolla,Tumbes,1,0.1429,1.0,7
+Cebolla,Tumbes,2,0.0,0.0,7
+Cebolla,Tumbes,3,0.1429,1.0,7
+Cebolla,Tumbes,4,0.0,0.0,7
+Cebolla,Tumbes,5,0.0,0.0,7
+Cebolla,Tumbes,6,0.0018,0.0125,7
+Cebolla,Tumbes,7,0.0481,0.3367,7
+Cebolla,Tumbes,8,0.2238,1.0,7
+Cebolla,Tumbes,9,0.0168,0.1173,7
+Cebolla,Tumbes,10,0.2194,1.0,7
+Cebolla,Tumbes,11,0.0542,0.2041,7
+Cebolla,Tumbes,12,0.1501,1.0,7
+Limón,Amazonas,1,0.0827,0.0952,15
+Limón,Amazonas,2,0.0888,0.101,15
+Limón,Amazonas,3,0.096,0.1139,15
+Limón,Amazonas,4,0.0913,0.1027,15
+Limón,Amazonas,5,0.0904,0.0998,15
+Limón,Amazonas,6,0.0927,0.1004,15
+Limón,Amazonas,7,0.094,0.1037,15
+Limón,Amazonas,8,0.0739,0.0871,15
+Limón,Amazonas,9,0.0736,0.0899,15
+Limón,Amazonas,10,0.0697,0.0866,15
+Limón,Amazonas,11,0.0744,0.1046,15
+Limón,Amazonas,12,0.0725,0.1197,15
+Limón,Ancash,1,0.0966,0.1195,15
+Limón,Ancash,2,0.1035,0.1229,15
+Limón,Ancash,3,0.1006,0.134,15
+Limón,Ancash,4,0.0932,0.1155,15
+Limón,Ancash,5,0.0911,0.105,15
+Limón,Ancash,6,0.084,0.0936,15
+Limón,Ancash,7,0.0768,0.0873,15
+Limón,Ancash,8,0.0703,0.0836,15
+Limón,Ancash,9,0.0657,0.0838,15
+Limón,Ancash,10,0.0636,0.0792,15
+Limón,Ancash,11,0.0671,0.0815,15
+Limón,Ancash,12,0.0875,0.1007,15
+Limón,Apurimac,1,0.1106,0.1472,15
+Limón,Apurimac,2,0.1892,0.2585,15
+Limón,Apurimac,3,0.2524,0.3609,15
+Limón,Apurimac,4,0.1282,0.1969,15
+Limón,Apurimac,5,0.0588,0.0956,15
+Limón,Apurimac,6,0.0432,0.0915,15
+Limón,Apurimac,7,0.0489,0.111,15
+Limón,Apurimac,8,0.0349,0.0782,15
+Limón,Apurimac,9,0.0454,0.092,15
+Limón,Apurimac,10,0.0348,0.1006,15
+Limón,Apurimac,11,0.0264,0.0589,15
+Limón,Apurimac,12,0.0272,0.0603,15
+Limón,Arequipa,1,0.0,0.0,15
+Limón,Arequipa,2,0.0045,0.0678,15
+Limón,Arequipa,3,0.6307,0.769,15
+Limón,Arequipa,4,0.0716,0.5816,15
+Limón,Arequipa,5,0.1521,0.5338,15
+Limón,Arequipa,6,0.1269,0.3092,15
+Limón,Arequipa,7,0.0141,0.2109,15
+Limón,Arequipa,8,0.0,0.0,15
+Limón,Arequipa,9,0.0,0.0,15
+Limón,Arequipa,10,0.0,0.0,15
+Limón,Arequipa,11,0.0,0.0,15
+Limón,Arequipa,12,0.0,0.0,15
+Limón,Ayacucho,1,0.035,0.0496,15
+Limón,Ayacucho,2,0.0599,0.0777,15
+Limón,Ayacucho,3,0.1025,0.1193,15
+Limón,Ayacucho,4,0.1497,0.2098,15
+Limón,Ayacucho,5,0.1823,0.2622,15
+Limón,Ayacucho,6,0.1564,0.2089,15
+Limón,Ayacucho,7,0.1283,0.1587,15
+Limón,Ayacucho,8,0.0677,0.1256,15
+Limón,Ayacucho,9,0.0462,0.0789,15
+Limón,Ayacucho,10,0.0223,0.0342,15
+Limón,Ayacucho,11,0.0244,0.0552,15
+Limón,Ayacucho,12,0.0252,0.0496,15
+Limón,Cajamarca,1,0.0444,0.0681,15
+Limón,Cajamarca,2,0.0574,0.0835,15
+Limón,Cajamarca,3,0.0847,0.1148,15
+Limón,Cajamarca,4,0.1014,0.1385,15
+Limón,Cajamarca,5,0.1391,0.2033,15
+Limón,Cajamarca,6,0.1344,0.1954,15
+Limón,Cajamarca,7,0.1087,0.1588,15
+Limón,Cajamarca,8,0.0883,0.1208,15
+Limón,Cajamarca,9,0.0689,0.1091,15
+Limón,Cajamarca,10,0.0776,0.4609,15
+Limón,Cajamarca,11,0.0531,0.1871,15
+Limón,Cajamarca,12,0.042,0.089,15
+Limón,Cusco,1,0.2173,0.2729,15
+Limón,Cusco,2,0.2239,0.292,15
+Limón,Cusco,3,0.1465,0.215,15
+Limón,Cusco,4,0.0778,0.1432,15
+Limón,Cusco,5,0.0539,0.0788,15
+Limón,Cusco,6,0.0471,0.0577,15
+Limón,Cusco,7,0.0356,0.0555,15
+Limón,Cusco,8,0.0339,0.0545,15
+Limón,Cusco,9,0.0346,0.0691,15
+Limón,Cusco,10,0.032,0.0673,15
+Limón,Cusco,11,0.0449,0.0728,15
+Limón,Cusco,12,0.0527,0.0808,15
+Limón,Huancavelica,1,0.0012,0.0077,15
+Limón,Huancavelica,2,0.01,0.0174,15
+Limón,Huancavelica,3,0.0293,0.0486,15
+Limón,Huancavelica,4,0.2716,0.5428,15
+Limón,Huancavelica,5,0.2954,0.3706,15
+Limón,Huancavelica,6,0.1794,0.2638,15
+Limón,Huancavelica,7,0.0842,0.1441,15
+Limón,Huancavelica,8,0.013,0.0558,15
+Limón,Huancavelica,9,0.0046,0.0184,15
+Limón,Huancavelica,10,0.0034,0.0194,15
+Limón,Huancavelica,11,0.004,0.0241,15
+Limón,Huancavelica,12,0.1039,0.2296,15
+Limón,Huanuco,1,0.0403,0.0513,15
+Limón,Huanuco,2,0.0744,0.0823,15
+Limón,Huanuco,3,0.1031,0.1136,15
+Limón,Huanuco,4,0.1239,0.1288,15
+Limón,Huanuco,5,0.1575,0.1772,15
+Limón,Huanuco,6,0.1737,0.1965,15
+Limón,Huanuco,7,0.1155,0.1288,15
+Limón,Huanuco,8,0.077,0.0835,15
+Limón,Huanuco,9,0.0547,0.0669,15
+Limón,Huanuco,10,0.0363,0.0469,15
+Limón,Huanuco,11,0.0244,0.0285,15
+Limón,Huanuco,12,0.0193,0.0262,15
+Limón,Ica,1,0.0051,0.0279,15
+Limón,Ica,2,0.0304,0.0709,15
+Limón,Ica,3,0.078,0.1446,15
+Limón,Ica,4,0.1671,0.2226,15
+Limón,Ica,5,0.1046,0.1999,15
+Limón,Ica,6,0.1965,0.3443,15
+Limón,Ica,7,0.2603,0.3803,15
+Limón,Ica,8,0.1137,0.2128,15
+Limón,Ica,9,0.0255,0.0626,15
+Limón,Ica,10,0.0042,0.0246,15
+Limón,Ica,11,0.005,0.0446,15
+Limón,Ica,12,0.0093,0.0587,15
+Limón,Junin,1,0.0664,0.0719,15
+Limón,Junin,2,0.0875,0.0985,15
+Limón,Junin,3,0.1157,0.1231,15
+Limón,Junin,4,0.1388,0.1591,15
+Limón,Junin,5,0.1414,0.1597,15
+Limón,Junin,6,0.1253,0.1375,15
+Limón,Junin,7,0.0844,0.0908,15
+Limón,Junin,8,0.0477,0.0633,15
+Limón,Junin,9,0.0429,0.0565,15
+Limón,Junin,10,0.0418,0.0509,15
+Limón,Junin,11,0.048,0.0542,15
+Limón,Junin,12,0.06,0.0711,15
+Limón,La Libertad,1,0.1055,0.1263,15
+Limón,La Libertad,2,0.1398,0.1779,15
+Limón,La Libertad,3,0.171,0.1917,15
+Limón,La Libertad,4,0.1346,0.1483,15
+Limón,La Libertad,5,0.1185,0.1485,15
+Limón,La Libertad,6,0.0896,0.142,15
+Limón,La Libertad,7,0.0733,0.1132,15
+Limón,La Libertad,8,0.0562,0.0695,15
+Limón,La Libertad,9,0.0387,0.0564,15
+Limón,La Libertad,10,0.0259,0.0372,15
+Limón,La Libertad,11,0.0277,0.0518,15
+Limón,La Libertad,12,0.0192,0.0403,15
+Limón,Lambayeque,1,0.0993,0.1653,15
+Limón,Lambayeque,2,0.1022,0.1626,15
+Limón,Lambayeque,3,0.0934,0.1524,15
+Limón,Lambayeque,4,0.0828,0.133,15
+Limón,Lambayeque,5,0.0956,0.1582,15
+Limón,Lambayeque,6,0.079,0.1341,15
+Limón,Lambayeque,7,0.0756,0.1064,15
+Limón,Lambayeque,8,0.07,0.1256,15
+Limón,Lambayeque,9,0.0663,0.1456,15
+Limón,Lambayeque,10,0.0763,0.1661,15
+Limón,Lambayeque,11,0.0773,0.1679,15
+Limón,Lambayeque,12,0.0822,0.1199,15
+Limón,Lima,1,0.0865,0.6122,15
+Limón,Lima,2,0.0,0.0,15
+Limón,Lima,3,0.0,0.0,15
+Limón,Lima,4,0.0073,0.0588,15
+Limón,Lima,5,0.3517,0.6,15
+Limón,Lima,6,0.5546,0.8571,15
+Limón,Lima,7,0.0,0.0,15
+Limón,Lima,8,0.0,0.0,15
+Limón,Lima,9,0.0,0.0,15
+Limón,Lima,10,0.0,0.0,15
+Limón,Lima,11,0.0,0.0,15
+Limón,Lima,12,0.0,0.0,15
+Limón,Loreto,1,0.1023,0.1123,15
+Limón,Loreto,2,0.0978,0.1012,15
+Limón,Loreto,3,0.1028,0.1092,15
+Limón,Loreto,4,0.1021,0.1114,15
+Limón,Loreto,5,0.0991,0.1084,15
+Limón,Loreto,6,0.0889,0.0934,15
+Limón,Loreto,7,0.0816,0.0856,15
+Limón,Loreto,8,0.0788,0.0841,15
+Limón,Loreto,9,0.0763,0.0818,15
+Limón,Loreto,10,0.0496,0.0764,15
+Limón,Loreto,11,0.0545,0.0828,15
+Limón,Loreto,12,0.0662,0.0844,15
+Limón,Madre de Dios,1,0.0789,0.1033,15
+Limón,Madre de Dios,2,0.096,0.139,15
+Limón,Madre de Dios,3,0.1033,0.2003,15
+Limón,Madre de Dios,4,0.1088,0.2073,15
+Limón,Madre de Dios,5,0.1068,0.1538,15
+Limón,Madre de Dios,6,0.0959,0.1369,15
+Limón,Madre de Dios,7,0.0814,0.1152,15
+Limón,Madre de Dios,8,0.0692,0.0888,15
+Limón,Madre de Dios,9,0.0589,0.0934,15
+Limón,Madre de Dios,10,0.0674,0.1016,15
+Limón,Madre de Dios,11,0.0645,0.0989,15
+Limón,Madre de Dios,12,0.0689,0.1049,15
+Limón,Moquegua,1,0.0289,0.4335,15
+Limón,Moquegua,2,0.0385,0.1787,15
+Limón,Moquegua,3,0.2545,1.0,15
+Limón,Moquegua,4,0.1573,0.283,15
+Limón,Moquegua,5,0.2619,0.7206,15
+Limón,Moquegua,6,0.0948,0.5407,15
+Limón,Moquegua,7,0.0944,0.27,15
+Limón,Moquegua,8,0.0159,0.1025,15
+Limón,Moquegua,9,0.0073,0.109,15
+Limón,Moquegua,10,0.0209,0.1168,15
+Limón,Moquegua,11,0.0157,0.1651,15
+Limón,Moquegua,12,0.0101,0.1169,15
+Limón,Pasco,1,0.0,0.0,15
+Limón,Pasco,2,0.0043,0.0646,15
+Limón,Pasco,3,0.0175,0.198,15
+Limón,Pasco,4,0.1416,0.6,15
+Limón,Pasco,5,0.3674,0.6,15
+Limón,Pasco,6,0.3886,1.0,15
+Limón,Pasco,7,0.0641,0.4,15
+Limón,Pasco,8,0.0,0.0,15
+Limón,Pasco,9,0.0,0.0,15
+Limón,Pasco,10,0.004,0.0602,15
+Limón,Pasco,11,0.0086,0.0909,15
+Limón,Pasco,12,0.004,0.0602,15
+Limón,Piura,1,0.093,0.1246,15
+Limón,Piura,2,0.103,0.1302,15
+Limón,Piura,3,0.1105,0.1301,15
+Limón,Piura,4,0.1098,0.1323,15
+Limón,Piura,5,0.0972,0.1219,15
+Limón,Piura,6,0.084,0.1203,15
+Limón,Piura,7,0.0661,0.0817,15
+Limón,Piura,8,0.0537,0.0785,15
+Limón,Piura,9,0.0548,0.0764,15
+Limón,Piura,10,0.0625,0.0794,15
+Limón,Piura,11,0.0719,0.1,15
+Limón,Piura,12,0.0937,0.2295,15
+Limón,Puno,1,0.0,0.0,15
+Limón,Puno,2,0.0,0.0,15
+Limón,Puno,3,0.0459,0.1364,15
+Limón,Puno,4,0.0983,0.2909,15
+Limón,Puno,5,0.2879,0.4727,15
+Limón,Puno,6,0.3375,0.4296,15
+Limón,Puno,7,0.2085,0.3035,15
+Limón,Puno,8,0.0219,0.0957,15
+Limón,Puno,9,0.0,0.0,15
+Limón,Puno,10,0.0,0.0,15
+Limón,Puno,11,0.0,0.0,15
+Limón,Puno,12,0.0,0.0,15
+Limón,San Martin,1,0.0637,0.0761,15
+Limón,San Martin,2,0.0912,0.1169,15
+Limón,San Martin,3,0.1427,0.1909,15
+Limón,San Martin,4,0.1767,0.2666,15
+Limón,San Martin,5,0.1492,0.2004,15
+Limón,San Martin,6,0.0988,0.1126,15
+Limón,San Martin,7,0.0598,0.0837,15
+Limón,San Martin,8,0.0444,0.0931,15
+Limón,San Martin,9,0.0329,0.0542,15
+Limón,San Martin,10,0.0373,0.0675,15
+Limón,San Martin,11,0.0481,0.0733,15
+Limón,San Martin,12,0.0552,0.0903,15
+Limón,Tumbes,1,0.1214,0.1492,15
+Limón,Tumbes,2,0.1309,0.1616,15
+Limón,Tumbes,3,0.13,0.1853,15
+Limón,Tumbes,4,0.12,0.1399,15
+Limón,Tumbes,5,0.1029,0.1242,15
+Limón,Tumbes,6,0.0664,0.1047,15
+Limón,Tumbes,7,0.0311,0.0466,15
+Limón,Tumbes,8,0.0227,0.0427,15
+Limón,Tumbes,9,0.0308,0.0515,15
+Limón,Tumbes,10,0.0512,0.0778,15
+Limón,Tumbes,11,0.0826,0.1258,15
+Limón,Tumbes,12,0.1099,0.1909,15
+Limón,Ucayali,1,0.0926,0.1163,15
+Limón,Ucayali,2,0.1073,0.1252,15
+Limón,Ucayali,3,0.1101,0.1312,15
+Limón,Ucayali,4,0.0946,0.1112,15
+Limón,Ucayali,5,0.0977,0.1113,15
+Limón,Ucayali,6,0.0963,0.117,15
+Limón,Ucayali,7,0.0857,0.0992,15
+Limón,Ucayali,8,0.0681,0.0821,15
+Limón,Ucayali,9,0.0559,0.0677,15
+Limón,Ucayali,10,0.0616,0.0774,15
+Limón,Ucayali,11,0.0604,0.0747,15
+Limón,Ucayali,12,0.0697,0.087,15
+Mango,Amazonas,1,0.1789,0.285,15
+Mango,Amazonas,2,0.1535,0.2482,15
+Mango,Amazonas,3,0.0278,0.1254,15
+Mango,Amazonas,4,0.0107,0.0877,15
+Mango,Amazonas,5,0.0146,0.083,15
+Mango,Amazonas,6,0.0299,0.0748,15
+Mango,Amazonas,7,0.0573,0.131,15
+Mango,Amazonas,8,0.0483,0.163,15
+Mango,Amazonas,9,0.0137,0.0496,15
+Mango,Amazonas,10,0.0219,0.0767,15
+Mango,Amazonas,11,0.1409,0.3423,15
+Mango,Amazonas,12,0.3023,0.4169,15
+Mango,Ancash,1,0.1303,0.2613,15
+Mango,Ancash,2,0.2244,0.445,15
+Mango,Ancash,3,0.324,0.62,15
+Mango,Ancash,4,0.1813,0.3314,15
+Mango,Ancash,5,0.0475,0.1725,15
+Mango,Ancash,6,0.0014,0.0199,15
+Mango,Ancash,7,0.0,0.0,15
+Mango,Ancash,8,0.0,0.0,15
+Mango,Ancash,9,0.0,0.0,15
+Mango,Ancash,10,0.0,0.0,15
+Mango,Ancash,11,0.0056,0.0477,15
+Mango,Ancash,12,0.0855,0.2426,15
+Mango,Apurimac,1,0.2227,0.5483,15
+Mango,Apurimac,2,0.2851,0.5116,15
+Mango,Apurimac,3,0.2596,0.4318,15
+Mango,Apurimac,4,0.0248,0.0829,15
+Mango,Apurimac,5,0.0557,0.1016,15
+Mango,Apurimac,6,0.0128,0.0663,15
+Mango,Apurimac,7,0.0459,0.0906,15
+Mango,Apurimac,8,0.0124,0.0829,15
+Mango,Apurimac,9,0.0443,0.1105,15
+Mango,Apurimac,10,0.0097,0.07,15
+Mango,Apurimac,11,0.0203,0.0912,15
+Mango,Apurimac,12,0.0068,0.0687,15
+Mango,Arequipa,1,0.183,0.3378,15
+Mango,Arequipa,2,0.5006,0.6691,15
+Mango,Arequipa,3,0.3164,0.3382,15
+Mango,Arequipa,4,0.0,0.0,15
+Mango,Arequipa,5,0.0,0.0,15
+Mango,Arequipa,6,0.0,0.0,15
+Mango,Arequipa,7,0.0,0.0,15
+Mango,Arequipa,8,0.0,0.0,15
+Mango,Arequipa,9,0.0,0.0,15
+Mango,Arequipa,10,0.0,0.0,15
+Mango,Arequipa,11,0.0,0.0,15
+Mango,Arequipa,12,0.0,0.0,15
+Mango,Ayacucho,1,0.171,0.2704,15
+Mango,Ayacucho,2,0.2136,0.4252,15
+Mango,Ayacucho,3,0.1605,0.2798,15
+Mango,Ayacucho,4,0.0623,0.0991,15
+Mango,Ayacucho,5,0.0334,0.224,15
+Mango,Ayacucho,6,0.0168,0.0617,15
+Mango,Ayacucho,7,0.0115,0.0447,15
+Mango,Ayacucho,8,0.012,0.0816,15
+Mango,Ayacucho,9,0.0214,0.0908,15
+Mango,Ayacucho,10,0.0539,0.173,15
+Mango,Ayacucho,11,0.1135,0.2634,15
+Mango,Ayacucho,12,0.13,0.2953,15
+Mango,Cajamarca,1,0.5213,0.7349,15
+Mango,Cajamarca,2,0.3679,0.4823,15
+Mango,Cajamarca,3,0.0759,0.1976,15
+Mango,Cajamarca,4,0.0023,0.0077,15
+Mango,Cajamarca,5,0.0009,0.0032,15
+Mango,Cajamarca,6,0.0006,0.0055,15
+Mango,Cajamarca,7,0.0008,0.0027,15
+Mango,Cajamarca,8,0.0003,0.0013,15
+Mango,Cajamarca,9,0.0001,0.0003,15
+Mango,Cajamarca,10,0.0024,0.006,15
+Mango,Cajamarca,11,0.0089,0.0239,15
+Mango,Cajamarca,12,0.0185,0.0527,15
+Mango,Cusco,1,0.2876,0.4757,15
+Mango,Cusco,2,0.0689,0.1338,15
+Mango,Cusco,3,0.0121,0.0539,15
+Mango,Cusco,4,0.0038,0.016,15
+Mango,Cusco,5,0.0,0.0,15
+Mango,Cusco,6,0.0,0.0,15
+Mango,Cusco,7,0.0,0.0,15
+Mango,Cusco,8,0.0,0.0,15
+Mango,Cusco,9,0.0,0.0,15
+Mango,Cusco,10,0.027,0.1098,15
+Mango,Cusco,11,0.2217,0.296,15
+Mango,Cusco,12,0.3788,0.4623,15
+Mango,Huancavelica,1,0.0847,0.2683,15
+Mango,Huancavelica,2,0.2523,0.3665,15
+Mango,Huancavelica,3,0.2488,0.3344,15
+Mango,Huancavelica,4,0.1324,0.3856,15
+Mango,Huancavelica,5,0.0741,0.1423,15
+Mango,Huancavelica,6,0.0584,0.11,15
+Mango,Huancavelica,7,0.0177,0.0367,15
+Mango,Huancavelica,8,0.0029,0.0114,15
+Mango,Huancavelica,9,0.0,0.0,15
+Mango,Huancavelica,10,0.0,0.0,15
+Mango,Huancavelica,11,0.0007,0.0063,15
+Mango,Huancavelica,12,0.1278,0.1697,15
+Mango,Huanuco,1,0.2206,0.2733,15
+Mango,Huanuco,2,0.1209,0.1681,15
+Mango,Huanuco,3,0.042,0.0532,15
+Mango,Huanuco,4,0.0137,0.0199,15
+Mango,Huanuco,5,0.0,0.0,15
+Mango,Huanuco,6,0.0,0.0,15
+Mango,Huanuco,7,0.0,0.0,15
+Mango,Huanuco,8,0.0,0.0,15
+Mango,Huanuco,9,0.0026,0.038,15
+Mango,Huanuco,10,0.0232,0.108,15
+Mango,Huanuco,11,0.1358,0.1849,15
+Mango,Huanuco,12,0.4413,0.4938,15
+Mango,Ica,1,0.0929,0.2388,15
+Mango,Ica,2,0.4259,0.6059,15
+Mango,Ica,3,0.4211,0.6173,15
+Mango,Ica,4,0.0588,0.1807,15
+Mango,Ica,5,0.0013,0.0079,15
+Mango,Ica,6,0.0,0.0,15
+Mango,Ica,7,0.0,0.0,15
+Mango,Ica,8,0.0,0.0,15
+Mango,Ica,9,0.0,0.0,15
+Mango,Ica,10,0.0,0.0,15
+Mango,Ica,11,0.0,0.0,15
+Mango,Ica,12,0.0,0.0,15
+Mango,Junin,1,0.2596,0.3304,15
+Mango,Junin,2,0.1385,0.1683,15
+Mango,Junin,3,0.0096,0.0583,15
+Mango,Junin,4,0.0,0.0,15
+Mango,Junin,5,0.0,0.0,15
+Mango,Junin,6,0.0,0.0,15
+Mango,Junin,7,0.0,0.0,15
+Mango,Junin,8,0.0,0.0,15
+Mango,Junin,9,0.0,0.0,15
+Mango,Junin,10,0.0059,0.0488,15
+Mango,Junin,11,0.2075,0.2935,15
+Mango,Junin,12,0.3788,0.4674,15
+Mango,La Libertad,1,0.2278,0.2371,15
+Mango,La Libertad,2,0.262,0.2806,15
+Mango,La Libertad,3,0.2499,0.2609,15
+Mango,La Libertad,4,0.1452,0.1617,15
+Mango,La Libertad,5,0.0682,0.1018,15
+Mango,La Libertad,6,0.01,0.0309,15
+Mango,La Libertad,7,0.0134,0.0322,15
+Mango,La Libertad,8,0.0116,0.0194,15
+Mango,La Libertad,9,0.0037,0.0049,15
+Mango,La Libertad,10,0.001,0.0015,15
+Mango,La Libertad,11,0.0022,0.0035,15
+Mango,La Libertad,12,0.0049,0.0165,15
+Mango,Lambayeque,1,0.1689,0.66,15
+Mango,Lambayeque,2,0.5406,0.8235,15
+Mango,Lambayeque,3,0.2694,0.4799,15
+Mango,Lambayeque,4,0.0047,0.0348,15
+Mango,Lambayeque,5,0.0023,0.0158,15
+Mango,Lambayeque,6,0.0006,0.0076,15
+Mango,Lambayeque,7,0.0002,0.003,15
+Mango,Lambayeque,8,0.0003,0.0043,15
+Mango,Lambayeque,9,0.0004,0.0054,15
+Mango,Lambayeque,10,0.0003,0.0027,15
+Mango,Lambayeque,11,0.0017,0.0093,15
+Mango,Lambayeque,12,0.0106,0.0493,15
+Mango,Lima,1,0.0482,0.1088,15
+Mango,Lima,2,0.2136,0.3446,15
+Mango,Lima,3,0.377,0.5241,15
+Mango,Lima,4,0.2744,0.5458,15
+Mango,Lima,5,0.0709,0.2139,15
+Mango,Lima,6,0.0071,0.03,15
+Mango,Lima,7,0.0024,0.0191,15
+Mango,Lima,8,0.0,0.0,15
+Mango,Lima,9,0.0001,0.001,15
+Mango,Lima,10,0.0001,0.0015,15
+Mango,Lima,11,0.0009,0.0051,15
+Mango,Lima,12,0.0054,0.0163,15
+Mango,Lima Metropolitana,1,0.003,0.0455,15
+Mango,Lima Metropolitana,2,0.002,0.0303,15
+Mango,Lima Metropolitana,3,0.2657,0.8551,15
+Mango,Lima Metropolitana,4,0.612,0.84,15
+Mango,Lima Metropolitana,5,0.1056,0.5455,15
+Mango,Lima Metropolitana,6,0.0115,0.1732,15
+Mango,Lima Metropolitana,7,0.0,0.0,15
+Mango,Lima Metropolitana,8,0.0,0.0,15
+Mango,Lima Metropolitana,9,0.0,0.0,15
+Mango,Lima Metropolitana,10,0.0,0.0,15
+Mango,Lima Metropolitana,11,0.0,0.0,15
+Mango,Lima Metropolitana,12,0.0,0.0,15
+Mango,Loreto,1,0.2801,0.3212,15
+Mango,Loreto,2,0.2431,0.2553,15
+Mango,Loreto,3,0.1175,0.1464,15
+Mango,Loreto,4,0.0275,0.0316,15
+Mango,Loreto,5,0.0002,0.0024,15
+Mango,Loreto,6,0.0,0.0,15
+Mango,Loreto,7,0.0,0.0,15
+Mango,Loreto,8,0.0,0.0,15
+Mango,Loreto,9,0.002,0.004,15
+Mango,Loreto,10,0.0098,0.0527,15
+Mango,Loreto,11,0.1186,0.172,15
+Mango,Loreto,12,0.2012,0.2504,15
+Mango,Madre de Dios,1,0.0008,0.012,15
+Mango,Madre de Dios,2,0.0,0.0,15
+Mango,Madre de Dios,3,0.0,0.0,15
+Mango,Madre de Dios,4,0.0,0.0,15
+Mango,Madre de Dios,5,0.0,0.0,15
+Mango,Madre de Dios,6,0.0,0.0,15
+Mango,Madre de Dios,7,0.0,0.0,15
+Mango,Madre de Dios,8,0.0,0.0,15
+Mango,Madre de Dios,9,0.0407,0.187,15
+Mango,Madre de Dios,10,0.2577,0.5698,15
+Mango,Madre de Dios,11,0.4367,0.6275,15
+Mango,Madre de Dios,12,0.2642,0.6608,15
+Mango,Moquegua,1,0.0524,0.1866,15
+Mango,Moquegua,2,0.2197,0.4214,15
+Mango,Moquegua,3,0.4098,0.8543,15
+Mango,Moquegua,4,0.2175,0.6004,15
+Mango,Moquegua,5,0.0825,0.2364,15
+Mango,Moquegua,6,0.0128,0.1262,15
+Mango,Moquegua,7,0.0,0.0,15
+Mango,Moquegua,8,0.0,0.0,15
+Mango,Moquegua,9,0.0,0.0,15
+Mango,Moquegua,10,0.0,0.0,15
+Mango,Moquegua,11,0.0,0.0,15
+Mango,Moquegua,12,0.0054,0.0673,15
+Mango,Pasco,1,0.3646,0.8889,15
+Mango,Pasco,2,0.2616,0.5161,15
+Mango,Pasco,3,0.0551,0.4932,15
+Mango,Pasco,4,0.0833,0.3944,15
+Mango,Pasco,5,0.1086,0.5,15
+Mango,Pasco,6,0.1157,0.5389,15
+Mango,Pasco,7,0.0111,0.1667,15
+Mango,Pasco,8,0.0,0.0,15
+Mango,Pasco,9,0.0,0.0,15
+Mango,Pasco,10,0.0,0.0,15
+Mango,Pasco,11,0.0,0.0,15
+Mango,Pasco,12,0.0,0.0,15
+Mango,Piura,1,0.4397,0.7467,15
+Mango,Piura,2,0.1468,0.352,15
+Mango,Piura,3,0.0301,0.1112,15
+Mango,Piura,4,0.0008,0.0063,15
+Mango,Piura,5,0.0002,0.0022,15
+Mango,Piura,6,0.0001,0.0008,15
+Mango,Piura,7,0.0003,0.0013,15
+Mango,Piura,8,0.0014,0.005,15
+Mango,Piura,9,0.0079,0.0251,15
+Mango,Piura,10,0.0312,0.0754,15
+Mango,Piura,11,0.0686,0.2142,15
+Mango,Piura,12,0.2728,0.4641,15
+Mango,San Martin,1,0.0671,0.1236,15
+Mango,San Martin,2,0.0493,0.1331,15
+Mango,San Martin,3,0.0091,0.0511,15
+Mango,San Martin,4,0.0015,0.0141,15
+Mango,San Martin,5,0.0,0.0,15
+Mango,San Martin,6,0.0,0.0,15
+Mango,San Martin,7,0.0,0.0,15
+Mango,San Martin,8,0.0007,0.0109,15
+Mango,San Martin,9,0.0095,0.0449,15
+Mango,San Martin,10,0.1418,0.2157,15
+Mango,San Martin,11,0.3738,0.4976,15
+Mango,San Martin,12,0.3472,0.6135,15
+Mango,Tumbes,1,0.5708,0.9827,15
+Mango,Tumbes,2,0.0095,0.1422,15
+Mango,Tumbes,3,0.0,0.0,15
+Mango,Tumbes,4,0.0,0.0,15
+Mango,Tumbes,5,0.0,0.0,15
+Mango,Tumbes,6,0.0,0.0,15
+Mango,Tumbes,7,0.0,0.0,15
+Mango,Tumbes,8,0.0,0.0,15
+Mango,Tumbes,9,0.0,0.0,15
+Mango,Tumbes,10,0.003,0.045,15
+Mango,Tumbes,11,0.0995,0.4072,15
+Mango,Tumbes,12,0.3172,0.7093,15
+Mango,Ucayali,1,0.1248,0.1847,15
+Mango,Ucayali,2,0.0,0.0,15
+Mango,Ucayali,3,0.0,0.0,15
+Mango,Ucayali,4,0.0,0.0,15
+Mango,Ucayali,5,0.0,0.0,15
+Mango,Ucayali,6,0.0,0.0,15
+Mango,Ucayali,7,0.0002,0.0023,15
+Mango,Ucayali,8,0.0012,0.0072,15
+Mango,Ucayali,9,0.1285,0.1803,15
+Mango,Ucayali,10,0.2603,0.3961,15
+Mango,Ucayali,11,0.2715,0.372,15
+Mango,Ucayali,12,0.2137,0.3068,15
+Maíz amarillo duro,Amazonas,1,0.0501,0.1081,15
+Maíz amarillo duro,Amazonas,2,0.0541,0.1558,15
+Maíz amarillo duro,Amazonas,3,0.0889,0.2273,15
+Maíz amarillo duro,Amazonas,4,0.1367,0.2876,15
+Maíz amarillo duro,Amazonas,5,0.1671,0.2355,15
+Maíz amarillo duro,Amazonas,6,0.1315,0.1953,15
+Maíz amarillo duro,Amazonas,7,0.1404,0.2606,15
+Maíz amarillo duro,Amazonas,8,0.1072,0.2558,15
+Maíz amarillo duro,Amazonas,9,0.0638,0.165,15
+Maíz amarillo duro,Amazonas,10,0.0205,0.0958,15
+Maíz amarillo duro,Amazonas,11,0.0137,0.0531,15
+Maíz amarillo duro,Amazonas,12,0.026,0.0516,15
+Maíz amarillo duro,Ancash,1,0.0909,0.1321,15
+Maíz amarillo duro,Ancash,2,0.079,0.1373,15
+Maíz amarillo duro,Ancash,3,0.0715,0.146,15
+Maíz amarillo duro,Ancash,4,0.0518,0.1276,15
+Maíz amarillo duro,Ancash,5,0.0451,0.0937,15
+Maíz amarillo duro,Ancash,6,0.0586,0.1009,15
+Maíz amarillo duro,Ancash,7,0.0644,0.1121,15
+Maíz amarillo duro,Ancash,8,0.0754,0.1927,15
+Maíz amarillo duro,Ancash,9,0.1017,0.1788,15
+Maíz amarillo duro,Ancash,10,0.122,0.1948,15
+Maíz amarillo duro,Ancash,11,0.1148,0.2066,15
+Maíz amarillo duro,Ancash,12,0.1249,0.1973,15
+Maíz amarillo duro,Apurimac,1,0.0012,0.0074,15
+Maíz amarillo duro,Apurimac,2,0.0039,0.0441,15
+Maíz amarillo duro,Apurimac,3,0.0081,0.0428,15
+Maíz amarillo duro,Apurimac,4,0.1411,0.319,15
+Maíz amarillo duro,Apurimac,5,0.3444,0.6288,15
+Maíz amarillo duro,Apurimac,6,0.2925,0.5604,15
+Maíz amarillo duro,Apurimac,7,0.1615,0.3546,15
+Maíz amarillo duro,Apurimac,8,0.0404,0.1427,15
+Maíz amarillo duro,Apurimac,9,0.0029,0.0382,15
+Maíz amarillo duro,Apurimac,10,0.0016,0.0151,15
+Maíz amarillo duro,Apurimac,11,0.0016,0.0122,15
+Maíz amarillo duro,Apurimac,12,0.0008,0.0044,15
+Maíz amarillo duro,Arequipa,1,0.0175,0.1113,15
+Maíz amarillo duro,Arequipa,2,0.031,0.1265,15
+Maíz amarillo duro,Arequipa,3,0.0455,0.269,15
+Maíz amarillo duro,Arequipa,4,0.0287,0.091,15
+Maíz amarillo duro,Arequipa,5,0.081,0.332,15
+Maíz amarillo duro,Arequipa,6,0.1928,0.4532,15
+Maíz amarillo duro,Arequipa,7,0.2521,0.5556,15
+Maíz amarillo duro,Arequipa,8,0.2164,0.7532,15
+Maíz amarillo duro,Arequipa,9,0.067,0.2806,15
+Maíz amarillo duro,Arequipa,10,0.024,0.324,15
+Maíz amarillo duro,Arequipa,11,0.011,0.108,15
+Maíz amarillo duro,Arequipa,12,0.033,0.2462,15
+Maíz amarillo duro,Ayacucho,1,0.1902,0.4721,15
+Maíz amarillo duro,Ayacucho,2,0.1871,0.2884,15
+Maíz amarillo duro,Ayacucho,3,0.1948,0.3861,15
+Maíz amarillo duro,Ayacucho,4,0.153,0.4166,15
+Maíz amarillo duro,Ayacucho,5,0.1067,0.2193,15
+Maíz amarillo duro,Ayacucho,6,0.0877,0.2334,15
+Maíz amarillo duro,Ayacucho,7,0.0281,0.0612,15
+Maíz amarillo duro,Ayacucho,8,0.0067,0.0315,15
+Maíz amarillo duro,Ayacucho,9,0.0089,0.044,15
+Maíz amarillo duro,Ayacucho,10,0.0018,0.0142,15
+Maíz amarillo duro,Ayacucho,11,0.0029,0.043,15
+Maíz amarillo duro,Ayacucho,12,0.0321,0.1342,15
+Maíz amarillo duro,Cajamarca,1,0.0282,0.0781,15
+Maíz amarillo duro,Cajamarca,2,0.0275,0.0449,15
+Maíz amarillo duro,Cajamarca,3,0.0594,0.0888,15
+Maíz amarillo duro,Cajamarca,4,0.1147,0.1645,15
+Maíz amarillo duro,Cajamarca,5,0.1538,0.1902,15
+Maíz amarillo duro,Cajamarca,6,0.2029,0.2606,15
+Maíz amarillo duro,Cajamarca,7,0.1969,0.2744,15
+Maíz amarillo duro,Cajamarca,8,0.0977,0.1422,15
+Maíz amarillo duro,Cajamarca,9,0.0203,0.0416,15
+Maíz amarillo duro,Cajamarca,10,0.018,0.0535,15
+Maíz amarillo duro,Cajamarca,11,0.0439,0.0793,15
+Maíz amarillo duro,Cajamarca,12,0.0369,0.0669,15
+Maíz amarillo duro,Cusco,1,0.1081,0.218,15
+Maíz amarillo duro,Cusco,2,0.2248,0.3267,15
+Maíz amarillo duro,Cusco,3,0.1702,0.3038,15
+Maíz amarillo duro,Cusco,4,0.1138,0.2541,15
+Maíz amarillo duro,Cusco,5,0.2464,0.4421,15
+Maíz amarillo duro,Cusco,6,0.075,0.2244,15
+Maíz amarillo duro,Cusco,7,0.0261,0.127,15
+Maíz amarillo duro,Cusco,8,0.0024,0.0254,15
+Maíz amarillo duro,Cusco,9,0.0011,0.0102,15
+Maíz amarillo duro,Cusco,10,0.0123,0.1772,15
+Maíz amarillo duro,Cusco,11,0.0005,0.0042,15
+Maíz amarillo duro,Cusco,12,0.0193,0.0854,15
+Maíz amarillo duro,Huancavelica,1,0.0022,0.0145,15
+Maíz amarillo duro,Huancavelica,2,0.0103,0.0362,15
+Maíz amarillo duro,Huancavelica,3,0.0222,0.0444,15
+Maíz amarillo duro,Huancavelica,4,0.0482,0.1018,15
+Maíz amarillo duro,Huancavelica,5,0.2868,0.4936,15
+Maíz amarillo duro,Huancavelica,6,0.247,0.5506,15
+Maíz amarillo duro,Huancavelica,7,0.1587,0.5946,15
+Maíz amarillo duro,Huancavelica,8,0.0955,0.3661,15
+Maíz amarillo duro,Huancavelica,9,0.0357,0.153,15
+Maíz amarillo duro,Huancavelica,10,0.0399,0.1347,15
+Maíz amarillo duro,Huancavelica,11,0.0404,0.1294,15
+Maíz amarillo duro,Huancavelica,12,0.0131,0.0397,15
+Maíz amarillo duro,Huanuco,1,0.1613,0.2058,15
+Maíz amarillo duro,Huanuco,2,0.2165,0.2802,15
+Maíz amarillo duro,Huanuco,3,0.1596,0.2998,15
+Maíz amarillo duro,Huanuco,4,0.0668,0.1212,15
+Maíz amarillo duro,Huanuco,5,0.0386,0.088,15
+Maíz amarillo duro,Huanuco,6,0.0149,0.0812,15
+Maíz amarillo duro,Huanuco,7,0.0497,0.1031,15
+Maíz amarillo duro,Huanuco,8,0.0758,0.151,15
+Maíz amarillo duro,Huanuco,9,0.0646,0.114,15
+Maíz amarillo duro,Huanuco,10,0.0473,0.119,15
+Maíz amarillo duro,Huanuco,11,0.0331,0.0573,15
+Maíz amarillo duro,Huanuco,12,0.072,0.1295,15
+Maíz amarillo duro,Ica,1,0.0556,0.0861,15
+Maíz amarillo duro,Ica,2,0.0748,0.1267,15
+Maíz amarillo duro,Ica,3,0.083,0.1212,15
+Maíz amarillo duro,Ica,4,0.0661,0.1083,15
+Maíz amarillo duro,Ica,5,0.1022,0.2447,15
+Maíz amarillo duro,Ica,6,0.1254,0.3273,15
+Maíz amarillo duro,Ica,7,0.1332,0.24,15
+Maíz amarillo duro,Ica,8,0.1168,0.1667,15
+Maíz amarillo duro,Ica,9,0.0888,0.1671,15
+Maíz amarillo duro,Ica,10,0.0595,0.1076,15
+Maíz amarillo duro,Ica,11,0.0489,0.0897,15
+Maíz amarillo duro,Ica,12,0.0456,0.0674,15
+Maíz amarillo duro,Junin,1,0.1156,0.15,15
+Maíz amarillo duro,Junin,2,0.1979,0.2244,15
+Maíz amarillo duro,Junin,3,0.2341,0.2992,15
+Maíz amarillo duro,Junin,4,0.1612,0.2183,15
+Maíz amarillo duro,Junin,5,0.0669,0.092,15
+Maíz amarillo duro,Junin,6,0.0158,0.0332,15
+Maíz amarillo duro,Junin,7,0.0074,0.0166,15
+Maíz amarillo duro,Junin,8,0.0513,0.0689,15
+Maíz amarillo duro,Junin,9,0.0622,0.0913,15
+Maíz amarillo duro,Junin,10,0.034,0.0562,15
+Maíz amarillo duro,Junin,11,0.0181,0.0316,15
+Maíz amarillo duro,Junin,12,0.0353,0.0504,15
+Maíz amarillo duro,La Libertad,1,0.0325,0.0549,15
+Maíz amarillo duro,La Libertad,2,0.0292,0.0457,15
+Maíz amarillo duro,La Libertad,3,0.0299,0.0466,15
+Maíz amarillo duro,La Libertad,4,0.0382,0.0573,15
+Maíz amarillo duro,La Libertad,5,0.0634,0.1412,15
+Maíz amarillo duro,La Libertad,6,0.1579,0.296,15
+Maíz amarillo duro,La Libertad,7,0.1635,0.335,15
+Maíz amarillo duro,La Libertad,8,0.0964,0.2413,15
+Maíz amarillo duro,La Libertad,9,0.0905,0.3496,15
+Maíz amarillo duro,La Libertad,10,0.1031,0.2083,15
+Maíz amarillo duro,La Libertad,11,0.1392,0.2691,15
+Maíz amarillo duro,La Libertad,12,0.0562,0.1101,15
+Maíz amarillo duro,Lambayeque,1,0.0452,0.0822,15
+Maíz amarillo duro,Lambayeque,2,0.0355,0.0591,15
+Maíz amarillo duro,Lambayeque,3,0.0235,0.0465,15
+Maíz amarillo duro,Lambayeque,4,0.0561,0.1581,15
+Maíz amarillo duro,Lambayeque,5,0.0638,0.1332,15
+Maíz amarillo duro,Lambayeque,6,0.0798,0.165,15
+Maíz amarillo duro,Lambayeque,7,0.1023,0.1665,15
+Maíz amarillo duro,Lambayeque,8,0.1432,0.2487,15
+Maíz amarillo duro,Lambayeque,9,0.1543,0.2284,15
+Maíz amarillo duro,Lambayeque,10,0.1313,0.2102,15
+Maíz amarillo duro,Lambayeque,11,0.0964,0.1887,15
+Maíz amarillo duro,Lambayeque,12,0.0687,0.1508,15
+Maíz amarillo duro,Lima,1,0.0873,0.146,15
+Maíz amarillo duro,Lima,2,0.0886,0.1192,15
+Maíz amarillo duro,Lima,3,0.0932,0.1283,15
+Maíz amarillo duro,Lima,4,0.0834,0.1185,15
+Maíz amarillo duro,Lima,5,0.0784,0.113,15
+Maíz amarillo duro,Lima,6,0.1197,0.2125,15
+Maíz amarillo duro,Lima,7,0.1565,0.2659,15
+Maíz amarillo duro,Lima,8,0.0909,0.1725,15
+Maíz amarillo duro,Lima,9,0.0578,0.0977,15
+Maíz amarillo duro,Lima,10,0.0397,0.0598,15
+Maíz amarillo duro,Lima,11,0.0413,0.0643,15
+Maíz amarillo duro,Lima,12,0.0632,0.0797,15
+Maíz amarillo duro,Lima Metropolitana,1,0.1444,0.3841,15
+Maíz amarillo duro,Lima Metropolitana,2,0.1334,0.3782,15
+Maíz amarillo duro,Lima Metropolitana,3,0.1639,0.3421,15
+Maíz amarillo duro,Lima Metropolitana,4,0.151,0.4344,15
+Maíz amarillo duro,Lima Metropolitana,5,0.0778,0.2142,15
+Maíz amarillo duro,Lima Metropolitana,6,0.0311,0.1169,15
+Maíz amarillo duro,Lima Metropolitana,7,0.0375,0.1817,15
+Maíz amarillo duro,Lima Metropolitana,8,0.0286,0.107,15
+Maíz amarillo duro,Lima Metropolitana,9,0.0357,0.0969,15
+Maíz amarillo duro,Lima Metropolitana,10,0.0293,0.1813,15
+Maíz amarillo duro,Lima Metropolitana,11,0.018,0.1394,15
+Maíz amarillo duro,Lima Metropolitana,12,0.1491,0.7282,15
+Maíz amarillo duro,Loreto,1,0.0952,0.1191,15
+Maíz amarillo duro,Loreto,2,0.0488,0.0783,15
+Maíz amarillo duro,Loreto,3,0.0263,0.0407,15
+Maíz amarillo duro,Loreto,4,0.0145,0.0264,15
+Maíz amarillo duro,Loreto,5,0.0069,0.0202,15
+Maíz amarillo duro,Loreto,6,0.0064,0.0178,15
+Maíz amarillo duro,Loreto,7,0.0296,0.044,15
+Maíz amarillo duro,Loreto,8,0.0669,0.0916,15
+Maíz amarillo duro,Loreto,9,0.1167,0.1317,15
+Maíz amarillo duro,Loreto,10,0.17,0.2178,15
+Maíz amarillo duro,Loreto,11,0.2072,0.2664,15
+Maíz amarillo duro,Loreto,12,0.2114,0.262,15
+Maíz amarillo duro,Madre de Dios,1,0.1547,0.2651,15
+Maíz amarillo duro,Madre de Dios,2,0.3643,0.5115,15
+Maíz amarillo duro,Madre de Dios,3,0.2891,0.3532,15
+Maíz amarillo duro,Madre de Dios,4,0.104,0.1675,15
+Maíz amarillo duro,Madre de Dios,5,0.0044,0.0323,15
+Maíz amarillo duro,Madre de Dios,6,0.0121,0.0344,15
+Maíz amarillo duro,Madre de Dios,7,0.0324,0.0815,15
+Maíz amarillo duro,Madre de Dios,8,0.024,0.053,15
+Maíz amarillo duro,Madre de Dios,9,0.0063,0.0747,15
+Maíz amarillo duro,Madre de Dios,10,0.0,0.0003,15
+Maíz amarillo duro,Madre de Dios,11,0.0001,0.0011,15
+Maíz amarillo duro,Madre de Dios,12,0.0087,0.0304,15
+Maíz amarillo duro,Moquegua,1,0.2098,0.3032,15
+Maíz amarillo duro,Moquegua,2,0.1422,0.2451,15
+Maíz amarillo duro,Moquegua,3,0.1195,0.2426,15
+Maíz amarillo duro,Moquegua,4,0.0908,0.2191,15
+Maíz amarillo duro,Moquegua,5,0.0803,0.1922,15
+Maíz amarillo duro,Moquegua,6,0.0849,0.1646,15
+Maíz amarillo duro,Moquegua,7,0.0743,0.2876,15
+Maíz amarillo duro,Moquegua,8,0.0333,0.1542,15
+Maíz amarillo duro,Moquegua,9,0.0396,0.1714,15
+Maíz amarillo duro,Moquegua,10,0.0162,0.0732,15
+Maíz amarillo duro,Moquegua,11,0.0266,0.2002,15
+Maíz amarillo duro,Moquegua,12,0.0825,0.2542,15
+Maíz amarillo duro,Pasco,1,0.1836,0.2741,15
+Maíz amarillo duro,Pasco,2,0.2213,0.2689,15
+Maíz amarillo duro,Pasco,3,0.1035,0.1471,15
+Maíz amarillo duro,Pasco,4,0.0452,0.1006,15
+Maíz amarillo duro,Pasco,5,0.0152,0.0466,15
+Maíz amarillo duro,Pasco,6,0.0558,0.0978,15
+Maíz amarillo duro,Pasco,7,0.1056,0.1499,15
+Maíz amarillo duro,Pasco,8,0.0972,0.1599,15
+Maíz amarillo duro,Pasco,9,0.039,0.1431,15
+Maíz amarillo duro,Pasco,10,0.0127,0.0576,15
+Maíz amarillo duro,Pasco,11,0.0162,0.0758,15
+Maíz amarillo duro,Pasco,12,0.1045,0.161,15
+Maíz amarillo duro,Piura,1,0.0669,0.1421,15
+Maíz amarillo duro,Piura,2,0.0258,0.0774,15
+Maíz amarillo duro,Piura,3,0.0065,0.022,15
+Maíz amarillo duro,Piura,4,0.0078,0.0489,15
+Maíz amarillo duro,Piura,5,0.0305,0.0658,15
+Maíz amarillo duro,Piura,6,0.1733,0.2994,15
+Maíz amarillo duro,Piura,7,0.1775,0.2884,15
+Maíz amarillo duro,Piura,8,0.0816,0.1761,15
+Maíz amarillo duro,Piura,9,0.0271,0.0805,15
+Maíz amarillo duro,Piura,10,0.0465,0.1132,15
+Maíz amarillo duro,Piura,11,0.1524,0.3548,15
+Maíz amarillo duro,Piura,12,0.204,0.3678,15
+Maíz amarillo duro,Puno,1,0.0,0.0,15
+Maíz amarillo duro,Puno,2,0.0,0.0,15
+Maíz amarillo duro,Puno,3,0.042,0.1008,15
+Maíz amarillo duro,Puno,4,0.5317,0.6553,15
+Maíz amarillo duro,Puno,5,0.4199,0.5823,15
+Maíz amarillo duro,Puno,6,0.0064,0.0253,15
+Maíz amarillo duro,Puno,7,0.0,0.0,15
+Maíz amarillo duro,Puno,8,0.0,0.0,15
+Maíz amarillo duro,Puno,9,0.0,0.0,15
+Maíz amarillo duro,Puno,10,0.0,0.0,15
+Maíz amarillo duro,Puno,11,0.0,0.0,15
+Maíz amarillo duro,Puno,12,0.0,0.0,15
+Maíz amarillo duro,San Martin,1,0.1456,0.2517,15
+Maíz amarillo duro,San Martin,2,0.2065,0.2836,15
+Maíz amarillo duro,San Martin,3,0.0738,0.157,15
+Maíz amarillo duro,San Martin,4,0.0091,0.0387,15
+Maíz amarillo duro,San Martin,5,0.0341,0.0605,15
+Maíz amarillo duro,San Martin,6,0.1463,0.2365,15
+Maíz amarillo duro,San Martin,7,0.1822,0.26,15
+Maíz amarillo duro,San Martin,8,0.0972,0.1847,15
+Maíz amarillo duro,San Martin,9,0.0225,0.0551,15
+Maíz amarillo duro,San Martin,10,0.0195,0.0437,15
+Maíz amarillo duro,San Martin,11,0.0294,0.0716,15
+Maíz amarillo duro,San Martin,12,0.0338,0.0908,15
+Maíz amarillo duro,Tacna,1,0.1941,0.6667,10
+Maíz amarillo duro,Tacna,2,0.1849,0.4808,10
+Maíz amarillo duro,Tacna,3,0.1628,0.6429,10
+Maíz amarillo duro,Tacna,4,0.0257,0.2571,10
+Maíz amarillo duro,Tacna,5,0.0,0.0,10
+Maíz amarillo duro,Tacna,6,0.0229,0.2286,10
+Maíz amarillo duro,Tacna,7,0.0051,0.0513,10
+Maíz amarillo duro,Tacna,8,0.0143,0.0921,10
+Maíz amarillo duro,Tacna,9,0.0407,0.1901,10
+Maíz amarillo duro,Tacna,10,0.0997,0.2324,10
+Maíz amarillo duro,Tacna,11,0.128,0.3056,10
+Maíz amarillo duro,Tacna,12,0.1218,0.3333,10
+Maíz amarillo duro,Tumbes,1,0.047,0.1617,15
+Maíz amarillo duro,Tumbes,2,0.0227,0.082,15
+Maíz amarillo duro,Tumbes,3,0.0111,0.0351,15
+Maíz amarillo duro,Tumbes,4,0.0197,0.1136,15
+Maíz amarillo duro,Tumbes,5,0.1034,0.3593,15
+Maíz amarillo duro,Tumbes,6,0.5084,0.8325,15
+Maíz amarillo duro,Tumbes,7,0.0897,0.3807,15
+Maíz amarillo duro,Tumbes,8,0.0218,0.072,15
+Maíz amarillo duro,Tumbes,9,0.0302,0.1229,15
+Maíz amarillo duro,Tumbes,10,0.0412,0.0979,15
+Maíz amarillo duro,Tumbes,11,0.0508,0.1344,15
+Maíz amarillo duro,Tumbes,12,0.0539,0.201,15
+Maíz amarillo duro,Ucayali,1,0.1603,0.2627,15
+Maíz amarillo duro,Ucayali,2,0.1145,0.1619,15
+Maíz amarillo duro,Ucayali,3,0.074,0.1127,15
+Maíz amarillo duro,Ucayali,4,0.0522,0.0796,15
+Maíz amarillo duro,Ucayali,5,0.0357,0.0655,15
+Maíz amarillo duro,Ucayali,6,0.0245,0.0515,15
+Maíz amarillo duro,Ucayali,7,0.0178,0.0437,15
+Maíz amarillo duro,Ucayali,8,0.0542,0.1555,15
+Maíz amarillo duro,Ucayali,9,0.1153,0.1626,15
+Maíz amarillo duro,Ucayali,10,0.1386,0.2852,15
+Maíz amarillo duro,Ucayali,11,0.0839,0.1545,15
+Maíz amarillo duro,Ucayali,12,0.1288,0.2583,15
+Maíz amiláceo,Amazonas,1,0.01,0.0562,15
+Maíz amiláceo,Amazonas,2,0.0442,0.0765,15
+Maíz amiláceo,Amazonas,3,0.0225,0.043,15
+Maíz amiláceo,Amazonas,4,0.0074,0.0216,15
+Maíz amiláceo,Amazonas,5,0.0583,0.3212,15
+Maíz amiláceo,Amazonas,6,0.2235,0.4713,15
+Maíz amiláceo,Amazonas,7,0.4019,0.8254,15
+Maíz amiláceo,Amazonas,8,0.1919,0.6267,15
+Maíz amiláceo,Amazonas,9,0.0143,0.0826,15
+Maíz amiláceo,Amazonas,10,0.0072,0.0241,15
+Maíz amiláceo,Amazonas,11,0.0027,0.0091,15
+Maíz amiláceo,Amazonas,12,0.0162,0.0455,15
+Maíz amiláceo,Ancash,1,0.0023,0.0064,15
+Maíz amiláceo,Ancash,2,0.0148,0.034,15
+Maíz amiláceo,Ancash,3,0.0275,0.0718,15
+Maíz amiláceo,Ancash,4,0.0577,0.2369,15
+Maíz amiláceo,Ancash,5,0.1792,0.4024,15
+Maíz amiláceo,Ancash,6,0.4005,0.4935,15
+Maíz amiláceo,Ancash,7,0.2424,0.5247,15
+Maíz amiláceo,Ancash,8,0.0561,0.1429,15
+Maíz amiláceo,Ancash,9,0.0073,0.0274,15
+Maíz amiláceo,Ancash,10,0.0031,0.0127,15
+Maíz amiláceo,Ancash,11,0.003,0.0124,15
+Maíz amiláceo,Ancash,12,0.0061,0.0177,15
+Maíz amiláceo,Apurimac,1,0.0,0.0,15
+Maíz amiláceo,Apurimac,2,0.0,0.0,15
+Maíz amiláceo,Apurimac,3,0.0005,0.005,15
+Maíz amiláceo,Apurimac,4,0.0346,0.0894,15
+Maíz amiláceo,Apurimac,5,0.3838,0.5354,15
+Maíz amiláceo,Apurimac,6,0.4164,0.5699,15
+Maíz amiláceo,Apurimac,7,0.1447,0.2927,15
+Maíz amiláceo,Apurimac,8,0.02,0.1707,15
+Maíz amiláceo,Apurimac,9,0.0,0.0002,15
+Maíz amiláceo,Apurimac,10,0.0,0.0,15
+Maíz amiláceo,Apurimac,11,0.0,0.0,15
+Maíz amiláceo,Apurimac,12,0.0,0.0,15
+Maíz amiláceo,Arequipa,1,0.0018,0.0154,15
+Maíz amiláceo,Arequipa,2,0.0059,0.0234,15
+Maíz amiláceo,Arequipa,3,0.0137,0.0247,15
+Maíz amiláceo,Arequipa,4,0.1152,0.1805,15
+Maíz amiláceo,Arequipa,5,0.4597,0.5908,15
+Maíz amiláceo,Arequipa,6,0.3467,0.5856,15
+Maíz amiláceo,Arequipa,7,0.0234,0.0852,15
+Maíz amiláceo,Arequipa,8,0.0039,0.0175,15
+Maíz amiláceo,Arequipa,9,0.0059,0.0178,15
+Maíz amiláceo,Arequipa,10,0.0097,0.0201,15
+Maíz amiláceo,Arequipa,11,0.0105,0.0204,15
+Maíz amiláceo,Arequipa,12,0.0036,0.0092,15
+Maíz amiláceo,Ayacucho,1,0.0003,0.0026,15
+Maíz amiláceo,Ayacucho,2,0.0009,0.0101,15
+Maíz amiláceo,Ayacucho,3,0.0032,0.0097,15
+Maíz amiláceo,Ayacucho,4,0.053,0.0958,15
+Maíz amiláceo,Ayacucho,5,0.3283,0.4205,15
+Maíz amiláceo,Ayacucho,6,0.4867,0.574,15
+Maíz amiláceo,Ayacucho,7,0.1234,0.2449,15
+Maíz amiláceo,Ayacucho,8,0.0035,0.0141,15
+Maíz amiláceo,Ayacucho,9,0.0002,0.0012,15
+Maíz amiláceo,Ayacucho,10,0.0002,0.0015,15
+Maíz amiláceo,Ayacucho,11,0.0001,0.0005,15
+Maíz amiláceo,Ayacucho,12,0.0002,0.0014,15
+Maíz amiláceo,Cajamarca,1,0.0001,0.0003,15
+Maíz amiláceo,Cajamarca,2,0.0004,0.0011,15
+Maíz amiláceo,Cajamarca,3,0.0033,0.0064,15
+Maíz amiláceo,Cajamarca,4,0.0447,0.09,15
+Maíz amiláceo,Cajamarca,5,0.2913,0.4267,15
+Maíz amiláceo,Cajamarca,6,0.4181,0.4658,15
+Maíz amiláceo,Cajamarca,7,0.1834,0.2381,15
+Maíz amiláceo,Cajamarca,8,0.0469,0.077,15
+Maíz amiláceo,Cajamarca,9,0.0096,0.0177,15
+Maíz amiláceo,Cajamarca,10,0.001,0.012,15
+Maíz amiláceo,Cajamarca,11,0.0002,0.0017,15
+Maíz amiláceo,Cajamarca,12,0.001,0.0027,15
+Maíz amiláceo,Cusco,1,0.0004,0.0055,15
+Maíz amiláceo,Cusco,2,0.0002,0.001,15
+Maíz amiláceo,Cusco,3,0.0056,0.0175,15
+Maíz amiláceo,Cusco,4,0.1719,0.2888,15
+Maíz amiláceo,Cusco,5,0.4355,0.5455,15
+Maíz amiláceo,Cusco,6,0.249,0.501,15
+Maíz amiláceo,Cusco,7,0.1365,0.2335,15
+Maíz amiláceo,Cusco,8,0.0009,0.0077,15
+Maíz amiláceo,Cusco,9,0.0,0.0,15
+Maíz amiláceo,Cusco,10,0.0,0.0,15
+Maíz amiláceo,Cusco,11,0.0,0.0,15
+Maíz amiláceo,Cusco,12,0.0,0.0,15
+Maíz amiláceo,Huancavelica,1,0.0,0.0005,15
+Maíz amiláceo,Huancavelica,2,0.0051,0.0194,15
+Maíz amiláceo,Huancavelica,3,0.0056,0.0168,15
+Maíz amiláceo,Huancavelica,4,0.0436,0.099,15
+Maíz amiláceo,Huancavelica,5,0.3154,0.4297,15
+Maíz amiláceo,Huancavelica,6,0.3551,0.4782,15
+Maíz amiláceo,Huancavelica,7,0.2225,0.3931,15
+Maíz amiláceo,Huancavelica,8,0.0359,0.0615,15
+Maíz amiláceo,Huancavelica,9,0.0078,0.0452,15
+Maíz amiláceo,Huancavelica,10,0.0072,0.0333,15
+Maíz amiláceo,Huancavelica,11,0.0015,0.0048,15
+Maíz amiláceo,Huancavelica,12,0.0002,0.0014,15
+Maíz amiláceo,Huanuco,1,0.0,0.0,15
+Maíz amiláceo,Huanuco,2,0.0,0.0,15
+Maíz amiláceo,Huanuco,3,0.0,0.0,15
+Maíz amiláceo,Huanuco,4,0.0009,0.0034,15
+Maíz amiláceo,Huanuco,5,0.1002,0.1309,15
+Maíz amiláceo,Huanuco,6,0.3566,0.4243,15
+Maíz amiláceo,Huanuco,7,0.3547,0.4051,15
+Maíz amiláceo,Huanuco,8,0.1661,0.2358,15
+Maíz amiláceo,Huanuco,9,0.0215,0.0566,15
+Maíz amiláceo,Huanuco,10,0.0,0.0,15
+Maíz amiláceo,Huanuco,11,0.0,0.0,15
+Maíz amiláceo,Huanuco,12,0.0,0.0,15
+Maíz amiláceo,Ica,1,0.0346,0.1469,15
+Maíz amiláceo,Ica,2,0.0423,0.192,15
+Maíz amiláceo,Ica,3,0.1141,0.352,15
+Maíz amiláceo,Ica,4,0.1105,0.2191,15
+Maíz amiláceo,Ica,5,0.0787,0.1793,15
+Maíz amiláceo,Ica,6,0.0846,0.2043,15
+Maíz amiláceo,Ica,7,0.0931,0.2239,15
+Maíz amiláceo,Ica,8,0.1391,0.3146,15
+Maíz amiláceo,Ica,9,0.1347,0.27,15
+Maíz amiláceo,Ica,10,0.0836,0.2587,15
+Maíz amiláceo,Ica,11,0.0554,0.1669,15
+Maíz amiláceo,Ica,12,0.0292,0.0906,15
+Maíz amiláceo,Junin,1,0.0,0.0002,15
+Maíz amiláceo,Junin,2,0.0001,0.0009,15
+Maíz amiláceo,Junin,3,0.003,0.0079,15
+Maíz amiláceo,Junin,4,0.0113,0.0246,15
+Maíz amiláceo,Junin,5,0.2571,0.3479,15
+Maíz amiláceo,Junin,6,0.5627,0.6466,15
+Maíz amiláceo,Junin,7,0.1423,0.2013,15
+Maíz amiláceo,Junin,8,0.0234,0.0399,15
+Maíz amiláceo,Junin,9,0.0001,0.0008,15
+Maíz amiláceo,Junin,10,0.0,0.0,15
+Maíz amiláceo,Junin,11,0.0,0.0,15
+Maíz amiláceo,Junin,12,0.0,0.0,15
+Maíz amiláceo,La Libertad,1,0.0001,0.001,15
+Maíz amiláceo,La Libertad,2,0.0017,0.0052,15
+Maíz amiláceo,La Libertad,3,0.0034,0.0132,15
+Maíz amiláceo,La Libertad,4,0.0097,0.0243,15
+Maíz amiláceo,La Libertad,5,0.0634,0.1193,15
+Maíz amiláceo,La Libertad,6,0.2951,0.3354,15
+Maíz amiláceo,La Libertad,7,0.454,0.4912,15
+Maíz amiláceo,La Libertad,8,0.1562,0.3117,15
+Maíz amiláceo,La Libertad,9,0.0151,0.0591,15
+Maíz amiláceo,La Libertad,10,0.0011,0.0068,15
+Maíz amiláceo,La Libertad,11,0.0,0.0002,15
+Maíz amiláceo,La Libertad,12,0.0002,0.0015,15
+Maíz amiláceo,Lambayeque,1,0.032,0.1188,15
+Maíz amiláceo,Lambayeque,2,0.0343,0.0555,15
+Maíz amiláceo,Lambayeque,3,0.0543,0.1319,15
+Maíz amiláceo,Lambayeque,4,0.0731,0.1329,15
+Maíz amiláceo,Lambayeque,5,0.0944,0.2463,15
+Maíz amiláceo,Lambayeque,6,0.0861,0.1512,15
+Maíz amiláceo,Lambayeque,7,0.098,0.1684,15
+Maíz amiláceo,Lambayeque,8,0.0927,0.176,15
+Maíz amiláceo,Lambayeque,9,0.0953,0.2921,15
+Maíz amiláceo,Lambayeque,10,0.0718,0.1631,15
+Maíz amiláceo,Lambayeque,11,0.155,0.3001,15
+Maíz amiláceo,Lambayeque,12,0.1131,0.368,15
+Maíz amiláceo,Lima,1,0.0032,0.0478,15
+Maíz amiláceo,Lima,2,0.0064,0.0861,15
+Maíz amiláceo,Lima,3,0.0142,0.0982,15
+Maíz amiláceo,Lima,4,0.0391,0.1016,15
+Maíz amiláceo,Lima,5,0.091,0.2169,15
+Maíz amiláceo,Lima,6,0.1786,0.2532,15
+Maíz amiláceo,Lima,7,0.2774,0.3985,15
+Maíz amiláceo,Lima,8,0.2213,0.395,15
+Maíz amiláceo,Lima,9,0.1416,0.3061,15
+Maíz amiláceo,Lima,10,0.0243,0.0772,15
+Maíz amiláceo,Lima,11,0.0014,0.0113,15
+Maíz amiláceo,Lima,12,0.0016,0.0192,15
+Maíz amiláceo,Lima Metropolitana,1,0.616,1.0,7
+Maíz amiláceo,Lima Metropolitana,2,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,3,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,4,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,5,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,6,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,7,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,8,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,9,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,10,0.0,0.0,7
+Maíz amiláceo,Lima Metropolitana,11,0.0477,0.3339,7
+Maíz amiláceo,Lima Metropolitana,12,0.3363,1.0,7
+Maíz amiláceo,Moquegua,1,0.0147,0.0885,15
+Maíz amiláceo,Moquegua,2,0.0089,0.0461,15
+Maíz amiláceo,Moquegua,3,0.0155,0.0628,15
+Maíz amiláceo,Moquegua,4,0.1923,0.3727,15
+Maíz amiláceo,Moquegua,5,0.5893,0.8496,15
+Maíz amiláceo,Moquegua,6,0.1462,0.4853,15
+Maíz amiláceo,Moquegua,7,0.0182,0.042,15
+Maíz amiláceo,Moquegua,8,0.0042,0.0133,15
+Maíz amiláceo,Moquegua,9,0.0019,0.0081,15
+Maíz amiláceo,Moquegua,10,0.0019,0.0062,15
+Maíz amiláceo,Moquegua,11,0.0013,0.0067,15
+Maíz amiláceo,Moquegua,12,0.0054,0.0214,15
+Maíz amiláceo,Pasco,1,0.0,0.0,15
+Maíz amiláceo,Pasco,2,0.0,0.0,15
+Maíz amiláceo,Pasco,3,0.0,0.0,15
+Maíz amiláceo,Pasco,4,0.0,0.0,15
+Maíz amiláceo,Pasco,5,0.0268,0.1393,15
+Maíz amiláceo,Pasco,6,0.3017,0.6308,15
+Maíz amiláceo,Pasco,7,0.6129,0.9135,15
+Maíz amiláceo,Pasco,8,0.0586,0.2011,15
+Maíz amiláceo,Pasco,9,0.0,0.0,15
+Maíz amiláceo,Pasco,10,0.0,0.0,15
+Maíz amiláceo,Pasco,11,0.0,0.0,15
+Maíz amiláceo,Pasco,12,0.0,0.0,15
+Maíz amiláceo,Piura,1,0.0,0.0,15
+Maíz amiláceo,Piura,2,0.001,0.0147,15
+Maíz amiláceo,Piura,3,0.0002,0.0025,15
+Maíz amiláceo,Piura,4,0.0083,0.0833,15
+Maíz amiláceo,Piura,5,0.0308,0.0644,15
+Maíz amiláceo,Piura,6,0.1212,0.3184,15
+Maíz amiláceo,Piura,7,0.2472,0.5792,15
+Maíz amiláceo,Piura,8,0.3752,0.538,15
+Maíz amiláceo,Piura,9,0.2034,0.4151,15
+Maíz amiláceo,Piura,10,0.0102,0.0625,15
+Maíz amiláceo,Piura,11,0.001,0.0149,15
+Maíz amiláceo,Piura,12,0.0015,0.0175,15
+Maíz amiláceo,Puno,1,0.0,0.0,15
+Maíz amiláceo,Puno,2,0.0,0.0,15
+Maíz amiláceo,Puno,3,0.0091,0.081,15
+Maíz amiláceo,Puno,4,0.4364,0.6263,15
+Maíz amiláceo,Puno,5,0.5431,0.7087,15
+Maíz amiláceo,Puno,6,0.0114,0.0846,15
+Maíz amiláceo,Puno,7,0.0,0.0,15
+Maíz amiláceo,Puno,8,0.0,0.0,15
+Maíz amiláceo,Puno,9,0.0,0.0,15
+Maíz amiláceo,Puno,10,0.0,0.0,15
+Maíz amiláceo,Puno,11,0.0,0.0,15
+Maíz amiláceo,Puno,12,0.0,0.0,15
+Maíz amiláceo,Tacna,1,0.0155,0.0628,15
+Maíz amiláceo,Tacna,2,0.0186,0.1006,15
+Maíz amiláceo,Tacna,3,0.0202,0.0844,15
+Maíz amiláceo,Tacna,4,0.0219,0.059,15
+Maíz amiláceo,Tacna,5,0.225,0.7951,15
+Maíz amiláceo,Tacna,6,0.5355,0.8897,15
+Maíz amiláceo,Tacna,7,0.0859,0.4083,15
+Maíz amiláceo,Tacna,8,0.006,0.0203,15
+Maíz amiláceo,Tacna,9,0.0075,0.0404,15
+Maíz amiláceo,Tacna,10,0.03,0.134,15
+Maíz amiláceo,Tacna,11,0.0164,0.0671,15
+Maíz amiláceo,Tacna,12,0.0175,0.1082,15
+Maíz choclo,Amazonas,1,0.055,0.1622,15
+Maíz choclo,Amazonas,2,0.0616,0.1532,15
+Maíz choclo,Amazonas,3,0.1506,0.2292,15
+Maíz choclo,Amazonas,4,0.2465,0.4225,15
+Maíz choclo,Amazonas,5,0.2634,0.3943,15
+Maíz choclo,Amazonas,6,0.1271,0.5165,15
+Maíz choclo,Amazonas,7,0.0251,0.0658,15
+Maíz choclo,Amazonas,8,0.0124,0.0568,15
+Maíz choclo,Amazonas,9,0.0062,0.0278,15
+Maíz choclo,Amazonas,10,0.0069,0.0218,15
+Maíz choclo,Amazonas,11,0.0103,0.0366,15
+Maíz choclo,Amazonas,12,0.0349,0.0853,15
+Maíz choclo,Ancash,1,0.1082,0.1799,15
+Maíz choclo,Ancash,2,0.0816,0.128,15
+Maíz choclo,Ancash,3,0.0611,0.1062,15
+Maíz choclo,Ancash,4,0.1272,0.2231,15
+Maíz choclo,Ancash,5,0.2314,0.3672,15
+Maíz choclo,Ancash,6,0.1629,0.3077,15
+Maíz choclo,Ancash,7,0.0527,0.1139,15
+Maíz choclo,Ancash,8,0.0266,0.0558,15
+Maíz choclo,Ancash,9,0.0265,0.0527,15
+Maíz choclo,Ancash,10,0.0225,0.0607,15
+Maíz choclo,Ancash,11,0.0342,0.0857,15
+Maíz choclo,Ancash,12,0.065,0.1139,15
+Maíz choclo,Apurimac,1,0.0403,0.1181,15
+Maíz choclo,Apurimac,2,0.0907,0.2232,15
+Maíz choclo,Apurimac,3,0.1483,0.275,15
+Maíz choclo,Apurimac,4,0.2423,0.4954,15
+Maíz choclo,Apurimac,5,0.2127,0.4976,15
+Maíz choclo,Apurimac,6,0.0922,0.2452,15
+Maíz choclo,Apurimac,7,0.0269,0.2132,15
+Maíz choclo,Apurimac,8,0.0209,0.1222,15
+Maíz choclo,Apurimac,9,0.0123,0.0604,15
+Maíz choclo,Apurimac,10,0.0265,0.1064,15
+Maíz choclo,Apurimac,11,0.0318,0.3128,15
+Maíz choclo,Apurimac,12,0.0551,0.2185,15
+Maíz choclo,Arequipa,1,0.0058,0.0236,15
+Maíz choclo,Arequipa,2,0.0054,0.0136,15
+Maíz choclo,Arequipa,3,0.0222,0.0627,15
+Maíz choclo,Arequipa,4,0.0302,0.0777,15
+Maíz choclo,Arequipa,5,0.0067,0.0249,15
+Maíz choclo,Arequipa,6,0.0011,0.0042,15
+Maíz choclo,Arequipa,7,0.0819,0.2047,15
+Maíz choclo,Arequipa,8,0.2251,0.4228,15
+Maíz choclo,Arequipa,9,0.3538,0.7265,15
+Maíz choclo,Arequipa,10,0.1927,0.2992,15
+Maíz choclo,Arequipa,11,0.0671,0.2821,15
+Maíz choclo,Arequipa,12,0.0082,0.0341,15
+Maíz choclo,Ayacucho,1,0.1337,0.2071,15
+Maíz choclo,Ayacucho,2,0.2068,0.266,15
+Maíz choclo,Ayacucho,3,0.2551,0.3217,15
+Maíz choclo,Ayacucho,4,0.2276,0.3088,15
+Maíz choclo,Ayacucho,5,0.0798,0.1419,15
+Maíz choclo,Ayacucho,6,0.0078,0.0225,15
+Maíz choclo,Ayacucho,7,0.0057,0.0274,15
+Maíz choclo,Ayacucho,8,0.003,0.0148,15
+Maíz choclo,Ayacucho,9,0.0024,0.008,15
+Maíz choclo,Ayacucho,10,0.004,0.0177,15
+Maíz choclo,Ayacucho,11,0.018,0.0437,15
+Maíz choclo,Ayacucho,12,0.0561,0.1415,15
+Maíz choclo,Cajamarca,1,0.0463,0.1033,15
+Maíz choclo,Cajamarca,2,0.1186,0.2276,15
+Maíz choclo,Cajamarca,3,0.285,0.4044,15
+Maíz choclo,Cajamarca,4,0.27,0.3972,15
+Maíz choclo,Cajamarca,5,0.1446,0.2492,15
+Maíz choclo,Cajamarca,6,0.0741,0.1374,15
+Maíz choclo,Cajamarca,7,0.0297,0.0922,15
+Maíz choclo,Cajamarca,8,0.0033,0.0146,15
+Maíz choclo,Cajamarca,9,0.0005,0.0031,15
+Maíz choclo,Cajamarca,10,0.0004,0.0039,15
+Maíz choclo,Cajamarca,11,0.0014,0.0134,15
+Maíz choclo,Cajamarca,12,0.026,0.094,15
+Maíz choclo,Cusco,1,0.1936,0.3396,15
+Maíz choclo,Cusco,2,0.2919,0.4777,15
+Maíz choclo,Cusco,3,0.2602,0.3978,15
+Maíz choclo,Cusco,4,0.1434,0.2931,15
+Maíz choclo,Cusco,5,0.0233,0.0878,15
+Maíz choclo,Cusco,6,0.0055,0.0191,15
+Maíz choclo,Cusco,7,0.0024,0.0064,15
+Maíz choclo,Cusco,8,0.0008,0.0058,15
+Maíz choclo,Cusco,9,0.0004,0.003,15
+Maíz choclo,Cusco,10,0.001,0.005,15
+Maíz choclo,Cusco,11,0.0094,0.0957,15
+Maíz choclo,Cusco,12,0.0682,0.2046,15
+Maíz choclo,Huancavelica,1,0.0817,0.1983,15
+Maíz choclo,Huancavelica,2,0.1559,0.2676,15
+Maíz choclo,Huancavelica,3,0.1474,0.2415,15
+Maíz choclo,Huancavelica,4,0.1459,0.2024,15
+Maíz choclo,Huancavelica,5,0.1262,0.283,15
+Maíz choclo,Huancavelica,6,0.1016,0.3675,15
+Maíz choclo,Huancavelica,7,0.022,0.0515,15
+Maíz choclo,Huancavelica,8,0.049,0.1391,15
+Maíz choclo,Huancavelica,9,0.0601,0.1416,15
+Maíz choclo,Huancavelica,10,0.048,0.0996,15
+Maíz choclo,Huancavelica,11,0.0461,0.2312,15
+Maíz choclo,Huancavelica,12,0.0161,0.0555,15
+Maíz choclo,Huanuco,1,0.0142,0.0291,15
+Maíz choclo,Huanuco,2,0.0539,0.0712,15
+Maíz choclo,Huanuco,3,0.2415,0.2775,15
+Maíz choclo,Huanuco,4,0.3032,0.3651,15
+Maíz choclo,Huanuco,5,0.165,0.2193,15
+Maíz choclo,Huanuco,6,0.0892,0.1337,15
+Maíz choclo,Huanuco,7,0.0231,0.0447,15
+Maíz choclo,Huanuco,8,0.0212,0.0334,15
+Maíz choclo,Huanuco,9,0.0284,0.0554,15
+Maíz choclo,Huanuco,10,0.0281,0.0555,15
+Maíz choclo,Huanuco,11,0.0232,0.0341,15
+Maíz choclo,Huanuco,12,0.009,0.0197,15
+Maíz choclo,Ica,1,0.0026,0.0119,15
+Maíz choclo,Ica,2,0.0005,0.0047,15
+Maíz choclo,Ica,3,0.0009,0.0127,15
+Maíz choclo,Ica,4,0.0001,0.0019,15
+Maíz choclo,Ica,5,0.0061,0.0342,15
+Maíz choclo,Ica,6,0.0146,0.041,15
+Maíz choclo,Ica,7,0.0375,0.082,15
+Maíz choclo,Ica,8,0.1499,0.3555,15
+Maíz choclo,Ica,9,0.341,0.6053,15
+Maíz choclo,Ica,10,0.3542,0.7031,15
+Maíz choclo,Ica,11,0.0854,0.5534,15
+Maíz choclo,Ica,12,0.0072,0.0304,15
+Maíz choclo,Junin,1,0.0426,0.07,15
+Maíz choclo,Junin,2,0.1047,0.1504,15
+Maíz choclo,Junin,3,0.213,0.2898,15
+Maíz choclo,Junin,4,0.4407,0.5197,15
+Maíz choclo,Junin,5,0.1817,0.2688,15
+Maíz choclo,Junin,6,0.0021,0.0153,15
+Maíz choclo,Junin,7,0.0004,0.0013,15
+Maíz choclo,Junin,8,0.0015,0.006,15
+Maíz choclo,Junin,9,0.0026,0.0046,15
+Maíz choclo,Junin,10,0.0023,0.0068,15
+Maíz choclo,Junin,11,0.0014,0.0056,15
+Maíz choclo,Junin,12,0.007,0.0148,15
+Maíz choclo,La Libertad,1,0.0303,0.0761,15
+Maíz choclo,La Libertad,2,0.0316,0.0768,15
+Maíz choclo,La Libertad,3,0.0411,0.1567,15
+Maíz choclo,La Libertad,4,0.1452,0.2835,15
+Maíz choclo,La Libertad,5,0.2662,0.4101,15
+Maíz choclo,La Libertad,6,0.2275,0.3773,15
+Maíz choclo,La Libertad,7,0.1216,0.283,15
+Maíz choclo,La Libertad,8,0.0373,0.1261,15
+Maíz choclo,La Libertad,9,0.0237,0.0457,15
+Maíz choclo,La Libertad,10,0.0245,0.066,15
+Maíz choclo,La Libertad,11,0.0231,0.0487,15
+Maíz choclo,La Libertad,12,0.0279,0.0584,15
+Maíz choclo,Lambayeque,1,0.0656,0.1195,15
+Maíz choclo,Lambayeque,2,0.0501,0.1077,15
+Maíz choclo,Lambayeque,3,0.0574,0.1083,15
+Maíz choclo,Lambayeque,4,0.0693,0.1445,15
+Maíz choclo,Lambayeque,5,0.1036,0.2252,15
+Maíz choclo,Lambayeque,6,0.1031,0.222,15
+Maíz choclo,Lambayeque,7,0.0905,0.1333,15
+Maíz choclo,Lambayeque,8,0.1298,0.324,15
+Maíz choclo,Lambayeque,9,0.1147,0.2402,15
+Maíz choclo,Lambayeque,10,0.0995,0.1909,15
+Maíz choclo,Lambayeque,11,0.0539,0.1718,15
+Maíz choclo,Lambayeque,12,0.0623,0.204,15
+Maíz choclo,Lima,1,0.127,0.3055,15
+Maíz choclo,Lima,2,0.0272,0.0735,15
+Maíz choclo,Lima,3,0.0075,0.045,15
+Maíz choclo,Lima,4,0.0065,0.0205,15
+Maíz choclo,Lima,5,0.017,0.0553,15
+Maíz choclo,Lima,6,0.0263,0.0518,15
+Maíz choclo,Lima,7,0.0571,0.1251,15
+Maíz choclo,Lima,8,0.0879,0.1748,15
+Maíz choclo,Lima,9,0.111,0.2087,15
+Maíz choclo,Lima,10,0.1494,0.2527,15
+Maíz choclo,Lima,11,0.2134,0.314,15
+Maíz choclo,Lima,12,0.1697,0.3459,15
+Maíz choclo,Lima Metropolitana,1,0.0448,0.2825,15
+Maíz choclo,Lima Metropolitana,2,0.0251,0.0884,15
+Maíz choclo,Lima Metropolitana,3,0.0105,0.0504,15
+Maíz choclo,Lima Metropolitana,4,0.011,0.0722,15
+Maíz choclo,Lima Metropolitana,5,0.0015,0.0115,15
+Maíz choclo,Lima Metropolitana,6,0.0034,0.0506,15
+Maíz choclo,Lima Metropolitana,7,0.0076,0.0846,15
+Maíz choclo,Lima Metropolitana,8,0.0172,0.0671,15
+Maíz choclo,Lima Metropolitana,9,0.0325,0.2836,15
+Maíz choclo,Lima Metropolitana,10,0.2654,0.5296,15
+Maíz choclo,Lima Metropolitana,11,0.3596,0.6475,15
+Maíz choclo,Lima Metropolitana,12,0.2213,0.481,15
+Maíz choclo,Loreto,1,0.1219,0.1734,15
+Maíz choclo,Loreto,2,0.0759,0.1068,15
+Maíz choclo,Loreto,3,0.0485,0.0629,15
+Maíz choclo,Loreto,4,0.0302,0.0499,15
+Maíz choclo,Loreto,5,0.0183,0.0524,15
+Maíz choclo,Loreto,6,0.0154,0.036,15
+Maíz choclo,Loreto,7,0.0222,0.0534,15
+Maíz choclo,Loreto,8,0.0529,0.0729,15
+Maíz choclo,Loreto,9,0.1139,0.1514,15
+Maíz choclo,Loreto,10,0.1623,0.2276,15
+Maíz choclo,Loreto,11,0.173,0.2239,15
+Maíz choclo,Loreto,12,0.1656,0.2334,15
+Maíz choclo,Madre de Dios,1,0.5485,1.0,8
+Maíz choclo,Madre de Dios,2,0.1574,0.4334,8
+Maíz choclo,Madre de Dios,3,0.0,0.0,8
+Maíz choclo,Madre de Dios,4,0.0,0.0,8
+Maíz choclo,Madre de Dios,5,0.0,0.0,8
+Maíz choclo,Madre de Dios,6,0.0,0.0,8
+Maíz choclo,Madre de Dios,7,0.0973,0.2978,8
+Maíz choclo,Madre de Dios,8,0.041,0.328,8
+Maíz choclo,Madre de Dios,9,0.0,0.0,8
+Maíz choclo,Madre de Dios,10,0.0,0.0,8
+Maíz choclo,Madre de Dios,11,0.0,0.0,8
+Maíz choclo,Madre de Dios,12,0.1557,1.0,8
+Maíz choclo,Moquegua,1,0.1625,0.4279,15
+Maíz choclo,Moquegua,2,0.146,0.2449,15
+Maíz choclo,Moquegua,3,0.1697,0.3179,15
+Maíz choclo,Moquegua,4,0.0938,0.191,15
+Maíz choclo,Moquegua,5,0.0635,0.1788,15
+Maíz choclo,Moquegua,6,0.0525,0.143,15
+Maíz choclo,Moquegua,7,0.0697,0.1569,15
+Maíz choclo,Moquegua,8,0.033,0.1053,15
+Maíz choclo,Moquegua,9,0.032,0.0717,15
+Maíz choclo,Moquegua,10,0.0249,0.1153,15
+Maíz choclo,Moquegua,11,0.0449,0.173,15
+Maíz choclo,Moquegua,12,0.1073,0.2718,15
+Maíz choclo,Pasco,1,0.012,0.0605,15
+Maíz choclo,Pasco,2,0.0583,0.1293,15
+Maíz choclo,Pasco,3,0.1461,0.3388,15
+Maíz choclo,Pasco,4,0.1963,0.3901,15
+Maíz choclo,Pasco,5,0.4231,0.7183,15
+Maíz choclo,Pasco,6,0.1298,0.3422,15
+Maíz choclo,Pasco,7,0.0182,0.0584,15
+Maíz choclo,Pasco,8,0.0057,0.0306,15
+Maíz choclo,Pasco,9,0.0029,0.0123,15
+Maíz choclo,Pasco,10,0.0011,0.0077,15
+Maíz choclo,Pasco,11,0.002,0.0087,15
+Maíz choclo,Pasco,12,0.0045,0.0153,15
+Maíz choclo,Piura,1,0.0707,0.2727,15
+Maíz choclo,Piura,2,0.0641,0.2283,15
+Maíz choclo,Piura,3,0.1069,0.4369,15
+Maíz choclo,Piura,4,0.1102,0.3982,15
+Maíz choclo,Piura,5,0.0236,0.2163,15
+Maíz choclo,Piura,6,0.0952,0.4874,15
+Maíz choclo,Piura,7,0.1123,0.3503,15
+Maíz choclo,Piura,8,0.0482,0.2515,15
+Maíz choclo,Piura,9,0.0767,0.3939,15
+Maíz choclo,Piura,10,0.1221,0.3571,15
+Maíz choclo,Piura,11,0.0922,0.1842,15
+Maíz choclo,Piura,12,0.0778,0.2189,15
+Maíz choclo,Puno,1,0.0,0.0,11
+Maíz choclo,Puno,2,0.0727,0.7184,11
+Maíz choclo,Puno,3,0.7818,1.0,11
+Maíz choclo,Puno,4,0.1455,0.4594,11
+Maíz choclo,Puno,5,0.0,0.0,11
+Maíz choclo,Puno,6,0.0,0.0,11
+Maíz choclo,Puno,7,0.0,0.0,11
+Maíz choclo,Puno,8,0.0,0.0,11
+Maíz choclo,Puno,9,0.0,0.0,11
+Maíz choclo,Puno,10,0.0,0.0,11
+Maíz choclo,Puno,11,0.0,0.0,11
+Maíz choclo,Puno,12,0.0,0.0,11
+Maíz choclo,Tacna,1,0.1031,0.1849,15
+Maíz choclo,Tacna,2,0.1089,0.2406,15
+Maíz choclo,Tacna,3,0.1435,0.3604,15
+Maíz choclo,Tacna,4,0.1429,0.2214,15
+Maíz choclo,Tacna,5,0.0456,0.1594,15
+Maíz choclo,Tacna,6,0.0489,0.1555,15
+Maíz choclo,Tacna,7,0.0473,0.0967,15
+Maíz choclo,Tacna,8,0.0703,0.161,15
+Maíz choclo,Tacna,9,0.0746,0.1664,15
+Maíz choclo,Tacna,10,0.061,0.1207,15
+Maíz choclo,Tacna,11,0.0604,0.1544,15
+Maíz choclo,Tacna,12,0.0935,0.1748,15
+Maíz choclo,Tumbes,1,0.0889,0.1223,15
+Maíz choclo,Tumbes,2,0.0702,0.1266,15
+Maíz choclo,Tumbes,3,0.0533,0.0827,15
+Maíz choclo,Tumbes,4,0.0554,0.0997,15
+Maíz choclo,Tumbes,5,0.0631,0.0971,15
+Maíz choclo,Tumbes,6,0.0646,0.1405,15
+Maíz choclo,Tumbes,7,0.0614,0.1159,15
+Maíz choclo,Tumbes,8,0.0975,0.2,15
+Maíz choclo,Tumbes,9,0.1001,0.1868,15
+Maíz choclo,Tumbes,10,0.1063,0.1709,15
+Maíz choclo,Tumbes,11,0.1234,0.2096,15
+Maíz choclo,Tumbes,12,0.1159,0.1721,15
+Palta,Amazonas,1,0.175,0.279,15
+Palta,Amazonas,2,0.1471,0.261,15
+Palta,Amazonas,3,0.1365,0.2136,15
+Palta,Amazonas,4,0.1034,0.1721,15
+Palta,Amazonas,5,0.0872,0.1594,15
+Palta,Amazonas,6,0.0711,0.1071,15
+Palta,Amazonas,7,0.0637,0.0885,15
+Palta,Amazonas,8,0.0502,0.0842,15
+Palta,Amazonas,9,0.0401,0.0622,15
+Palta,Amazonas,10,0.0367,0.0658,15
+Palta,Amazonas,11,0.0423,0.0743,15
+Palta,Amazonas,12,0.0466,0.0855,15
+Palta,Ancash,1,0.1248,0.2548,15
+Palta,Ancash,2,0.1321,0.2128,15
+Palta,Ancash,3,0.1377,0.1592,15
+Palta,Ancash,4,0.1393,0.1851,15
+Palta,Ancash,5,0.1318,0.1874,15
+Palta,Ancash,6,0.1001,0.1796,15
+Palta,Ancash,7,0.0588,0.1073,15
+Palta,Ancash,8,0.0366,0.0606,15
+Palta,Ancash,9,0.0257,0.0475,15
+Palta,Ancash,10,0.0243,0.0594,15
+Palta,Ancash,11,0.0279,0.0557,15
+Palta,Ancash,12,0.0609,0.124,15
+Palta,Apurimac,1,0.0896,0.1678,15
+Palta,Apurimac,2,0.1686,0.2149,15
+Palta,Apurimac,3,0.1806,0.2644,15
+Palta,Apurimac,4,0.1795,0.2459,15
+Palta,Apurimac,5,0.1429,0.1999,15
+Palta,Apurimac,6,0.0912,0.1298,15
+Palta,Apurimac,7,0.0756,0.1119,15
+Palta,Apurimac,8,0.0419,0.1079,15
+Palta,Apurimac,9,0.0241,0.067,15
+Palta,Apurimac,10,0.004,0.0163,15
+Palta,Apurimac,11,0.0009,0.0077,15
+Palta,Apurimac,12,0.0011,0.0071,15
+Palta,Arequipa,1,0.0645,0.1824,15
+Palta,Arequipa,2,0.0705,0.204,15
+Palta,Arequipa,3,0.105,0.2435,15
+Palta,Arequipa,4,0.1757,0.3148,15
+Palta,Arequipa,5,0.1922,0.3103,15
+Palta,Arequipa,6,0.1233,0.2449,15
+Palta,Arequipa,7,0.0911,0.2762,15
+Palta,Arequipa,8,0.0717,0.2108,15
+Palta,Arequipa,9,0.0254,0.1016,15
+Palta,Arequipa,10,0.0328,0.1883,15
+Palta,Arequipa,11,0.0074,0.0652,15
+Palta,Arequipa,12,0.0404,0.1573,15
+Palta,Ayacucho,1,0.0817,0.1523,15
+Palta,Ayacucho,2,0.121,0.2483,15
+Palta,Ayacucho,3,0.1468,0.2743,15
+Palta,Ayacucho,4,0.155,0.3077,15
+Palta,Ayacucho,5,0.0947,0.1401,15
+Palta,Ayacucho,6,0.0761,0.1175,15
+Palta,Ayacucho,7,0.0647,0.1061,15
+Palta,Ayacucho,8,0.0589,0.1063,15
+Palta,Ayacucho,9,0.0474,0.0838,15
+Palta,Ayacucho,10,0.0383,0.0791,15
+Palta,Ayacucho,11,0.0461,0.0825,15
+Palta,Ayacucho,12,0.0694,0.1316,15
+Palta,Cajamarca,1,0.1042,0.161,15
+Palta,Cajamarca,2,0.1124,0.1628,15
+Palta,Cajamarca,3,0.1129,0.1439,15
+Palta,Cajamarca,4,0.1091,0.1386,15
+Palta,Cajamarca,5,0.0918,0.1764,15
+Palta,Cajamarca,6,0.0732,0.1081,15
+Palta,Cajamarca,7,0.0724,0.1173,15
+Palta,Cajamarca,8,0.0454,0.083,15
+Palta,Cajamarca,9,0.0512,0.0871,15
+Palta,Cajamarca,10,0.0585,0.0959,15
+Palta,Cajamarca,11,0.0683,0.1408,15
+Palta,Cajamarca,12,0.1008,0.1401,15
+Palta,Cusco,1,0.089,0.1345,15
+Palta,Cusco,2,0.0877,0.1491,15
+Palta,Cusco,3,0.1269,0.3772,15
+Palta,Cusco,4,0.1369,0.2563,15
+Palta,Cusco,5,0.1668,0.3053,15
+Palta,Cusco,6,0.1287,0.1881,15
+Palta,Cusco,7,0.101,0.1592,15
+Palta,Cusco,8,0.0337,0.0955,15
+Palta,Cusco,9,0.0094,0.0345,15
+Palta,Cusco,10,0.0125,0.0417,15
+Palta,Cusco,11,0.0455,0.1201,15
+Palta,Cusco,12,0.0618,0.1619,15
+Palta,Huancavelica,1,0.0437,0.1353,15
+Palta,Huancavelica,2,0.1592,0.239,15
+Palta,Huancavelica,3,0.1961,0.3309,15
+Palta,Huancavelica,4,0.2324,0.4034,15
+Palta,Huancavelica,5,0.1564,0.2266,15
+Palta,Huancavelica,6,0.0685,0.1324,15
+Palta,Huancavelica,7,0.0248,0.0401,15
+Palta,Huancavelica,8,0.0031,0.0128,15
+Palta,Huancavelica,9,0.0032,0.0197,15
+Palta,Huancavelica,10,0.0004,0.002,15
+Palta,Huancavelica,11,0.0009,0.0069,15
+Palta,Huancavelica,12,0.1113,0.199,15
+Palta,Huanuco,1,0.076,0.0853,15
+Palta,Huanuco,2,0.0678,0.0838,15
+Palta,Huanuco,3,0.0429,0.075,15
+Palta,Huanuco,4,0.0288,0.0568,15
+Palta,Huanuco,5,0.0289,0.0433,15
+Palta,Huanuco,6,0.0241,0.0455,15
+Palta,Huanuco,7,0.0161,0.029,15
+Palta,Huanuco,8,0.0398,0.0515,15
+Palta,Huanuco,9,0.1042,0.1284,15
+Palta,Huanuco,10,0.17,0.2154,15
+Palta,Huanuco,11,0.2063,0.2336,15
+Palta,Huanuco,12,0.1949,0.239,15
+Palta,Ica,1,0.0006,0.0076,15
+Palta,Ica,2,0.011,0.0332,15
+Palta,Ica,3,0.0695,0.1066,15
+Palta,Ica,4,0.1382,0.2564,15
+Palta,Ica,5,0.2136,0.347,15
+Palta,Ica,6,0.2369,0.3249,15
+Palta,Ica,7,0.1938,0.27,15
+Palta,Ica,8,0.1193,0.2047,15
+Palta,Ica,9,0.0159,0.0728,15
+Palta,Ica,10,0.0012,0.007,15
+Palta,Ica,11,0.0,0.0001,15
+Palta,Ica,12,0.0,0.0,15
+Palta,Junin,1,0.1363,0.1583,15
+Palta,Junin,2,0.0927,0.1085,15
+Palta,Junin,3,0.0845,0.0952,15
+Palta,Junin,4,0.0751,0.0787,15
+Palta,Junin,5,0.0613,0.0673,15
+Palta,Junin,6,0.0365,0.0553,15
+Palta,Junin,7,0.0272,0.0394,15
+Palta,Junin,8,0.0233,0.0316,15
+Palta,Junin,9,0.0369,0.0508,15
+Palta,Junin,10,0.1102,0.1321,15
+Palta,Junin,11,0.1424,0.1648,15
+Palta,Junin,12,0.1736,0.2086,15
+Palta,La Libertad,1,0.0083,0.0257,15
+Palta,La Libertad,2,0.0102,0.0309,15
+Palta,La Libertad,3,0.0718,0.135,15
+Palta,La Libertad,4,0.1185,0.1645,15
+Palta,La Libertad,5,0.2097,0.3257,15
+Palta,La Libertad,6,0.2573,0.3193,15
+Palta,La Libertad,7,0.1202,0.2518,15
+Palta,La Libertad,8,0.072,0.1639,15
+Palta,La Libertad,9,0.0536,0.101,15
+Palta,La Libertad,10,0.0304,0.0569,15
+Palta,La Libertad,11,0.0273,0.0484,15
+Palta,La Libertad,12,0.0206,0.0502,15
+Palta,Lambayeque,1,0.0028,0.0382,15
+Palta,Lambayeque,2,0.0057,0.0319,15
+Palta,Lambayeque,3,0.0859,0.3971,15
+Palta,Lambayeque,4,0.1996,0.5525,15
+Palta,Lambayeque,5,0.3834,0.8015,15
+Palta,Lambayeque,6,0.2059,0.5649,15
+Palta,Lambayeque,7,0.0654,0.1737,15
+Palta,Lambayeque,8,0.0168,0.0554,15
+Palta,Lambayeque,9,0.001,0.006,15
+Palta,Lambayeque,10,0.001,0.0051,15
+Palta,Lambayeque,11,0.0299,0.2213,15
+Palta,Lambayeque,12,0.0026,0.0296,15
+Palta,Lima,1,0.0151,0.0525,15
+Palta,Lima,2,0.0238,0.0876,15
+Palta,Lima,3,0.0558,0.1418,15
+Palta,Lima,4,0.1484,0.1922,15
+Palta,Lima,5,0.212,0.2676,15
+Palta,Lima,6,0.205,0.2456,15
+Palta,Lima,7,0.1548,0.1896,15
+Palta,Lima,8,0.0856,0.135,15
+Palta,Lima,9,0.0551,0.1212,15
+Palta,Lima,10,0.0243,0.0438,15
+Palta,Lima,11,0.0115,0.0284,15
+Palta,Lima,12,0.0088,0.0242,15
+Palta,Lima Metropolitana,1,0.0077,0.0254,15
+Palta,Lima Metropolitana,2,0.0846,0.1067,15
+Palta,Lima Metropolitana,3,0.1366,0.1876,15
+Palta,Lima Metropolitana,4,0.1606,0.2144,15
+Palta,Lima Metropolitana,5,0.127,0.1848,15
+Palta,Lima Metropolitana,6,0.1656,0.2164,15
+Palta,Lima Metropolitana,7,0.165,0.2418,15
+Palta,Lima Metropolitana,8,0.095,0.1519,15
+Palta,Lima Metropolitana,9,0.0242,0.0525,15
+Palta,Lima Metropolitana,10,0.0162,0.0438,15
+Palta,Lima Metropolitana,11,0.0077,0.0215,15
+Palta,Lima Metropolitana,12,0.0098,0.0236,15
+Palta,Loreto,1,0.1029,0.1121,15
+Palta,Loreto,2,0.1079,0.1279,15
+Palta,Loreto,3,0.1093,0.1294,15
+Palta,Loreto,4,0.0758,0.0844,15
+Palta,Loreto,5,0.0527,0.0757,15
+Palta,Loreto,6,0.0553,0.0764,15
+Palta,Loreto,7,0.0461,0.0517,15
+Palta,Loreto,8,0.0513,0.0577,15
+Palta,Loreto,9,0.0619,0.0709,15
+Palta,Loreto,10,0.0664,0.097,15
+Palta,Loreto,11,0.1231,0.1298,15
+Palta,Loreto,12,0.1473,0.1791,15
+Palta,Madre de Dios,1,0.0,0.0,15
+Palta,Madre de Dios,2,0.0,0.0,15
+Palta,Madre de Dios,3,0.0,0.0,15
+Palta,Madre de Dios,4,0.0,0.0,15
+Palta,Madre de Dios,5,0.0033,0.0314,15
+Palta,Madre de Dios,6,0.0053,0.0796,15
+Palta,Madre de Dios,7,0.0117,0.1232,15
+Palta,Madre de Dios,8,0.0109,0.0706,15
+Palta,Madre de Dios,9,0.1501,0.3372,15
+Palta,Madre de Dios,10,0.3216,0.4222,15
+Palta,Madre de Dios,11,0.339,0.5051,15
+Palta,Madre de Dios,12,0.1581,0.2996,15
+Palta,Moquegua,1,0.0163,0.0501,15
+Palta,Moquegua,2,0.0485,0.1039,15
+Palta,Moquegua,3,0.1125,0.1817,15
+Palta,Moquegua,4,0.1587,0.2571,15
+Palta,Moquegua,5,0.1864,0.2531,15
+Palta,Moquegua,6,0.1601,0.2129,15
+Palta,Moquegua,7,0.1072,0.1641,15
+Palta,Moquegua,8,0.0709,0.124,15
+Palta,Moquegua,9,0.0422,0.1026,15
+Palta,Moquegua,10,0.0355,0.0678,15
+Palta,Moquegua,11,0.0322,0.0864,15
+Palta,Moquegua,12,0.0294,0.0742,15
+Palta,Pasco,1,0.085,0.1238,15
+Palta,Pasco,2,0.1425,0.2224,15
+Palta,Pasco,3,0.2216,0.3368,15
+Palta,Pasco,4,0.1691,0.2188,15
+Palta,Pasco,5,0.0983,0.1697,15
+Palta,Pasco,6,0.0654,0.1189,15
+Palta,Pasco,7,0.038,0.0912,15
+Palta,Pasco,8,0.0229,0.0726,15
+Palta,Pasco,9,0.0239,0.0726,15
+Palta,Pasco,10,0.0302,0.0697,15
+Palta,Pasco,11,0.0412,0.0618,15
+Palta,Pasco,12,0.0619,0.1493,15
+Palta,Piura,1,0.0161,0.0453,15
+Palta,Piura,2,0.0451,0.1665,15
+Palta,Piura,3,0.1165,0.3615,15
+Palta,Piura,4,0.2039,0.4359,15
+Palta,Piura,5,0.2692,0.5507,15
+Palta,Piura,6,0.1468,0.3625,15
+Palta,Piura,7,0.0617,0.2582,15
+Palta,Piura,8,0.0404,0.303,15
+Palta,Piura,9,0.0186,0.0855,15
+Palta,Piura,10,0.0225,0.0753,15
+Palta,Piura,11,0.0345,0.1088,15
+Palta,Piura,12,0.0249,0.0545,15
+Palta,Puno,1,0.1863,0.2491,15
+Palta,Puno,2,0.2265,0.3012,15
+Palta,Puno,3,0.1911,0.2305,15
+Palta,Puno,4,0.1571,0.2548,15
+Palta,Puno,5,0.0883,0.236,15
+Palta,Puno,6,0.0478,0.1563,15
+Palta,Puno,7,0.0224,0.0965,15
+Palta,Puno,8,0.0095,0.0447,15
+Palta,Puno,9,0.0003,0.0042,15
+Palta,Puno,10,0.0002,0.0025,15
+Palta,Puno,11,0.0216,0.04,15
+Palta,Puno,12,0.049,0.0924,15
+Palta,San Martin,1,0.0834,0.1171,15
+Palta,San Martin,2,0.0908,0.1417,15
+Palta,San Martin,3,0.1014,0.1596,15
+Palta,San Martin,4,0.081,0.1928,15
+Palta,San Martin,5,0.0547,0.1395,15
+Palta,San Martin,6,0.0372,0.0944,15
+Palta,San Martin,7,0.0182,0.0548,15
+Palta,San Martin,8,0.0131,0.0355,15
+Palta,San Martin,9,0.0234,0.0598,15
+Palta,San Martin,10,0.1141,0.1761,15
+Palta,San Martin,11,0.2166,0.3965,15
+Palta,San Martin,12,0.1662,0.3246,15
+Palta,Tacna,1,0.0,0.0,15
+Palta,Tacna,2,0.0,0.0,15
+Palta,Tacna,3,0.0138,0.122,15
+Palta,Tacna,4,0.2633,1.0,15
+Palta,Tacna,5,0.4008,0.6711,15
+Palta,Tacna,6,0.2281,0.5849,15
+Palta,Tacna,7,0.0703,0.3152,15
+Palta,Tacna,8,0.0066,0.0992,15
+Palta,Tacna,9,0.0088,0.0679,15
+Palta,Tacna,10,0.0029,0.0438,15
+Palta,Tacna,11,0.0053,0.0788,15
+Palta,Tacna,12,0.0,0.0,15
+Palta,Ucayali,1,0.1348,0.19,15
+Palta,Ucayali,2,0.1519,0.173,15
+Palta,Ucayali,3,0.1357,0.179,15
+Palta,Ucayali,4,0.1052,0.1445,15
+Palta,Ucayali,5,0.0621,0.0848,15
+Palta,Ucayali,6,0.0478,0.069,15
+Palta,Ucayali,7,0.0144,0.0272,15
+Palta,Ucayali,8,0.0,0.0,15
+Palta,Ucayali,9,0.008,0.0155,15
+Palta,Ucayali,10,0.0693,0.1208,15
+Palta,Ucayali,11,0.1251,0.1641,15
+Palta,Ucayali,12,0.1456,0.2041,15
+Papa,Amazonas,1,0.0472,0.0868,15
+Papa,Amazonas,2,0.0625,0.101,15
+Papa,Amazonas,3,0.0823,0.1215,15
+Papa,Amazonas,4,0.0918,0.1567,15
+Papa,Amazonas,5,0.0983,0.1396,15
+Papa,Amazonas,6,0.1066,0.1493,15
+Papa,Amazonas,7,0.1206,0.169,15
+Papa,Amazonas,8,0.1273,0.1986,15
+Papa,Amazonas,9,0.1001,0.1316,15
+Papa,Amazonas,10,0.0772,0.1134,15
+Papa,Amazonas,11,0.0515,0.1094,15
+Papa,Amazonas,12,0.0345,0.0621,15
+Papa,Ancash,1,0.046,0.0856,15
+Papa,Ancash,2,0.1329,0.199,15
+Papa,Ancash,3,0.2263,0.3081,15
+Papa,Ancash,4,0.2546,0.3099,15
+Papa,Ancash,5,0.1683,0.2349,15
+Papa,Ancash,6,0.0757,0.1157,15
+Papa,Ancash,7,0.0275,0.0438,15
+Papa,Ancash,8,0.0073,0.0188,15
+Papa,Ancash,9,0.0085,0.0143,15
+Papa,Ancash,10,0.0101,0.0166,15
+Papa,Ancash,11,0.0159,0.0304,15
+Papa,Ancash,12,0.0269,0.0549,15
+Papa,Apurimac,1,0.0186,0.054,15
+Papa,Apurimac,2,0.0262,0.0507,15
+Papa,Apurimac,3,0.0377,0.0681,15
+Papa,Apurimac,4,0.0887,0.1531,15
+Papa,Apurimac,5,0.2883,0.3694,15
+Papa,Apurimac,6,0.2903,0.3669,15
+Papa,Apurimac,7,0.1585,0.2215,15
+Papa,Apurimac,8,0.0521,0.0999,15
+Papa,Apurimac,9,0.0066,0.0231,15
+Papa,Apurimac,10,0.0067,0.0429,15
+Papa,Apurimac,11,0.0062,0.0158,15
+Papa,Apurimac,12,0.0201,0.035,15
+Papa,Arequipa,1,0.0486,0.0611,15
+Papa,Arequipa,2,0.0422,0.0542,15
+Papa,Arequipa,3,0.0404,0.0614,15
+Papa,Arequipa,4,0.0415,0.0746,15
+Papa,Arequipa,5,0.0407,0.0564,15
+Papa,Arequipa,6,0.0443,0.0568,15
+Papa,Arequipa,7,0.0643,0.1208,15
+Papa,Arequipa,8,0.1115,0.2374,15
+Papa,Arequipa,9,0.1644,0.2356,15
+Papa,Arequipa,10,0.1884,0.3401,15
+Papa,Arequipa,11,0.1446,0.2181,15
+Papa,Arequipa,12,0.0691,0.0904,15
+Papa,Ayacucho,1,0.0246,0.0493,15
+Papa,Ayacucho,2,0.0466,0.0816,15
+Papa,Ayacucho,3,0.102,0.2407,15
+Papa,Ayacucho,4,0.1797,0.2707,15
+Papa,Ayacucho,5,0.3468,0.4304,15
+Papa,Ayacucho,6,0.2383,0.3816,15
+Papa,Ayacucho,7,0.0429,0.0693,15
+Papa,Ayacucho,8,0.0014,0.0089,15
+Papa,Ayacucho,9,0.0004,0.0014,15
+Papa,Ayacucho,10,0.0017,0.0056,15
+Papa,Ayacucho,11,0.0042,0.0076,15
+Papa,Ayacucho,12,0.0115,0.027,15
+Papa,Cajamarca,1,0.0773,0.1004,15
+Papa,Cajamarca,2,0.1105,0.1256,15
+Papa,Cajamarca,3,0.1361,0.1719,15
+Papa,Cajamarca,4,0.1347,0.1634,15
+Papa,Cajamarca,5,0.1066,0.1359,15
+Papa,Cajamarca,6,0.0687,0.0943,15
+Papa,Cajamarca,7,0.0454,0.0747,15
+Papa,Cajamarca,8,0.0444,0.0574,15
+Papa,Cajamarca,9,0.0556,0.0717,15
+Papa,Cajamarca,10,0.0622,0.0811,15
+Papa,Cajamarca,11,0.0791,0.1077,15
+Papa,Cajamarca,12,0.0795,0.121,15
+Papa,Cusco,1,0.0307,0.0693,15
+Papa,Cusco,2,0.045,0.0697,15
+Papa,Cusco,3,0.0761,0.1152,15
+Papa,Cusco,4,0.1752,0.2575,15
+Papa,Cusco,5,0.4797,0.5546,15
+Papa,Cusco,6,0.1595,0.2278,15
+Papa,Cusco,7,0.0178,0.0603,15
+Papa,Cusco,8,0.0001,0.0009,15
+Papa,Cusco,9,0.0008,0.0051,15
+Papa,Cusco,10,0.001,0.0044,15
+Papa,Cusco,11,0.0027,0.0107,15
+Papa,Cusco,12,0.0112,0.0358,15
+Papa,Huancavelica,1,0.0302,0.048,15
+Papa,Huancavelica,2,0.053,0.0695,15
+Papa,Huancavelica,3,0.0776,0.1119,15
+Papa,Huancavelica,4,0.1782,0.2337,15
+Papa,Huancavelica,5,0.2622,0.3834,15
+Papa,Huancavelica,6,0.185,0.2641,15
+Papa,Huancavelica,7,0.0818,0.1314,15
+Papa,Huancavelica,8,0.0282,0.0771,15
+Papa,Huancavelica,9,0.0265,0.0666,15
+Papa,Huancavelica,10,0.0324,0.0736,15
+Papa,Huancavelica,11,0.0244,0.0363,15
+Papa,Huancavelica,12,0.0206,0.0292,15
+Papa,Huanuco,1,0.0978,0.1225,15
+Papa,Huanuco,2,0.0768,0.0879,15
+Papa,Huanuco,3,0.0837,0.0936,15
+Papa,Huanuco,4,0.1321,0.1602,15
+Papa,Huanuco,5,0.0992,0.1225,15
+Papa,Huanuco,6,0.0471,0.0561,15
+Papa,Huanuco,7,0.024,0.0308,15
+Papa,Huanuco,8,0.0221,0.0353,15
+Papa,Huanuco,9,0.0491,0.0608,15
+Papa,Huanuco,10,0.1008,0.1182,15
+Papa,Huanuco,11,0.1385,0.1694,15
+Papa,Huanuco,12,0.1287,0.1863,15
+Papa,Ica,1,0.0003,0.0012,15
+Papa,Ica,2,0.0017,0.0103,15
+Papa,Ica,3,0.0022,0.0093,15
+Papa,Ica,4,0.0021,0.0068,15
+Papa,Ica,5,0.0015,0.0044,15
+Papa,Ica,6,0.0095,0.0538,15
+Papa,Ica,7,0.1311,0.2206,15
+Papa,Ica,8,0.3988,0.5962,15
+Papa,Ica,9,0.3078,0.4766,15
+Papa,Ica,10,0.1189,0.2545,15
+Papa,Ica,11,0.02,0.0775,15
+Papa,Ica,12,0.0061,0.0442,15
+Papa,Junin,1,0.0548,0.0701,15
+Papa,Junin,2,0.0773,0.1063,15
+Papa,Junin,3,0.1131,0.1337,15
+Papa,Junin,4,0.1697,0.2061,15
+Papa,Junin,5,0.2371,0.272,15
+Papa,Junin,6,0.2005,0.2245,15
+Papa,Junin,7,0.07,0.1005,15
+Papa,Junin,8,0.0112,0.0177,15
+Papa,Junin,9,0.0039,0.0061,15
+Papa,Junin,10,0.0073,0.0159,15
+Papa,Junin,11,0.017,0.032,15
+Papa,Junin,12,0.0382,0.0514,15
+Papa,La Libertad,1,0.0473,0.0711,15
+Papa,La Libertad,2,0.0849,0.106,15
+Papa,La Libertad,3,0.1328,0.1529,15
+Papa,La Libertad,4,0.163,0.1991,15
+Papa,La Libertad,5,0.1761,0.247,15
+Papa,La Libertad,6,0.1245,0.2008,15
+Papa,La Libertad,7,0.0467,0.1016,15
+Papa,La Libertad,8,0.0119,0.0257,15
+Papa,La Libertad,9,0.0212,0.0329,15
+Papa,La Libertad,10,0.0435,0.0639,15
+Papa,La Libertad,11,0.0723,0.0929,15
+Papa,La Libertad,12,0.0757,0.1057,15
+Papa,Lambayeque,1,0.1154,0.3533,15
+Papa,Lambayeque,2,0.111,0.3708,15
+Papa,Lambayeque,3,0.0454,0.1518,15
+Papa,Lambayeque,4,0.0563,0.1962,15
+Papa,Lambayeque,5,0.0597,0.2858,15
+Papa,Lambayeque,6,0.1082,0.599,15
+Papa,Lambayeque,7,0.0537,0.1585,15
+Papa,Lambayeque,8,0.0662,0.3004,15
+Papa,Lambayeque,9,0.0609,0.1131,15
+Papa,Lambayeque,10,0.0814,0.1857,15
+Papa,Lambayeque,11,0.143,0.4498,15
+Papa,Lambayeque,12,0.0986,0.4753,15
+Papa,Lima,1,0.2091,0.3737,15
+Papa,Lima,2,0.0459,0.0753,15
+Papa,Lima,3,0.0139,0.0264,15
+Papa,Lima,4,0.0153,0.0315,15
+Papa,Lima,5,0.0184,0.0261,15
+Papa,Lima,6,0.0096,0.0149,15
+Papa,Lima,7,0.0086,0.0165,15
+Papa,Lima,8,0.0389,0.0672,15
+Papa,Lima,9,0.0753,0.1265,15
+Papa,Lima,10,0.1327,0.2426,15
+Papa,Lima,11,0.2023,0.2697,15
+Papa,Lima,12,0.2302,0.3372,15
+Papa,Lima Metropolitana,1,0.0126,0.0688,15
+Papa,Lima Metropolitana,2,0.0064,0.0545,15
+Papa,Lima Metropolitana,3,0.0075,0.0691,15
+Papa,Lima Metropolitana,4,0.0011,0.0172,15
+Papa,Lima Metropolitana,5,0.0,0.0,15
+Papa,Lima Metropolitana,6,0.0,0.0,15
+Papa,Lima Metropolitana,7,0.0017,0.0248,15
+Papa,Lima Metropolitana,8,0.0557,0.2317,15
+Papa,Lima Metropolitana,9,0.2389,0.4832,15
+Papa,Lima Metropolitana,10,0.3651,0.5736,15
+Papa,Lima Metropolitana,11,0.2584,0.4982,15
+Papa,Lima Metropolitana,12,0.0526,0.2458,15
+Papa,Moquegua,1,0.0677,0.1128,15
+Papa,Moquegua,2,0.1266,0.192,15
+Papa,Moquegua,3,0.2257,0.3862,15
+Papa,Moquegua,4,0.2543,0.4753,15
+Papa,Moquegua,5,0.1314,0.2181,15
+Papa,Moquegua,6,0.0643,0.1739,15
+Papa,Moquegua,7,0.0473,0.1583,15
+Papa,Moquegua,8,0.0299,0.1273,15
+Papa,Moquegua,9,0.0143,0.0359,15
+Papa,Moquegua,10,0.0068,0.0177,15
+Papa,Moquegua,11,0.0075,0.0197,15
+Papa,Moquegua,12,0.0243,0.0658,15
+Papa,Pasco,1,0.0674,0.1305,15
+Papa,Pasco,2,0.0964,0.1456,15
+Papa,Pasco,3,0.132,0.2226,15
+Papa,Pasco,4,0.1376,0.2269,15
+Papa,Pasco,5,0.1905,0.2533,15
+Papa,Pasco,6,0.2441,0.3559,15
+Papa,Pasco,7,0.0518,0.0947,15
+Papa,Pasco,8,0.0174,0.0419,15
+Papa,Pasco,9,0.0183,0.0476,15
+Papa,Pasco,10,0.0097,0.0337,15
+Papa,Pasco,11,0.0095,0.0216,15
+Papa,Pasco,12,0.0253,0.0504,15
+Papa,Piura,1,0.0718,0.1248,15
+Papa,Piura,2,0.0618,0.1089,15
+Papa,Piura,3,0.0576,0.0948,15
+Papa,Piura,4,0.0564,0.0935,15
+Papa,Piura,5,0.0666,0.1335,15
+Papa,Piura,6,0.0741,0.1016,15
+Papa,Piura,7,0.1099,0.1816,15
+Papa,Piura,8,0.1151,0.2206,15
+Papa,Piura,9,0.1174,0.1983,15
+Papa,Piura,10,0.0938,0.1451,15
+Papa,Piura,11,0.0842,0.135,15
+Papa,Piura,12,0.0913,0.1567,15
+Papa,Puno,1,0.0002,0.0027,15
+Papa,Puno,2,0.0101,0.0228,15
+Papa,Puno,3,0.0794,0.1086,15
+Papa,Puno,4,0.4993,0.601,15
+Papa,Puno,5,0.354,0.4728,15
+Papa,Puno,6,0.0159,0.1156,15
+Papa,Puno,7,0.0,0.0,15
+Papa,Puno,8,0.0,0.0,15
+Papa,Puno,9,0.0,0.0,15
+Papa,Puno,10,0.0,0.0,15
+Papa,Puno,11,0.0093,0.0176,15
+Papa,Puno,12,0.0319,0.0415,15
+Papa,Tacna,1,0.0659,0.1362,15
+Papa,Tacna,2,0.1585,0.2545,15
+Papa,Tacna,3,0.3152,0.3694,15
+Papa,Tacna,4,0.191,0.2894,15
+Papa,Tacna,5,0.0275,0.0987,15
+Papa,Tacna,6,0.0076,0.0234,15
+Papa,Tacna,7,0.0278,0.0554,15
+Papa,Tacna,8,0.0514,0.0785,15
+Papa,Tacna,9,0.0716,0.1216,15
+Papa,Tacna,10,0.035,0.0917,15
+Papa,Tacna,11,0.027,0.0819,15
+Papa,Tacna,12,0.0214,0.0498,15
+Plátano,Amazonas,1,0.0835,0.0935,15
+Plátano,Amazonas,2,0.084,0.0876,15
+Plátano,Amazonas,3,0.0852,0.0905,15
+Plátano,Amazonas,4,0.0843,0.0921,15
+Plátano,Amazonas,5,0.082,0.0895,15
+Plátano,Amazonas,6,0.0831,0.0891,15
+Plátano,Amazonas,7,0.0821,0.0912,15
+Plátano,Amazonas,8,0.0813,0.0857,15
+Plátano,Amazonas,9,0.0833,0.0898,15
+Plátano,Amazonas,10,0.0825,0.0892,15
+Plátano,Amazonas,11,0.0826,0.0904,15
+Plátano,Amazonas,12,0.086,0.0925,15
+Plátano,Ancash,1,0.0925,0.1083,15
+Plátano,Ancash,2,0.0958,0.1154,15
+Plátano,Ancash,3,0.0925,0.1006,15
+Plátano,Ancash,4,0.0909,0.1005,15
+Plátano,Ancash,5,0.0862,0.0954,15
+Plátano,Ancash,6,0.0808,0.095,15
+Plátano,Ancash,7,0.0796,0.0859,15
+Plátano,Ancash,8,0.0756,0.0846,15
+Plátano,Ancash,9,0.0731,0.0807,15
+Plátano,Ancash,10,0.0707,0.0828,15
+Plátano,Ancash,11,0.0697,0.0879,15
+Plátano,Ancash,12,0.0925,0.108,15
+Plátano,Apurimac,1,0.0692,0.1308,15
+Plátano,Apurimac,2,0.1808,0.2553,15
+Plátano,Apurimac,3,0.2376,0.5636,15
+Plátano,Apurimac,4,0.2694,0.4546,15
+Plátano,Apurimac,5,0.0582,0.105,15
+Plátano,Apurimac,6,0.0227,0.0507,15
+Plátano,Apurimac,7,0.0485,0.0946,15
+Plátano,Apurimac,8,0.0252,0.0651,15
+Plátano,Apurimac,9,0.042,0.0786,15
+Plátano,Apurimac,10,0.0237,0.0743,15
+Plátano,Apurimac,11,0.0142,0.0664,15
+Plátano,Apurimac,12,0.0085,0.0347,15
+Plátano,Arequipa,1,0.0326,0.2683,15
+Plátano,Arequipa,2,0.0119,0.1792,15
+Plátano,Arequipa,3,0.03,0.2279,15
+Plátano,Arequipa,4,0.0963,0.6266,15
+Plátano,Arequipa,5,0.0693,0.3568,15
+Plátano,Arequipa,6,0.0977,0.5595,15
+Plátano,Arequipa,7,0.1844,0.6194,15
+Plátano,Arequipa,8,0.1437,0.5838,15
+Plátano,Arequipa,9,0.1605,0.4162,15
+Plátano,Arequipa,10,0.1101,0.55,15
+Plátano,Arequipa,11,0.0284,0.426,15
+Plátano,Arequipa,12,0.035,0.252,15
+Plátano,Ayacucho,1,0.0914,0.1628,15
+Plátano,Ayacucho,2,0.0852,0.1245,15
+Plátano,Ayacucho,3,0.0781,0.1114,15
+Plátano,Ayacucho,4,0.0844,0.1179,15
+Plátano,Ayacucho,5,0.0835,0.138,15
+Plátano,Ayacucho,6,0.0855,0.1507,15
+Plátano,Ayacucho,7,0.0811,0.157,15
+Plátano,Ayacucho,8,0.0727,0.107,15
+Plátano,Ayacucho,9,0.0691,0.0915,15
+Plátano,Ayacucho,10,0.079,0.1195,15
+Plátano,Ayacucho,11,0.0858,0.1579,15
+Plátano,Ayacucho,12,0.1042,0.1844,15
+Plátano,Cajamarca,1,0.0846,0.0937,15
+Plátano,Cajamarca,2,0.083,0.0991,15
+Plátano,Cajamarca,3,0.0859,0.1021,15
+Plátano,Cajamarca,4,0.0881,0.1024,15
+Plátano,Cajamarca,5,0.0895,0.1042,15
+Plátano,Cajamarca,6,0.0864,0.094,15
+Plátano,Cajamarca,7,0.0841,0.0911,15
+Plátano,Cajamarca,8,0.079,0.0855,15
+Plátano,Cajamarca,9,0.0787,0.1157,15
+Plátano,Cajamarca,10,0.0745,0.0816,15
+Plátano,Cajamarca,11,0.0809,0.105,15
+Plátano,Cajamarca,12,0.0854,0.1034,15
+Plátano,Cusco,1,0.0882,0.1225,15
+Plátano,Cusco,2,0.0904,0.11,15
+Plátano,Cusco,3,0.0954,0.1056,15
+Plátano,Cusco,4,0.1058,0.1348,15
+Plátano,Cusco,5,0.1141,0.1447,15
+Plátano,Cusco,6,0.1119,0.1371,15
+Plátano,Cusco,7,0.092,0.1127,15
+Plátano,Cusco,8,0.0612,0.0746,15
+Plátano,Cusco,9,0.0526,0.0657,15
+Plátano,Cusco,10,0.0498,0.0695,15
+Plátano,Cusco,11,0.0547,0.0715,15
+Plátano,Cusco,12,0.0839,0.1552,15
+Plátano,Huancavelica,1,0.0015,0.0193,15
+Plátano,Huancavelica,2,0.0133,0.0632,15
+Plátano,Huancavelica,3,0.2337,0.3298,15
+Plátano,Huancavelica,4,0.2815,0.3342,15
+Plátano,Huancavelica,5,0.2106,0.2997,15
+Plátano,Huancavelica,6,0.113,0.1626,15
+Plátano,Huancavelica,7,0.0334,0.0681,15
+Plátano,Huancavelica,8,0.0089,0.0416,15
+Plátano,Huancavelica,9,0.002,0.0193,15
+Plátano,Huancavelica,10,0.0,0.0,15
+Plátano,Huancavelica,11,0.0,0.0,15
+Plátano,Huancavelica,12,0.1022,0.2328,15
+Plátano,Huanuco,1,0.0822,0.0842,15
+Plátano,Huanuco,2,0.0829,0.0844,15
+Plátano,Huanuco,3,0.0828,0.0848,15
+Plátano,Huanuco,4,0.0825,0.086,15
+Plátano,Huanuco,5,0.0838,0.0897,15
+Plátano,Huanuco,6,0.0835,0.087,15
+Plátano,Huanuco,7,0.0836,0.0874,15
+Plátano,Huanuco,8,0.0839,0.0873,15
+Plátano,Huanuco,9,0.0829,0.0864,15
+Plátano,Huanuco,10,0.0834,0.0862,15
+Plátano,Huanuco,11,0.0839,0.0862,15
+Plátano,Huanuco,12,0.0846,0.0885,15
+Plátano,Ica,1,0.0815,0.0911,15
+Plátano,Ica,2,0.0829,0.0921,15
+Plátano,Ica,3,0.0853,0.0975,15
+Plátano,Ica,4,0.0837,0.0903,15
+Plátano,Ica,5,0.0857,0.1213,15
+Plátano,Ica,6,0.0794,0.0897,15
+Plátano,Ica,7,0.0783,0.088,15
+Plátano,Ica,8,0.0802,0.0913,15
+Plátano,Ica,9,0.0827,0.0939,15
+Plátano,Ica,10,0.0853,0.0962,15
+Plátano,Ica,11,0.0869,0.1161,15
+Plátano,Ica,12,0.0881,0.1012,15
+Plátano,Junin,1,0.0889,0.0974,15
+Plátano,Junin,2,0.0755,0.0857,15
+Plátano,Junin,3,0.0831,0.0887,15
+Plátano,Junin,4,0.0858,0.0939,15
+Plátano,Junin,5,0.0866,0.0919,15
+Plátano,Junin,6,0.0831,0.0882,15
+Plátano,Junin,7,0.0795,0.0873,15
+Plátano,Junin,8,0.0718,0.0774,15
+Plátano,Junin,9,0.0789,0.0838,15
+Plátano,Junin,10,0.087,0.091,15
+Plátano,Junin,11,0.0887,0.0945,15
+Plátano,Junin,12,0.0913,0.1063,15
+Plátano,La Libertad,1,0.0946,0.1246,15
+Plátano,La Libertad,2,0.1186,0.1469,15
+Plátano,La Libertad,3,0.1148,0.138,15
+Plátano,La Libertad,4,0.0935,0.1139,15
+Plátano,La Libertad,5,0.0879,0.0932,15
+Plátano,La Libertad,6,0.0763,0.0832,15
+Plátano,La Libertad,7,0.0721,0.0828,15
+Plátano,La Libertad,8,0.0752,0.0868,15
+Plátano,La Libertad,9,0.077,0.0899,15
+Plátano,La Libertad,10,0.0645,0.0828,15
+Plátano,La Libertad,11,0.0632,0.0849,15
+Plátano,La Libertad,12,0.0623,0.086,15
+Plátano,Lambayeque,1,0.0681,0.1207,15
+Plátano,Lambayeque,2,0.0784,0.1151,15
+Plátano,Lambayeque,3,0.0946,0.1457,15
+Plátano,Lambayeque,4,0.0986,0.1654,15
+Plátano,Lambayeque,5,0.0897,0.142,15
+Plátano,Lambayeque,6,0.0766,0.1285,15
+Plátano,Lambayeque,7,0.1012,0.1673,15
+Plátano,Lambayeque,8,0.0851,0.1624,15
+Plátano,Lambayeque,9,0.0795,0.1807,15
+Plátano,Lambayeque,10,0.0795,0.1512,15
+Plátano,Lambayeque,11,0.0752,0.1452,15
+Plátano,Lambayeque,12,0.0736,0.1111,15
+Plátano,Lima,1,0.0752,0.1136,15
+Plátano,Lima,2,0.1015,0.1804,15
+Plátano,Lima,3,0.1034,0.1577,15
+Plátano,Lima,4,0.101,0.151,15
+Plátano,Lima,5,0.0944,0.1407,15
+Plátano,Lima,6,0.0757,0.1123,15
+Plátano,Lima,7,0.0668,0.0958,15
+Plátano,Lima,8,0.0688,0.1168,15
+Plátano,Lima,9,0.0765,0.1167,15
+Plátano,Lima,10,0.0907,0.3642,15
+Plátano,Lima,11,0.0715,0.1111,15
+Plátano,Lima,12,0.0745,0.1308,15
+Plátano,Lima Metropolitana,1,0.0859,0.1105,15
+Plátano,Lima Metropolitana,2,0.0888,0.2261,15
+Plátano,Lima Metropolitana,3,0.1125,0.2318,15
+Plátano,Lima Metropolitana,4,0.1076,0.1639,15
+Plátano,Lima Metropolitana,5,0.0867,0.1108,15
+Plátano,Lima Metropolitana,6,0.1154,0.2086,15
+Plátano,Lima Metropolitana,7,0.0801,0.1172,15
+Plátano,Lima Metropolitana,8,0.0675,0.0916,15
+Plátano,Lima Metropolitana,9,0.067,0.0887,15
+Plátano,Lima Metropolitana,10,0.0607,0.0847,15
+Plátano,Lima Metropolitana,11,0.061,0.0965,15
+Plátano,Lima Metropolitana,12,0.0667,0.1092,15
+Plátano,Loreto,1,0.0873,0.1022,15
+Plátano,Loreto,2,0.0886,0.0949,15
+Plátano,Loreto,3,0.0798,0.0833,15
+Plátano,Loreto,4,0.0775,0.0815,15
+Plátano,Loreto,5,0.0776,0.0807,15
+Plátano,Loreto,6,0.0798,0.082,15
+Plátano,Loreto,7,0.0786,0.0806,15
+Plátano,Loreto,8,0.0822,0.0872,15
+Plátano,Loreto,9,0.0846,0.087,15
+Plátano,Loreto,10,0.0867,0.0899,15
+Plátano,Loreto,11,0.089,0.0916,15
+Plátano,Loreto,12,0.0882,0.0928,15
+Plátano,Madre de Dios,1,0.073,0.0845,15
+Plátano,Madre de Dios,2,0.0759,0.0888,15
+Plátano,Madre de Dios,3,0.078,0.0915,15
+Plátano,Madre de Dios,4,0.0775,0.0916,15
+Plátano,Madre de Dios,5,0.0837,0.0961,15
+Plátano,Madre de Dios,6,0.0841,0.0981,15
+Plátano,Madre de Dios,7,0.085,0.1017,15
+Plátano,Madre de Dios,8,0.084,0.0962,15
+Plátano,Madre de Dios,9,0.0858,0.1011,15
+Plátano,Madre de Dios,10,0.0888,0.1029,15
+Plátano,Madre de Dios,11,0.0936,0.1211,15
+Plátano,Madre de Dios,12,0.0905,0.1131,15
+Plátano,Moquegua,1,0.0266,0.1895,14
+Plátano,Moquegua,2,0.0869,0.3283,14
+Plátano,Moquegua,3,0.0574,0.2814,14
+Plátano,Moquegua,4,0.0496,0.2633,14
+Plátano,Moquegua,5,0.15,1.0,14
+Plátano,Moquegua,6,0.151,1.0,14
+Plátano,Moquegua,7,0.1309,1.0,14
+Plátano,Moquegua,8,0.1154,0.6053,14
+Plátano,Moquegua,9,0.0665,0.3463,14
+Plátano,Moquegua,10,0.0501,0.2197,14
+Plátano,Moquegua,11,0.0497,0.2243,14
+Plátano,Moquegua,12,0.0659,0.2421,14
+Plátano,Pasco,1,0.0832,0.0948,15
+Plátano,Pasco,2,0.0793,0.088,15
+Plátano,Pasco,3,0.08,0.0882,15
+Plátano,Pasco,4,0.0811,0.0933,15
+Plátano,Pasco,5,0.0783,0.0925,15
+Plátano,Pasco,6,0.0831,0.0929,15
+Plátano,Pasco,7,0.0847,0.0961,15
+Plátano,Pasco,8,0.081,0.0958,15
+Plátano,Pasco,9,0.0862,0.101,15
+Plátano,Pasco,10,0.0836,0.106,15
+Plátano,Pasco,11,0.0865,0.1188,15
+Plátano,Pasco,12,0.093,0.1179,15
+Plátano,Piura,1,0.0852,0.1243,15
+Plátano,Piura,2,0.0848,0.0948,15
+Plátano,Piura,3,0.0805,0.0957,15
+Plátano,Piura,4,0.0821,0.1063,15
+Plátano,Piura,5,0.0837,0.0898,15
+Plátano,Piura,6,0.0814,0.0935,15
+Plátano,Piura,7,0.0824,0.0936,15
+Plátano,Piura,8,0.0852,0.0998,15
+Plátano,Piura,9,0.0856,0.1033,15
+Plátano,Piura,10,0.0822,0.1019,15
+Plátano,Piura,11,0.0827,0.094,15
+Plátano,Piura,12,0.0842,0.0964,15
+Plátano,Puno,1,0.0807,0.0874,15
+Plátano,Puno,2,0.0727,0.0794,15
+Plátano,Puno,3,0.0882,0.0924,15
+Plátano,Puno,4,0.0883,0.1099,15
+Plátano,Puno,5,0.0867,0.0924,15
+Plátano,Puno,6,0.0815,0.0834,15
+Plátano,Puno,7,0.079,0.0811,15
+Plátano,Puno,8,0.0768,0.0816,15
+Plátano,Puno,9,0.0794,0.0835,15
+Plátano,Puno,10,0.0887,0.0974,15
+Plátano,Puno,11,0.0916,0.1011,15
+Plátano,Puno,12,0.0864,0.1046,15
+Plátano,San Martin,1,0.0812,0.0921,15
+Plátano,San Martin,2,0.0821,0.0938,15
+Plátano,San Martin,3,0.0816,0.0935,15
+Plátano,San Martin,4,0.0809,0.0867,15
+Plátano,San Martin,5,0.0849,0.0904,15
+Plátano,San Martin,6,0.0832,0.0888,15
+Plátano,San Martin,7,0.0833,0.0899,15
+Plátano,San Martin,8,0.0833,0.0906,15
+Plátano,San Martin,9,0.0848,0.0963,15
+Plátano,San Martin,10,0.0834,0.09,15
+Plátano,San Martin,11,0.0844,0.0911,15
+Plátano,San Martin,12,0.0869,0.1018,15
+Plátano,Tacna,1,0.0,0.0,14
+Plátano,Tacna,2,0.0,0.0,14
+Plátano,Tacna,3,0.0714,1.0,14
+Plátano,Tacna,4,0.0714,1.0,14
+Plátano,Tacna,5,0.0714,1.0,14
+Plátano,Tacna,6,0.2143,1.0,14
+Plátano,Tacna,7,0.5,1.0,14
+Plátano,Tacna,8,0.0714,1.0,14
+Plátano,Tacna,9,0.0,0.0,14
+Plátano,Tacna,10,0.0,0.0,14
+Plátano,Tacna,11,0.0,0.0,14
+Plátano,Tacna,12,0.0,0.0,14
+Plátano,Tumbes,1,0.0915,0.1476,15
+Plátano,Tumbes,2,0.0938,0.1534,15
+Plátano,Tumbes,3,0.0911,0.1255,15
+Plátano,Tumbes,4,0.0824,0.0948,15
+Plátano,Tumbes,5,0.079,0.0891,15
+Plátano,Tumbes,6,0.0778,0.0899,15
+Plátano,Tumbes,7,0.0765,0.0851,15
+Plátano,Tumbes,8,0.0777,0.0901,15
+Plátano,Tumbes,9,0.0778,0.0888,15
+Plátano,Tumbes,10,0.0818,0.1014,15
+Plátano,Tumbes,11,0.0823,0.1131,15
+Plátano,Tumbes,12,0.0882,0.1204,15
+Plátano,Ucayali,1,0.0899,0.1062,15
+Plátano,Ucayali,2,0.0903,0.1061,15
+Plátano,Ucayali,3,0.0876,0.1032,15
+Plátano,Ucayali,4,0.0815,0.0909,15
+Plátano,Ucayali,5,0.078,0.0844,15
+Plátano,Ucayali,6,0.0772,0.0847,15
+Plátano,Ucayali,7,0.0768,0.0859,15
+Plátano,Ucayali,8,0.0768,0.0866,15
+Plátano,Ucayali,9,0.0797,0.0879,15
+Plátano,Ucayali,10,0.0829,0.0907,15
+Plátano,Ucayali,11,0.0876,0.0946,15
+Plátano,Ucayali,12,0.0918,0.1009,15
+Quinua,Amazonas,1,0.0,0.0,9
+Quinua,Amazonas,2,0.0,0.0,9
+Quinua,Amazonas,3,0.0,0.0,9
+Quinua,Amazonas,4,0.0314,0.1769,9
+Quinua,Amazonas,5,0.1937,0.7254,9
+Quinua,Amazonas,6,0.1752,0.6,9
+Quinua,Amazonas,7,0.1546,0.4,9
+Quinua,Amazonas,8,0.1241,0.6703,9
+Quinua,Amazonas,9,0.0507,0.2021,9
+Quinua,Amazonas,10,0.106,0.4192,9
+Quinua,Amazonas,11,0.032,0.1556,9
+Quinua,Amazonas,12,0.1322,1.0,9
+Quinua,Ancash,1,0.0312,0.4062,13
+Quinua,Ancash,2,0.0089,0.0723,13
+Quinua,Ancash,3,0.012,0.0466,13
+Quinua,Ancash,4,0.0431,0.1302,13
+Quinua,Ancash,5,0.203,0.7644,13
+Quinua,Ancash,6,0.2921,0.5489,13
+Quinua,Ancash,7,0.2173,0.4095,13
+Quinua,Ancash,8,0.1065,0.2765,13
+Quinua,Ancash,9,0.0341,0.116,13
+Quinua,Ancash,10,0.0297,0.3465,13
+Quinua,Ancash,11,0.0118,0.1385,13
+Quinua,Ancash,12,0.0103,0.124,13
+Quinua,Apurimac,1,0.0,0.0,15
+Quinua,Apurimac,2,0.0,0.0,15
+Quinua,Apurimac,3,0.0002,0.0032,15
+Quinua,Apurimac,4,0.0474,0.239,15
+Quinua,Apurimac,5,0.3812,0.5253,15
+Quinua,Apurimac,6,0.4005,0.5017,15
+Quinua,Apurimac,7,0.1318,0.2406,15
+Quinua,Apurimac,8,0.0364,0.2832,15
+Quinua,Apurimac,9,0.0024,0.0243,15
+Quinua,Apurimac,10,0.0,0.0003,15
+Quinua,Apurimac,11,0.0001,0.0015,15
+Quinua,Apurimac,12,0.0,0.0002,15
+Quinua,Arequipa,1,0.0854,0.2538,15
+Quinua,Arequipa,2,0.0494,0.1648,15
+Quinua,Arequipa,3,0.0383,0.1211,15
+Quinua,Arequipa,4,0.0406,0.2287,15
+Quinua,Arequipa,5,0.0664,0.3863,15
+Quinua,Arequipa,6,0.0859,0.3708,15
+Quinua,Arequipa,7,0.0377,0.0868,15
+Quinua,Arequipa,8,0.0711,0.2037,15
+Quinua,Arequipa,9,0.1217,0.2775,15
+Quinua,Arequipa,10,0.1186,0.2494,15
+Quinua,Arequipa,11,0.1519,0.2627,15
+Quinua,Arequipa,12,0.1329,0.3342,15
+Quinua,Ayacucho,1,0.0177,0.0426,15
+Quinua,Ayacucho,2,0.0237,0.0878,15
+Quinua,Ayacucho,3,0.0413,0.2341,15
+Quinua,Ayacucho,4,0.1283,0.3225,15
+Quinua,Ayacucho,5,0.3997,0.49,15
+Quinua,Ayacucho,6,0.3339,0.4829,15
+Quinua,Ayacucho,7,0.0428,0.1455,15
+Quinua,Ayacucho,8,0.0011,0.0112,15
+Quinua,Ayacucho,9,0.0002,0.0011,15
+Quinua,Ayacucho,10,0.0005,0.002,15
+Quinua,Ayacucho,11,0.0018,0.0055,15
+Quinua,Ayacucho,12,0.009,0.0396,15
+Quinua,Cajamarca,1,0.0037,0.0562,15
+Quinua,Cajamarca,2,0.0243,0.1309,15
+Quinua,Cajamarca,3,0.0296,0.1333,15
+Quinua,Cajamarca,4,0.0712,0.1808,15
+Quinua,Cajamarca,5,0.1168,0.2372,15
+Quinua,Cajamarca,6,0.3232,0.4543,15
+Quinua,Cajamarca,7,0.3089,0.5023,15
+Quinua,Cajamarca,8,0.0979,0.2992,15
+Quinua,Cajamarca,9,0.0207,0.0789,15
+Quinua,Cajamarca,10,0.0026,0.011,15
+Quinua,Cajamarca,11,0.0004,0.0064,15
+Quinua,Cajamarca,12,0.0005,0.0075,15
+Quinua,Cusco,1,0.0002,0.0036,15
+Quinua,Cusco,2,0.0,0.0,15
+Quinua,Cusco,3,0.0175,0.2198,15
+Quinua,Cusco,4,0.1102,0.3448,15
+Quinua,Cusco,5,0.5277,0.7094,15
+Quinua,Cusco,6,0.3001,0.5913,15
+Quinua,Cusco,7,0.0432,0.2197,15
+Quinua,Cusco,8,0.0011,0.011,15
+Quinua,Cusco,9,0.0,0.0,15
+Quinua,Cusco,10,0.0,0.0,15
+Quinua,Cusco,11,0.0,0.0,15
+Quinua,Cusco,12,0.0,0.0,15
+Quinua,Huancavelica,1,0.0011,0.006,15
+Quinua,Huancavelica,2,0.0003,0.004,15
+Quinua,Huancavelica,3,0.0011,0.0051,15
+Quinua,Huancavelica,4,0.0519,0.2761,15
+Quinua,Huancavelica,5,0.2283,0.3927,15
+Quinua,Huancavelica,6,0.4085,0.5889,15
+Quinua,Huancavelica,7,0.1984,0.3387,15
+Quinua,Huancavelica,8,0.089,0.2595,15
+Quinua,Huancavelica,9,0.0059,0.0728,15
+Quinua,Huancavelica,10,0.0145,0.1161,15
+Quinua,Huancavelica,11,0.001,0.0073,15
+Quinua,Huancavelica,12,0.0001,0.0015,15
+Quinua,Huanuco,1,0.0001,0.0022,15
+Quinua,Huanuco,2,0.0011,0.0032,15
+Quinua,Huanuco,3,0.004,0.0107,15
+Quinua,Huanuco,4,0.0117,0.0469,15
+Quinua,Huanuco,5,0.2861,0.4188,15
+Quinua,Huanuco,6,0.5382,0.6266,15
+Quinua,Huanuco,7,0.1475,0.3095,15
+Quinua,Huanuco,8,0.0095,0.032,15
+Quinua,Huanuco,9,0.0004,0.0063,15
+Quinua,Huanuco,10,0.0005,0.0051,15
+Quinua,Huanuco,11,0.0008,0.0059,15
+Quinua,Huanuco,12,0.0001,0.0013,15
+Quinua,Ica,1,0.1427,0.622,14
+Quinua,Ica,2,0.1319,1.0,14
+Quinua,Ica,3,0.0179,0.1405,14
+Quinua,Ica,4,0.1456,0.5,14
+Quinua,Ica,5,0.0935,0.5,14
+Quinua,Ica,6,0.1231,0.7192,14
+Quinua,Ica,7,0.0125,0.1206,14
+Quinua,Ica,8,0.0023,0.0324,14
+Quinua,Ica,9,0.0063,0.0878,14
+Quinua,Ica,10,0.0466,0.4799,14
+Quinua,Ica,11,0.1231,0.6424,14
+Quinua,Ica,12,0.1544,0.8333,14
+Quinua,Junin,1,0.0013,0.019,15
+Quinua,Junin,2,0.0012,0.0163,15
+Quinua,Junin,3,0.0004,0.0051,15
+Quinua,Junin,4,0.0069,0.0764,15
+Quinua,Junin,5,0.1358,0.2443,15
+Quinua,Junin,6,0.5098,0.7022,15
+Quinua,Junin,7,0.3221,0.5334,15
+Quinua,Junin,8,0.0223,0.0643,15
+Quinua,Junin,9,0.0,0.0,15
+Quinua,Junin,10,0.0,0.0,15
+Quinua,Junin,11,0.0,0.0,15
+Quinua,Junin,12,0.0001,0.0022,15
+Quinua,La Libertad,1,0.0309,0.2172,15
+Quinua,La Libertad,2,0.0089,0.0621,15
+Quinua,La Libertad,3,0.0024,0.0213,15
+Quinua,La Libertad,4,0.0041,0.0431,15
+Quinua,La Libertad,5,0.0024,0.0097,15
+Quinua,La Libertad,6,0.2703,0.5566,15
+Quinua,La Libertad,7,0.4097,0.5796,15
+Quinua,La Libertad,8,0.1985,0.4182,15
+Quinua,La Libertad,9,0.0284,0.1306,15
+Quinua,La Libertad,10,0.0107,0.0941,15
+Quinua,La Libertad,11,0.0203,0.1285,15
+Quinua,La Libertad,12,0.0134,0.0821,15
+Quinua,Lambayeque,1,0.1069,0.6696,10
+Quinua,Lambayeque,2,0.0135,0.1324,10
+Quinua,Lambayeque,3,0.0039,0.036,10
+Quinua,Lambayeque,4,0.0278,0.2778,10
+Quinua,Lambayeque,5,0.1728,1.0,10
+Quinua,Lambayeque,6,0.0022,0.0221,10
+Quinua,Lambayeque,7,0.0031,0.0307,10
+Quinua,Lambayeque,8,0.0227,0.2201,10
+Quinua,Lambayeque,9,0.252,1.0,10
+Quinua,Lambayeque,10,0.0401,0.2434,10
+Quinua,Lambayeque,11,0.1351,1.0,10
+Quinua,Lambayeque,12,0.22,1.0,10
+Quinua,Lima,1,0.2815,1.0,9
+Quinua,Lima,2,0.0291,0.259,9
+Quinua,Lima,3,0.1012,0.6,9
+Quinua,Lima,4,0.0674,0.4208,9
+Quinua,Lima,5,0.0008,0.0072,9
+Quinua,Lima,6,0.1722,1.0,9
+Quinua,Lima,7,0.1847,0.6522,9
+Quinua,Lima,8,0.0107,0.072,9
+Quinua,Lima,9,0.0123,0.111,9
+Quinua,Lima,10,0.0059,0.0534,9
+Quinua,Lima,11,0.0215,0.1932,9
+Quinua,Lima,12,0.1125,0.8663,9
+Quinua,Lima Metropolitana,1,0.3464,1.0,12
+Quinua,Lima Metropolitana,2,0.1958,0.407,12
+Quinua,Lima Metropolitana,3,0.1299,0.3358,12
+Quinua,Lima Metropolitana,4,0.1556,0.4016,12
+Quinua,Lima Metropolitana,5,0.0,0.0,12
+Quinua,Lima Metropolitana,6,0.0,0.0,12
+Quinua,Lima Metropolitana,7,0.0,0.0,12
+Quinua,Lima Metropolitana,8,0.0,0.0,12
+Quinua,Lima Metropolitana,9,0.0,0.0,12
+Quinua,Lima Metropolitana,10,0.0033,0.0394,12
+Quinua,Lima Metropolitana,11,0.0115,0.1378,12
+Quinua,Lima Metropolitana,12,0.1575,1.0,12
+Quinua,Moquegua,1,0.0026,0.0385,15
+Quinua,Moquegua,2,0.0007,0.0112,15
+Quinua,Moquegua,3,0.0175,0.1159,15
+Quinua,Moquegua,4,0.1122,0.4875,15
+Quinua,Moquegua,5,0.6607,1.0,15
+Quinua,Moquegua,6,0.1038,0.5045,15
+Quinua,Moquegua,7,0.0387,0.2086,15
+Quinua,Moquegua,8,0.0025,0.0382,15
+Quinua,Moquegua,9,0.0252,0.2458,15
+Quinua,Moquegua,10,0.0211,0.1691,15
+Quinua,Moquegua,11,0.0018,0.0274,15
+Quinua,Moquegua,12,0.0132,0.1545,15
+Quinua,Puno,1,0.0,0.0,15
+Quinua,Puno,2,0.0,0.0,15
+Quinua,Puno,3,0.0236,0.0621,15
+Quinua,Puno,4,0.6504,0.7898,15
+Quinua,Puno,5,0.3238,0.8286,15
+Quinua,Puno,6,0.0022,0.0306,15
+Quinua,Puno,7,0.0,0.0,15
+Quinua,Puno,8,0.0,0.0,15
+Quinua,Puno,9,0.0,0.0,15
+Quinua,Puno,10,0.0,0.0,15
+Quinua,Puno,11,0.0,0.0,15
+Quinua,Puno,12,0.0,0.0,15
+Quinua,Tacna,1,0.1053,0.1992,14
+Quinua,Tacna,2,0.1165,0.2819,14
+Quinua,Tacna,3,0.1414,0.3128,14
+Quinua,Tacna,4,0.0714,0.1613,14
+Quinua,Tacna,5,0.0606,0.1575,14
+Quinua,Tacna,6,0.0523,0.1283,14
+Quinua,Tacna,7,0.058,0.1581,14
+Quinua,Tacna,8,0.0927,0.2308,14
+Quinua,Tacna,9,0.075,0.3269,14
+Quinua,Tacna,10,0.0692,0.4423,14
+Quinua,Tacna,11,0.0605,0.4139,14
+Quinua,Tacna,12,0.097,0.3056,14
+Tomate,Amazonas,1,0.099,0.288,15
+Tomate,Amazonas,2,0.1431,0.3448,15
+Tomate,Amazonas,3,0.1585,0.3545,15
+Tomate,Amazonas,4,0.1022,0.3541,15
+Tomate,Amazonas,5,0.091,0.157,15
+Tomate,Amazonas,6,0.1002,0.1957,15
+Tomate,Amazonas,7,0.0758,0.2013,15
+Tomate,Amazonas,8,0.0683,0.2195,15
+Tomate,Amazonas,9,0.0478,0.1297,15
+Tomate,Amazonas,10,0.0424,0.1172,15
+Tomate,Amazonas,11,0.0291,0.083,15
+Tomate,Amazonas,12,0.0427,0.0846,15
+Tomate,Ancash,1,0.059,0.0988,15
+Tomate,Ancash,2,0.0808,0.1314,15
+Tomate,Ancash,3,0.084,0.1247,15
+Tomate,Ancash,4,0.0821,0.1427,15
+Tomate,Ancash,5,0.0989,0.1523,15
+Tomate,Ancash,6,0.1033,0.144,15
+Tomate,Ancash,7,0.0888,0.134,15
+Tomate,Ancash,8,0.0818,0.1404,15
+Tomate,Ancash,9,0.0827,0.1121,15
+Tomate,Ancash,10,0.0916,0.1617,15
+Tomate,Ancash,11,0.0827,0.2058,15
+Tomate,Ancash,12,0.0644,0.13,15
+Tomate,Apurimac,1,0.0718,0.1704,15
+Tomate,Apurimac,2,0.0941,0.3694,15
+Tomate,Apurimac,3,0.0884,0.3339,15
+Tomate,Apurimac,4,0.107,0.229,15
+Tomate,Apurimac,5,0.1141,0.2492,15
+Tomate,Apurimac,6,0.1162,0.3497,15
+Tomate,Apurimac,7,0.0951,0.1875,15
+Tomate,Apurimac,8,0.0605,0.1393,15
+Tomate,Apurimac,9,0.0731,0.2102,15
+Tomate,Apurimac,10,0.0755,0.2483,15
+Tomate,Apurimac,11,0.0491,0.1207,15
+Tomate,Apurimac,12,0.055,0.1338,15
+Tomate,Arequipa,1,0.0797,0.1127,15
+Tomate,Arequipa,2,0.0799,0.1104,15
+Tomate,Arequipa,3,0.074,0.1059,15
+Tomate,Arequipa,4,0.0699,0.127,15
+Tomate,Arequipa,5,0.0634,0.109,15
+Tomate,Arequipa,6,0.0789,0.1191,15
+Tomate,Arequipa,7,0.0905,0.1474,15
+Tomate,Arequipa,8,0.1185,0.2028,15
+Tomate,Arequipa,9,0.1134,0.1787,15
+Tomate,Arequipa,10,0.1028,0.1552,15
+Tomate,Arequipa,11,0.0593,0.1209,15
+Tomate,Arequipa,12,0.0697,0.1359,15
+Tomate,Ayacucho,1,0.0916,0.161,15
+Tomate,Ayacucho,2,0.1014,0.1993,15
+Tomate,Ayacucho,3,0.1116,0.2123,15
+Tomate,Ayacucho,4,0.1034,0.2122,15
+Tomate,Ayacucho,5,0.0861,0.2236,15
+Tomate,Ayacucho,6,0.0782,0.1168,15
+Tomate,Ayacucho,7,0.0654,0.1812,15
+Tomate,Ayacucho,8,0.0734,0.1779,15
+Tomate,Ayacucho,9,0.0942,0.1894,15
+Tomate,Ayacucho,10,0.0521,0.0983,15
+Tomate,Ayacucho,11,0.0731,0.1641,15
+Tomate,Ayacucho,12,0.0695,0.1292,15
+Tomate,Cajamarca,1,0.0247,0.1222,15
+Tomate,Cajamarca,2,0.0381,0.0855,15
+Tomate,Cajamarca,3,0.1127,0.1887,15
+Tomate,Cajamarca,4,0.1955,0.3288,15
+Tomate,Cajamarca,5,0.1819,0.2526,15
+Tomate,Cajamarca,6,0.1278,0.1642,15
+Tomate,Cajamarca,7,0.0806,0.2056,15
+Tomate,Cajamarca,8,0.0403,0.0764,15
+Tomate,Cajamarca,9,0.0443,0.1779,15
+Tomate,Cajamarca,10,0.062,0.1979,15
+Tomate,Cajamarca,11,0.0541,0.1033,15
+Tomate,Cajamarca,12,0.038,0.126,15
+Tomate,Cusco,1,0.135,0.4169,15
+Tomate,Cusco,2,0.1085,0.2542,15
+Tomate,Cusco,3,0.1713,0.4623,15
+Tomate,Cusco,4,0.1095,0.3939,15
+Tomate,Cusco,5,0.095,0.305,15
+Tomate,Cusco,6,0.0991,0.7285,15
+Tomate,Cusco,7,0.0404,0.0809,15
+Tomate,Cusco,8,0.0245,0.0716,15
+Tomate,Cusco,9,0.0383,0.165,15
+Tomate,Cusco,10,0.0324,0.0951,15
+Tomate,Cusco,11,0.0555,0.1392,15
+Tomate,Cusco,12,0.0905,0.2816,15
+Tomate,Huancavelica,1,0.0182,0.071,15
+Tomate,Huancavelica,2,0.0292,0.0928,15
+Tomate,Huancavelica,3,0.0656,0.4707,15
+Tomate,Huancavelica,4,0.0523,0.3849,15
+Tomate,Huancavelica,5,0.3035,0.6602,15
+Tomate,Huancavelica,6,0.1972,0.5079,15
+Tomate,Huancavelica,7,0.1206,0.4205,15
+Tomate,Huancavelica,8,0.1374,0.4014,15
+Tomate,Huancavelica,9,0.019,0.0652,15
+Tomate,Huancavelica,10,0.011,0.0692,15
+Tomate,Huancavelica,11,0.0291,0.1204,15
+Tomate,Huancavelica,12,0.0168,0.1971,15
+Tomate,Huanuco,1,0.0401,0.0847,15
+Tomate,Huanuco,2,0.0839,0.2002,15
+Tomate,Huanuco,3,0.1213,0.2036,15
+Tomate,Huanuco,4,0.0855,0.176,15
+Tomate,Huanuco,5,0.0874,0.1475,15
+Tomate,Huanuco,6,0.0712,0.1501,15
+Tomate,Huanuco,7,0.0505,0.1053,15
+Tomate,Huanuco,8,0.0751,0.1322,15
+Tomate,Huanuco,9,0.1,0.1737,15
+Tomate,Huanuco,10,0.1255,0.1712,15
+Tomate,Huanuco,11,0.0839,0.1146,15
+Tomate,Huanuco,12,0.0756,0.1187,15
+Tomate,Ica,1,0.1901,0.2915,15
+Tomate,Ica,2,0.1294,0.2375,15
+Tomate,Ica,3,0.0645,0.129,15
+Tomate,Ica,4,0.021,0.0372,15
+Tomate,Ica,5,0.0206,0.0367,15
+Tomate,Ica,6,0.0254,0.0723,15
+Tomate,Ica,7,0.0245,0.0442,15
+Tomate,Ica,8,0.0253,0.0405,15
+Tomate,Ica,9,0.0256,0.0371,15
+Tomate,Ica,10,0.0698,0.2024,15
+Tomate,Ica,11,0.1743,0.2773,15
+Tomate,Ica,12,0.2295,0.4935,15
+Tomate,Junin,1,0.0064,0.0962,15
+Tomate,Junin,2,0.0765,0.3181,15
+Tomate,Junin,3,0.0825,0.3504,15
+Tomate,Junin,4,0.0599,0.3833,15
+Tomate,Junin,5,0.0395,0.4425,15
+Tomate,Junin,6,0.1059,0.3464,15
+Tomate,Junin,7,0.1987,0.3821,15
+Tomate,Junin,8,0.237,0.3963,15
+Tomate,Junin,9,0.1086,0.2503,15
+Tomate,Junin,10,0.0355,0.2066,15
+Tomate,Junin,11,0.0447,0.2138,15
+Tomate,Junin,12,0.0048,0.0719,15
+Tomate,La Libertad,1,0.0794,0.1485,15
+Tomate,La Libertad,2,0.0869,0.1341,15
+Tomate,La Libertad,3,0.0665,0.1024,15
+Tomate,La Libertad,4,0.0699,0.1716,15
+Tomate,La Libertad,5,0.0875,0.1994,15
+Tomate,La Libertad,6,0.0836,0.1488,15
+Tomate,La Libertad,7,0.1072,0.1644,15
+Tomate,La Libertad,8,0.0915,0.182,15
+Tomate,La Libertad,9,0.0838,0.1452,15
+Tomate,La Libertad,10,0.0868,0.177,15
+Tomate,La Libertad,11,0.0709,0.117,15
+Tomate,La Libertad,12,0.0859,0.1398,15
+Tomate,Lambayeque,1,0.0831,0.1915,15
+Tomate,Lambayeque,2,0.0565,0.1378,15
+Tomate,Lambayeque,3,0.0487,0.1561,15
+Tomate,Lambayeque,4,0.0526,0.1858,15
+Tomate,Lambayeque,5,0.0883,0.2238,15
+Tomate,Lambayeque,6,0.0651,0.1464,15
+Tomate,Lambayeque,7,0.0931,0.1499,15
+Tomate,Lambayeque,8,0.111,0.2371,15
+Tomate,Lambayeque,9,0.1092,0.2925,15
+Tomate,Lambayeque,10,0.0878,0.1529,15
+Tomate,Lambayeque,11,0.1194,0.2143,15
+Tomate,Lambayeque,12,0.0852,0.238,15
+Tomate,Lima,1,0.0951,0.1814,15
+Tomate,Lima,2,0.0947,0.1298,15
+Tomate,Lima,3,0.1113,0.1514,15
+Tomate,Lima,4,0.1188,0.1947,15
+Tomate,Lima,5,0.103,0.1512,15
+Tomate,Lima,6,0.1084,0.1548,15
+Tomate,Lima,7,0.0841,0.1254,15
+Tomate,Lima,8,0.0714,0.1031,15
+Tomate,Lima,9,0.0562,0.0868,15
+Tomate,Lima,10,0.0526,0.1571,15
+Tomate,Lima,11,0.0458,0.0741,15
+Tomate,Lima,12,0.0587,0.0928,15
+Tomate,Lima Metropolitana,1,0.0979,0.1964,15
+Tomate,Lima Metropolitana,2,0.1267,0.212,15
+Tomate,Lima Metropolitana,3,0.0889,0.2442,15
+Tomate,Lima Metropolitana,4,0.0992,0.406,15
+Tomate,Lima Metropolitana,5,0.1715,0.4411,15
+Tomate,Lima Metropolitana,6,0.133,0.2415,15
+Tomate,Lima Metropolitana,7,0.085,0.2194,15
+Tomate,Lima Metropolitana,8,0.0445,0.1374,15
+Tomate,Lima Metropolitana,9,0.0442,0.0979,15
+Tomate,Lima Metropolitana,10,0.0216,0.0719,15
+Tomate,Lima Metropolitana,11,0.03,0.1582,15
+Tomate,Lima Metropolitana,12,0.0575,0.1543,15
+Tomate,Loreto,1,0.0302,0.0896,15
+Tomate,Loreto,2,0.0206,0.0509,15
+Tomate,Loreto,3,0.017,0.0563,15
+Tomate,Loreto,4,0.0171,0.0631,15
+Tomate,Loreto,5,0.0158,0.0393,15
+Tomate,Loreto,6,0.0133,0.0385,15
+Tomate,Loreto,7,0.02,0.0405,15
+Tomate,Loreto,8,0.0536,0.1519,15
+Tomate,Loreto,9,0.192,0.235,15
+Tomate,Loreto,10,0.3624,0.4316,15
+Tomate,Loreto,11,0.1701,0.2087,15
+Tomate,Loreto,12,0.0877,0.1087,15
+Tomate,Madre de Dios,1,0.0044,0.0568,13
+Tomate,Madre de Dios,2,0.005,0.0646,13
+Tomate,Madre de Dios,3,0.0,0.0,13
+Tomate,Madre de Dios,4,0.0254,0.2159,13
+Tomate,Madre de Dios,5,0.0272,0.2371,13
+Tomate,Madre de Dios,6,0.0375,0.1784,13
+Tomate,Madre de Dios,7,0.3091,0.5449,13
+Tomate,Madre de Dios,8,0.3399,0.5932,13
+Tomate,Madre de Dios,9,0.2094,0.56,13
+Tomate,Madre de Dios,10,0.0252,0.2162,13
+Tomate,Madre de Dios,11,0.0169,0.22,13
+Tomate,Madre de Dios,12,0.0,0.0,13
+Tomate,Moquegua,1,0.152,0.6,15
+Tomate,Moquegua,2,0.0991,0.3204,15
+Tomate,Moquegua,3,0.0733,0.2713,15
+Tomate,Moquegua,4,0.0747,0.3415,15
+Tomate,Moquegua,5,0.0628,0.3494,15
+Tomate,Moquegua,6,0.0859,0.2857,15
+Tomate,Moquegua,7,0.0656,0.2833,15
+Tomate,Moquegua,8,0.1125,0.3302,15
+Tomate,Moquegua,9,0.021,0.1699,15
+Tomate,Moquegua,10,0.0121,0.1166,15
+Tomate,Moquegua,11,0.0465,0.3165,15
+Tomate,Moquegua,12,0.1944,0.5418,15
+Tomate,Piura,1,0.0952,0.415,15
+Tomate,Piura,2,0.0331,0.2948,15
+Tomate,Piura,3,0.0208,0.0829,15
+Tomate,Piura,4,0.0324,0.2354,15
+Tomate,Piura,5,0.0741,0.3078,15
+Tomate,Piura,6,0.0777,0.2354,15
+Tomate,Piura,7,0.1035,0.2953,15
+Tomate,Piura,8,0.0698,0.3111,15
+Tomate,Piura,9,0.0478,0.1716,15
+Tomate,Piura,10,0.0777,0.388,15
+Tomate,Piura,11,0.1594,0.3939,15
+Tomate,Piura,12,0.2084,0.467,15
+Tomate,Puno,1,0.0,0.0,6
+Tomate,Puno,2,0.0,0.0,6
+Tomate,Puno,3,0.0,0.0,6
+Tomate,Puno,4,0.1837,1.0,6
+Tomate,Puno,5,0.8163,1.0,6
+Tomate,Puno,6,0.0,0.0,6
+Tomate,Puno,7,0.0,0.0,6
+Tomate,Puno,8,0.0,0.0,6
+Tomate,Puno,9,0.0,0.0,6
+Tomate,Puno,10,0.0,0.0,6
+Tomate,Puno,11,0.0,0.0,6
+Tomate,Puno,12,0.0,0.0,6
+Tomate,San Martin,1,0.0874,0.1461,15
+Tomate,San Martin,2,0.0683,0.1075,15
+Tomate,San Martin,3,0.0683,0.1062,15
+Tomate,San Martin,4,0.0721,0.1118,15
+Tomate,San Martin,5,0.0772,0.1309,15
+Tomate,San Martin,6,0.0668,0.109,15
+Tomate,San Martin,7,0.0752,0.1202,15
+Tomate,San Martin,8,0.0998,0.1288,15
+Tomate,San Martin,9,0.0969,0.1476,15
+Tomate,San Martin,10,0.0998,0.1578,15
+Tomate,San Martin,11,0.0921,0.1341,15
+Tomate,San Martin,12,0.096,0.1483,15
+Tomate,Tacna,1,0.1021,0.1394,15
+Tomate,Tacna,2,0.1107,0.1786,15
+Tomate,Tacna,3,0.1217,0.1688,15
+Tomate,Tacna,4,0.0953,0.1902,15
+Tomate,Tacna,5,0.0777,0.1789,15
+Tomate,Tacna,6,0.0587,0.1584,15
+Tomate,Tacna,7,0.0639,0.1155,15
+Tomate,Tacna,8,0.0734,0.1115,15
+Tomate,Tacna,9,0.0747,0.1057,15
+Tomate,Tacna,10,0.0748,0.0988,15
+Tomate,Tacna,11,0.072,0.1308,15
+Tomate,Tacna,12,0.075,0.1408,15
+Tomate,Tumbes,1,0.0967,0.277,15
+Tomate,Tumbes,2,0.0666,0.3835,15
+Tomate,Tumbes,3,0.0,0.0,15
+Tomate,Tumbes,4,0.0111,0.0979,15
+Tomate,Tumbes,5,0.0142,0.1586,15
+Tomate,Tumbes,6,0.0517,0.3448,15
+Tomate,Tumbes,7,0.074,0.2883,15
+Tomate,Tumbes,8,0.1246,0.4434,15
+Tomate,Tumbes,9,0.1255,0.4301,15
+Tomate,Tumbes,10,0.2005,0.5405,15
+Tomate,Tumbes,11,0.1392,0.3839,15
+Tomate,Tumbes,12,0.0959,0.5056,15
+Tomate,Ucayali,1,0.049,0.1408,15
+Tomate,Ucayali,2,0.0366,0.1339,15
+Tomate,Ucayali,3,0.0274,0.1049,15
+Tomate,Ucayali,4,0.025,0.1296,15
+Tomate,Ucayali,5,0.0033,0.0381,15
+Tomate,Ucayali,6,0.0021,0.0318,15
+Tomate,Ucayali,7,0.006,0.0344,15
+Tomate,Ucayali,8,0.0352,0.2943,15
+Tomate,Ucayali,9,0.1551,0.5066,15
+Tomate,Ucayali,10,0.2565,0.4288,15
+Tomate,Ucayali,11,0.2544,0.6554,15
+Tomate,Ucayali,12,0.1495,0.4721,15
+Uva,Ancash,1,0.0928,0.1379,15
+Uva,Ancash,2,0.1159,0.153,15
+Uva,Ancash,3,0.1197,0.1552,15
+Uva,Ancash,4,0.1136,0.1817,15
+Uva,Ancash,5,0.093,0.139,15
+Uva,Ancash,6,0.0727,0.0952,15
+Uva,Ancash,7,0.061,0.0882,15
+Uva,Ancash,8,0.0538,0.0816,15
+Uva,Ancash,9,0.0481,0.0822,15
+Uva,Ancash,10,0.0491,0.0794,15
+Uva,Ancash,11,0.0636,0.1196,15
+Uva,Ancash,12,0.1167,0.4512,15
+Uva,Arequipa,1,0.14,0.1932,15
+Uva,Arequipa,2,0.2028,0.3985,15
+Uva,Arequipa,3,0.1599,0.4044,15
+Uva,Arequipa,4,0.0584,0.1322,15
+Uva,Arequipa,5,0.0092,0.0469,15
+Uva,Arequipa,6,0.0048,0.0244,15
+Uva,Arequipa,7,0.0162,0.1283,15
+Uva,Arequipa,8,0.0134,0.0398,15
+Uva,Arequipa,9,0.0391,0.1059,15
+Uva,Arequipa,10,0.083,0.2226,15
+Uva,Arequipa,11,0.1165,0.2048,15
+Uva,Arequipa,12,0.1569,0.343,15
+Uva,Ayacucho,1,0.1177,0.2875,15
+Uva,Ayacucho,2,0.3296,0.4578,15
+Uva,Ayacucho,3,0.3543,0.4545,15
+Uva,Ayacucho,4,0.1886,0.4091,15
+Uva,Ayacucho,5,0.0098,0.0833,15
+Uva,Ayacucho,6,0.0,0.0,15
+Uva,Ayacucho,7,0.0,0.0,15
+Uva,Ayacucho,8,0.0,0.0,15
+Uva,Ayacucho,9,0.0,0.0,15
+Uva,Ayacucho,10,0.0,0.0,15
+Uva,Ayacucho,11,0.0,0.0,15
+Uva,Ayacucho,12,0.0,0.0,15
+Uva,Cajamarca,1,0.0324,0.0731,15
+Uva,Cajamarca,2,0.0324,0.1338,15
+Uva,Cajamarca,3,0.0266,0.056,15
+Uva,Cajamarca,4,0.0432,0.0983,15
+Uva,Cajamarca,5,0.031,0.08,15
+Uva,Cajamarca,6,0.0792,0.1905,15
+Uva,Cajamarca,7,0.1189,0.2212,15
+Uva,Cajamarca,8,0.1221,0.2097,15
+Uva,Cajamarca,9,0.1268,0.254,15
+Uva,Cajamarca,10,0.1469,0.3268,15
+Uva,Cajamarca,11,0.116,0.1763,15
+Uva,Cajamarca,12,0.1247,0.2589,15
+Uva,Ica,1,0.2674,0.4514,15
+Uva,Ica,2,0.1807,0.2542,15
+Uva,Ica,3,0.1244,0.1936,15
+Uva,Ica,4,0.0348,0.0914,15
+Uva,Ica,5,0.0005,0.004,15
+Uva,Ica,6,0.0001,0.0005,15
+Uva,Ica,7,0.0004,0.0028,15
+Uva,Ica,8,0.0004,0.003,15
+Uva,Ica,9,0.0007,0.0038,15
+Uva,Ica,10,0.0315,0.1027,15
+Uva,Ica,11,0.1148,0.1751,15
+Uva,Ica,12,0.2443,0.3172,15
+Uva,La Libertad,1,0.1129,0.1621,15
+Uva,La Libertad,2,0.1083,0.1423,15
+Uva,La Libertad,3,0.0893,0.1016,15
+Uva,La Libertad,4,0.0674,0.0872,15
+Uva,La Libertad,5,0.0643,0.0847,15
+Uva,La Libertad,6,0.0578,0.0724,15
+Uva,La Libertad,7,0.0607,0.0778,15
+Uva,La Libertad,8,0.0631,0.0776,15
+Uva,La Libertad,9,0.0652,0.075,15
+Uva,La Libertad,10,0.0823,0.127,15
+Uva,La Libertad,11,0.1208,0.2293,15
+Uva,La Libertad,12,0.108,0.2454,15
+Uva,Lambayeque,1,0.1098,0.2529,15
+Uva,Lambayeque,2,0.0621,0.3207,15
+Uva,Lambayeque,3,0.0119,0.0568,15
+Uva,Lambayeque,4,0.0031,0.0233,15
+Uva,Lambayeque,5,0.0023,0.0162,15
+Uva,Lambayeque,6,0.0022,0.0199,15
+Uva,Lambayeque,7,0.0016,0.0139,15
+Uva,Lambayeque,8,0.0095,0.0255,15
+Uva,Lambayeque,9,0.02,0.0852,15
+Uva,Lambayeque,10,0.1138,0.2867,15
+Uva,Lambayeque,11,0.2031,0.4755,15
+Uva,Lambayeque,12,0.4607,0.8139,15
+Uva,Lima,1,0.0847,0.1717,15
+Uva,Lima,2,0.1939,0.254,15
+Uva,Lima,3,0.3252,0.4194,15
+Uva,Lima,4,0.2507,0.3696,15
+Uva,Lima,5,0.0965,0.1496,15
+Uva,Lima,6,0.0274,0.1479,15
+Uva,Lima,7,0.0025,0.0124,15
+Uva,Lima,8,0.0006,0.0055,15
+Uva,Lima,9,0.0004,0.0055,15
+Uva,Lima,10,0.0004,0.0055,15
+Uva,Lima,11,0.0013,0.006,15
+Uva,Lima,12,0.0164,0.0288,15
+Uva,Lima Metropolitana,1,0.0182,0.0524,15
+Uva,Lima Metropolitana,2,0.3208,0.3914,15
+Uva,Lima Metropolitana,3,0.4947,0.5783,15
+Uva,Lima Metropolitana,4,0.1656,0.2805,15
+Uva,Lima Metropolitana,5,0.0007,0.0104,15
+Uva,Lima Metropolitana,6,0.0,0.0,15
+Uva,Lima Metropolitana,7,0.0,0.0,15
+Uva,Lima Metropolitana,8,0.0,0.0,15
+Uva,Lima Metropolitana,9,0.0,0.0,15
+Uva,Lima Metropolitana,10,0.0,0.0,15
+Uva,Lima Metropolitana,11,0.0,0.0,15
+Uva,Lima Metropolitana,12,0.0,0.0,15
+Uva,Moquegua,1,0.0096,0.029,15
+Uva,Moquegua,2,0.0963,0.3404,15
+Uva,Moquegua,3,0.266,0.4564,15
+Uva,Moquegua,4,0.2696,0.4003,15
+Uva,Moquegua,5,0.1895,0.389,15
+Uva,Moquegua,6,0.1244,0.3422,15
+Uva,Moquegua,7,0.0284,0.1697,15
+Uva,Moquegua,8,0.0067,0.0453,15
+Uva,Moquegua,9,0.002,0.0096,15
+Uva,Moquegua,10,0.0015,0.0118,15
+Uva,Moquegua,11,0.0014,0.0091,15
+Uva,Moquegua,12,0.0045,0.0183,15
+Uva,Piura,1,0.0482,0.204,15
+Uva,Piura,2,0.002,0.0172,15
+Uva,Piura,3,0.0006,0.0042,15
+Uva,Piura,4,0.0021,0.012,15
+Uva,Piura,5,0.0028,0.0353,15
+Uva,Piura,6,0.0059,0.0404,15
+Uva,Piura,7,0.0087,0.0537,15
+Uva,Piura,8,0.015,0.0604,15
+Uva,Piura,9,0.0221,0.0791,15
+Uva,Piura,10,0.203,0.352,15
+Uva,Piura,11,0.4196,0.6939,15
+Uva,Piura,12,0.27,0.5142,15
+Uva,San Martin,1,0.0611,0.0905,15
+Uva,San Martin,2,0.0711,0.1615,15
+Uva,San Martin,3,0.0666,0.1073,15
+Uva,San Martin,4,0.1033,0.1594,15
+Uva,San Martin,5,0.1304,0.1831,15
+Uva,San Martin,6,0.1244,0.1861,15
+Uva,San Martin,7,0.0716,0.1137,15
+Uva,San Martin,8,0.0611,0.111,15
+Uva,San Martin,9,0.0619,0.0724,15
+Uva,San Martin,10,0.0761,0.1041,15
+Uva,San Martin,11,0.0967,0.2314,15
+Uva,San Martin,12,0.0758,0.1011,15
+Uva,Tacna,1,0.1331,0.2808,15
+Uva,Tacna,2,0.2896,0.4391,15
+Uva,Tacna,3,0.4963,0.6446,15
+Uva,Tacna,4,0.076,0.337,15
+Uva,Tacna,5,0.0032,0.0164,15
+Uva,Tacna,6,0.0005,0.0068,15
+Uva,Tacna,7,0.0,0.0,15
+Uva,Tacna,8,0.0,0.0,15
+Uva,Tacna,9,0.0,0.0,15
+Uva,Tacna,10,0.0,0.0,15
+Uva,Tacna,11,0.0,0.0,15
+Uva,Tacna,12,0.0014,0.0204,15
+Uva,Tumbes,1,0.037,0.3333,9
+Uva,Tumbes,2,0.0,0.0,9
+Uva,Tumbes,3,0.0,0.0,9
+Uva,Tumbes,4,0.0606,0.5455,9
+Uva,Tumbes,5,0.0,0.0,9
+Uva,Tumbes,6,0.0,0.0,9
+Uva,Tumbes,7,0.0457,0.411,9
+Uva,Tumbes,8,0.0,0.0,9
+Uva,Tumbes,9,0.0,0.0,9
+Uva,Tumbes,10,0.4089,1.0,9
+Uva,Tumbes,11,0.2222,1.0,9
+Uva,Tumbes,12,0.2255,1.0,9
+Yuca,Amazonas,1,0.08,0.0923,15
+Yuca,Amazonas,2,0.0832,0.0989,15
+Yuca,Amazonas,3,0.0841,0.101,15
+Yuca,Amazonas,4,0.0838,0.0944,15
+Yuca,Amazonas,5,0.0965,0.1218,15
+Yuca,Amazonas,6,0.0878,0.1021,15
+Yuca,Amazonas,7,0.0896,0.1105,15
+Yuca,Amazonas,8,0.086,0.1004,15
+Yuca,Amazonas,9,0.0808,0.1162,15
+Yuca,Amazonas,10,0.0798,0.1116,15
+Yuca,Amazonas,11,0.0769,0.0918,15
+Yuca,Amazonas,12,0.0715,0.0899,15
+Yuca,Ancash,1,0.0897,0.1569,15
+Yuca,Ancash,2,0.0686,0.1661,15
+Yuca,Ancash,3,0.0757,0.1381,15
+Yuca,Ancash,4,0.064,0.165,15
+Yuca,Ancash,5,0.0627,0.1239,15
+Yuca,Ancash,6,0.0765,0.2257,15
+Yuca,Ancash,7,0.0695,0.1648,15
+Yuca,Ancash,8,0.0824,0.1689,15
+Yuca,Ancash,9,0.0984,0.1981,15
+Yuca,Ancash,10,0.0989,0.237,15
+Yuca,Ancash,11,0.1054,0.2243,15
+Yuca,Ancash,12,0.1081,0.235,15
+Yuca,Apurimac,1,0.0346,0.1238,15
+Yuca,Apurimac,2,0.0319,0.1017,15
+Yuca,Apurimac,3,0.0561,0.2959,15
+Yuca,Apurimac,4,0.0769,0.1752,15
+Yuca,Apurimac,5,0.0591,0.1424,15
+Yuca,Apurimac,6,0.0892,0.2322,15
+Yuca,Apurimac,7,0.1152,0.2844,15
+Yuca,Apurimac,8,0.118,0.2825,15
+Yuca,Apurimac,9,0.0809,0.3123,15
+Yuca,Apurimac,10,0.0504,0.1366,15
+Yuca,Apurimac,11,0.0619,0.2133,15
+Yuca,Apurimac,12,0.2261,0.6454,15
+Yuca,Arequipa,1,0.0847,0.4791,15
+Yuca,Arequipa,2,0.0295,0.244,15
+Yuca,Arequipa,3,0.029,0.1796,15
+Yuca,Arequipa,4,0.0341,0.1646,15
+Yuca,Arequipa,5,0.1295,0.4035,15
+Yuca,Arequipa,6,0.1051,0.2366,15
+Yuca,Arequipa,7,0.125,0.2732,15
+Yuca,Arequipa,8,0.1069,0.2839,15
+Yuca,Arequipa,9,0.0997,0.2297,15
+Yuca,Arequipa,10,0.1392,0.3869,15
+Yuca,Arequipa,11,0.0876,0.365,15
+Yuca,Arequipa,12,0.0298,0.1208,15
+Yuca,Ayacucho,1,0.0784,0.1151,15
+Yuca,Ayacucho,2,0.0932,0.1361,15
+Yuca,Ayacucho,3,0.0815,0.1188,15
+Yuca,Ayacucho,4,0.0818,0.1336,15
+Yuca,Ayacucho,5,0.0831,0.1301,15
+Yuca,Ayacucho,6,0.0848,0.1488,15
+Yuca,Ayacucho,7,0.0858,0.1089,15
+Yuca,Ayacucho,8,0.0895,0.1437,15
+Yuca,Ayacucho,9,0.0822,0.1104,15
+Yuca,Ayacucho,10,0.0929,0.3569,15
+Yuca,Ayacucho,11,0.0722,0.1005,15
+Yuca,Ayacucho,12,0.0747,0.1146,15
+Yuca,Cajamarca,1,0.0841,0.1018,15
+Yuca,Cajamarca,2,0.0813,0.1127,15
+Yuca,Cajamarca,3,0.0798,0.107,15
+Yuca,Cajamarca,4,0.0753,0.0951,15
+Yuca,Cajamarca,5,0.0712,0.0809,15
+Yuca,Cajamarca,6,0.0578,0.0848,15
+Yuca,Cajamarca,7,0.0561,0.0792,15
+Yuca,Cajamarca,8,0.0767,0.1044,15
+Yuca,Cajamarca,9,0.0947,0.1415,15
+Yuca,Cajamarca,10,0.1136,0.1397,15
+Yuca,Cajamarca,11,0.1082,0.1371,15
+Yuca,Cajamarca,12,0.1013,0.1181,15
+Yuca,Cusco,1,0.0843,0.1199,15
+Yuca,Cusco,2,0.0853,0.1247,15
+Yuca,Cusco,3,0.0956,0.1785,15
+Yuca,Cusco,4,0.1188,0.1841,15
+Yuca,Cusco,5,0.1322,0.1689,15
+Yuca,Cusco,6,0.1099,0.1672,15
+Yuca,Cusco,7,0.1038,0.1754,15
+Yuca,Cusco,8,0.0662,0.0993,15
+Yuca,Cusco,9,0.0508,0.0993,15
+Yuca,Cusco,10,0.057,0.1167,15
+Yuca,Cusco,11,0.0512,0.1178,15
+Yuca,Cusco,12,0.0449,0.1016,15
+Yuca,Huanuco,1,0.074,0.0899,15
+Yuca,Huanuco,2,0.0804,0.1016,15
+Yuca,Huanuco,3,0.0874,0.105,15
+Yuca,Huanuco,4,0.0865,0.1092,15
+Yuca,Huanuco,5,0.0886,0.1055,15
+Yuca,Huanuco,6,0.0917,0.109,15
+Yuca,Huanuco,7,0.0913,0.1074,15
+Yuca,Huanuco,8,0.0908,0.1097,15
+Yuca,Huanuco,9,0.0867,0.098,15
+Yuca,Huanuco,10,0.079,0.09,15
+Yuca,Huanuco,11,0.0772,0.0848,15
+Yuca,Huanuco,12,0.0664,0.078,15
+Yuca,Ica,1,0.0091,0.0412,15
+Yuca,Ica,2,0.0253,0.1505,15
+Yuca,Ica,3,0.025,0.0685,15
+Yuca,Ica,4,0.0714,0.284,15
+Yuca,Ica,5,0.1431,0.3737,15
+Yuca,Ica,6,0.1337,0.256,15
+Yuca,Ica,7,0.1638,0.4039,15
+Yuca,Ica,8,0.1148,0.2468,15
+Yuca,Ica,9,0.1172,0.244,15
+Yuca,Ica,10,0.0954,0.267,15
+Yuca,Ica,11,0.0629,0.2512,15
+Yuca,Ica,12,0.0383,0.1074,15
+Yuca,Junin,1,0.0826,0.0922,15
+Yuca,Junin,2,0.071,0.0761,15
+Yuca,Junin,3,0.0678,0.0764,15
+Yuca,Junin,4,0.0724,0.0799,15
+Yuca,Junin,5,0.071,0.0775,15
+Yuca,Junin,6,0.0669,0.0731,15
+Yuca,Junin,7,0.0589,0.0697,15
+Yuca,Junin,8,0.0685,0.0751,15
+Yuca,Junin,9,0.0894,0.0986,15
+Yuca,Junin,10,0.1162,0.1314,15
+Yuca,Junin,11,0.1214,0.1396,15
+Yuca,Junin,12,0.114,0.1233,15
+Yuca,La Libertad,1,0.0767,0.1128,15
+Yuca,La Libertad,2,0.0775,0.1179,15
+Yuca,La Libertad,3,0.074,0.0956,15
+Yuca,La Libertad,4,0.0788,0.1124,15
+Yuca,La Libertad,5,0.072,0.1098,15
+Yuca,La Libertad,6,0.083,0.1051,15
+Yuca,La Libertad,7,0.0956,0.1351,15
+Yuca,La Libertad,8,0.0846,0.1145,15
+Yuca,La Libertad,9,0.086,0.1172,15
+Yuca,La Libertad,10,0.0918,0.1222,15
+Yuca,La Libertad,11,0.0918,0.1236,15
+Yuca,La Libertad,12,0.0883,0.1305,15
+Yuca,Lambayeque,1,0.0893,0.2362,15
+Yuca,Lambayeque,2,0.0534,0.1431,15
+Yuca,Lambayeque,3,0.046,0.1351,15
+Yuca,Lambayeque,4,0.0541,0.1461,15
+Yuca,Lambayeque,5,0.0559,0.0979,15
+Yuca,Lambayeque,6,0.0576,0.108,15
+Yuca,Lambayeque,7,0.0562,0.1127,15
+Yuca,Lambayeque,8,0.0901,0.1601,15
+Yuca,Lambayeque,9,0.1064,0.2402,15
+Yuca,Lambayeque,10,0.1248,0.2976,15
+Yuca,Lambayeque,11,0.146,0.376,15
+Yuca,Lambayeque,12,0.1201,0.2423,15
+Yuca,Lima,1,0.0253,0.0863,15
+Yuca,Lima,2,0.0214,0.0848,15
+Yuca,Lima,3,0.0407,0.0855,15
+Yuca,Lima,4,0.1106,0.1913,15
+Yuca,Lima,5,0.1319,0.2034,15
+Yuca,Lima,6,0.1256,0.2678,15
+Yuca,Lima,7,0.1337,0.1809,15
+Yuca,Lima,8,0.1442,0.2363,15
+Yuca,Lima,9,0.0932,0.2408,15
+Yuca,Lima,10,0.0809,0.1265,15
+Yuca,Lima,11,0.0571,0.1218,15
+Yuca,Lima,12,0.0352,0.139,15
+Yuca,Lima Metropolitana,1,0.0,0.0,13
+Yuca,Lima Metropolitana,2,0.0,0.0,13
+Yuca,Lima Metropolitana,3,0.0,0.0,13
+Yuca,Lima Metropolitana,4,0.0,0.0,13
+Yuca,Lima Metropolitana,5,0.3688,0.7637,13
+Yuca,Lima Metropolitana,6,0.4698,0.8679,13
+Yuca,Lima Metropolitana,7,0.0845,0.5077,13
+Yuca,Lima Metropolitana,8,0.0,0.0,13
+Yuca,Lima Metropolitana,9,0.0,0.0,13
+Yuca,Lima Metropolitana,10,0.0769,1.0,13
+Yuca,Lima Metropolitana,11,0.0,0.0,13
+Yuca,Lima Metropolitana,12,0.0,0.0,13
+Yuca,Loreto,1,0.0845,0.0889,15
+Yuca,Loreto,2,0.083,0.0889,15
+Yuca,Loreto,3,0.0712,0.0753,15
+Yuca,Loreto,4,0.0661,0.0727,15
+Yuca,Loreto,5,0.0615,0.0728,15
+Yuca,Loreto,6,0.0675,0.0741,15
+Yuca,Loreto,7,0.0773,0.0839,15
+Yuca,Loreto,8,0.0786,0.0883,15
+Yuca,Loreto,9,0.0848,0.0932,15
+Yuca,Loreto,10,0.0964,0.1022,15
+Yuca,Loreto,11,0.1118,0.1185,15
+Yuca,Loreto,12,0.1173,0.1314,15
+Yuca,Madre de Dios,1,0.076,0.0864,15
+Yuca,Madre de Dios,2,0.0762,0.0942,15
+Yuca,Madre de Dios,3,0.0773,0.0865,15
+Yuca,Madre de Dios,4,0.0781,0.0932,15
+Yuca,Madre de Dios,5,0.0829,0.0956,15
+Yuca,Madre de Dios,6,0.0869,0.1004,15
+Yuca,Madre de Dios,7,0.0855,0.1025,15
+Yuca,Madre de Dios,8,0.0841,0.0954,15
+Yuca,Madre de Dios,9,0.083,0.0974,15
+Yuca,Madre de Dios,10,0.0859,0.1054,15
+Yuca,Madre de Dios,11,0.0904,0.1144,15
+Yuca,Madre de Dios,12,0.0938,0.1148,15
+Yuca,Pasco,1,0.0712,0.1227,15
+Yuca,Pasco,2,0.0644,0.0955,15
+Yuca,Pasco,3,0.0696,0.0917,15
+Yuca,Pasco,4,0.0821,0.101,15
+Yuca,Pasco,5,0.0881,0.1131,15
+Yuca,Pasco,6,0.1,0.1914,15
+Yuca,Pasco,7,0.0852,0.1118,15
+Yuca,Pasco,8,0.0848,0.1176,15
+Yuca,Pasco,9,0.0908,0.112,15
+Yuca,Pasco,10,0.0905,0.1212,15
+Yuca,Pasco,11,0.0835,0.1109,15
+Yuca,Pasco,12,0.0898,0.1095,15
+Yuca,Piura,1,0.0675,0.1893,15
+Yuca,Piura,2,0.0562,0.1471,15
+Yuca,Piura,3,0.0417,0.0915,15
+Yuca,Piura,4,0.0587,0.1177,15
+Yuca,Piura,5,0.0718,0.161,15
+Yuca,Piura,6,0.0745,0.2318,15
+Yuca,Piura,7,0.0945,0.1681,15
+Yuca,Piura,8,0.0821,0.1564,15
+Yuca,Piura,9,0.0966,0.219,15
+Yuca,Piura,10,0.1373,0.2833,15
+Yuca,Piura,11,0.1091,0.2619,15
+Yuca,Piura,12,0.1099,0.289,15
+Yuca,Puno,1,0.0,0.0,15
+Yuca,Puno,2,0.0,0.0,15
+Yuca,Puno,3,0.001,0.0108,15
+Yuca,Puno,4,0.0733,0.1637,15
+Yuca,Puno,5,0.4075,0.5957,15
+Yuca,Puno,6,0.4205,0.6026,15
+Yuca,Puno,7,0.0829,0.5036,15
+Yuca,Puno,8,0.0103,0.1547,15
+Yuca,Puno,9,0.0044,0.0667,15
+Yuca,Puno,10,0.0,0.0,15
+Yuca,Puno,11,0.0,0.0,15
+Yuca,Puno,12,0.0,0.0,15
+Yuca,San Martin,1,0.0759,0.0838,15
+Yuca,San Martin,2,0.081,0.0983,15
+Yuca,San Martin,3,0.0837,0.1064,15
+Yuca,San Martin,4,0.0826,0.09,15
+Yuca,San Martin,5,0.0872,0.1123,15
+Yuca,San Martin,6,0.0823,0.0931,15
+Yuca,San Martin,7,0.0823,0.0936,15
+Yuca,San Martin,8,0.0825,0.094,15
+Yuca,San Martin,9,0.0848,0.0974,15
+Yuca,San Martin,10,0.0807,0.0949,15
+Yuca,San Martin,11,0.0938,0.1092,15
+Yuca,San Martin,12,0.0832,0.0966,15
+Yuca,Tumbes,1,0.0969,0.3187,15
+Yuca,Tumbes,2,0.06,0.1164,15
+Yuca,Tumbes,3,0.0365,0.0976,15
+Yuca,Tumbes,4,0.0221,0.0925,15
+Yuca,Tumbes,5,0.0559,0.1607,15
+Yuca,Tumbes,6,0.0771,0.1479,15
+Yuca,Tumbes,7,0.088,0.183,15
+Yuca,Tumbes,8,0.0768,0.1401,15
+Yuca,Tumbes,9,0.0905,0.155,15
+Yuca,Tumbes,10,0.1272,0.2777,15
+Yuca,Tumbes,11,0.1343,0.3014,15
+Yuca,Tumbes,12,0.1347,0.4205,15
+Yuca,Ucayali,1,0.0873,0.1849,15
+Yuca,Ucayali,2,0.0954,0.1575,15
+Yuca,Ucayali,3,0.0891,0.1197,15
+Yuca,Ucayali,4,0.0921,0.1344,15
+Yuca,Ucayali,5,0.0965,0.1807,15
+Yuca,Ucayali,6,0.1019,0.2101,15
+Yuca,Ucayali,7,0.0959,0.2012,15
+Yuca,Ucayali,8,0.0808,0.1158,15
+Yuca,Ucayali,9,0.0664,0.0913,15
+Yuca,Ucayali,10,0.0625,0.0949,15
+Yuca,Ucayali,11,0.0554,0.0906,15
+Yuca,Ucayali,12,0.0767,0.1353,15
