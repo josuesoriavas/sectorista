@@ -40,8 +40,8 @@ with st.sidebar:
     tecnico = st.text_input("Técnico", "Técnico de campo")
     st.divider()
     st.caption("Motores")
-    st.write(("🟢 Claude (salidas estructuradas)" if os.getenv("ANTHROPIC_API_KEY")
-              else "⚪ Claude sin clave: se usa el extractor por reglas"))
+    st.write(("🟢 Formulario: Claude (salidas estructuradas)" if os.getenv("ANTHROPIC_API_KEY")
+              else "🟢 Formulario: extractor por reglas (sin API key)"))
     st.write(f"🟢 Whisper `{os.getenv('WHISPER_MODELO', 'small')}` en CPU")
     st.caption("Los rangos de referencia son percentiles agregados por cultivo, departamento y mes. "
                "No contienen registros individuales.")

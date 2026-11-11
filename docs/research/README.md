@@ -1,30 +1,27 @@
-# Conversaciones con usuarios potenciales
+# Evidencia del problema
 
-Tres conversaciones cortas (15-20 minutos) con personas que recogen, consolidan o usan la estadística agraria. Las notas van en un archivo por conversación, con lo que la persona **dijo**, no con lo que yo esperaba oír.
+> **Transparencia:** antes de la entrega no logré hacer las 3 conversaciones con usuarios potenciales. No hay entrevistas inventadas en este repositorio. Aquí documento mi experiencia como usuario de estos datos y el plan de conversaciones para la siguiente etapa.
 
-> **Pendiente:** completar `conversacion_1.md`, `conversacion_2.md` y `conversacion_3.md` con notas reales. No inventar respuestas.
+## 1. Mi experiencia como usuario de la estadística agraria
 
-## A quién
+Trabajo con la estadística agraria mensual (producción, superficie cosechada, rendimiento y precio en chacra por cultivo y departamento) para estimar el impacto de El Niño en cultivos como limón, plátano y palta.
 
-1. **Quien recoge el dato:** un técnico o sectorista de una agencia agraria.
-2. **Quien lo consolida:** alguien que recibe y revisa los Excel de las agencias.
-3. **Quien lo usa:** un analista que trabaja con las series (estudios económicos, gobierno regional, investigador).
+- Según entiendo el flujo, los datos se recogen y se envían en **Excel**.
+- Los errores **no aparecen cuando se recoge el dato, sino cuando se hacen análisis exploratorios**, en el momento de usarlo. Para entonces ya no se puede volver a preguntar en campo.
+- Antes de estimar cualquier cosa hay que revisar y limpiar las series, y esa revisión se repite en cada análisis.
+- Los casos típicos son rendimientos que no pueden ser reales, cifras con la unidad equivocada y precios con el decimal corrido. Son justo los que el validador de Sectorista detiene en el momento de la captura.
 
-## Guía (basada en "How to Talk to Users" de YC)
+## 2. Plan de conversaciones (siguiente etapa)
 
-Preguntar por lo que la persona **hizo**, no por lo que haría. No mostrar el producto hasta el final.
+| Rol | Qué quiero aprender |
+|---|---|
+| Técnico de campo de una agencia agraria | Cómo arma el reporte, qué parte le toma más tiempo, si dictar le sería útil |
+| Quien consolida los Excel de las agencias | Qué errores recibe, cuánto tarda en corregirlos, cuántas versiones van y vienen |
+| Analista que usa las series | Cuánto tiempo dedica a limpiar antes de analizar, qué decisiones se toman con el dato |
 
-1. Cuéntame cómo fue la última vez que armaste (o recibiste) el reporte mensual. ¿Qué hiciste, paso a paso?
-2. ¿Cuál fue el último error que encontraste en los datos? ¿Cómo lo detectaste y cuánto tiempo después de que se reportó?
-3. ¿Qué hiciste para corregirlo? ¿Con quién hablaste? ¿Cuánto tiempo te tomó?
-4. ¿Qué pasa si el error no se detecta? ¿Dónde termina esa cifra?
-5. ¿Qué herramientas usas hoy para revisar (Excel, macros, revisiones a ojo)? ¿Qué te molesta de ellas?
-6. ¿Quién decide qué herramientas se compran o se usan en tu oficina?
-7. (Al final) Muestro el demo de 1 minuto: ¿qué te haría usarlo? ¿qué te haría no usarlo?
+Guía (basada en "How to Talk to Users" de YC): preguntar por lo que la persona **hizo**, no por lo que haría.
 
-## Qué buscar
-
-- Cuánto tiempo pasa entre el error y su detección.
-- Cuántas horas al mes se van en revisar y corregir.
-- Ejemplos concretos de errores (unidades, decimales, meses equivocados).
-- Quién tiene presupuesto y quién decide.
+1. ¿Cuál fue la última vez que encontraste un error en datos de producción, superficie o precios? ¿Qué error era?
+2. ¿Cómo lo detectaste y cuánto tiempo después de que se reportó?
+3. ¿Qué tuviste que hacer para corregirlo y cuánto tiempo te tomó?
+4. Si una herramienta marcara esos errores en el momento en que se recoge el dato, ¿la usarías? ¿Qué te haría no usarla?

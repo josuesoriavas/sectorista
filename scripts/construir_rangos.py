@@ -22,6 +22,7 @@ import pandas as pd
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from sectorista.catalogo import normalizar_cultivo  # noqa: E402
+from sectorista.validar import N_MIN_RENDIMIENTO_MENSUAL  # noqa: E402
 
 SALIDA = Path(__file__).resolve().parents[1] / "datos" / "referencia"
 N_MIN = 8  # mínimo de observaciones para publicar un rango por departamento
@@ -55,11 +56,8 @@ def percentiles(serie):
 
 
 def recorte_robusto(valores):
-    """Descarta valores absurdos con la mediana y la MAD en escala logarítmica.
-
-    La base histórica tiene registros imposibles (por ejemplo, rendimientos de
-    millones de kg/ha). Se descartan antes de calcular los rangos.
-    """
+    """Descarta valores atípicos con la mediana y la MAD en escala logarítmica,
+    antes de calcular los rangos."""
     log = np.log(valores)
     med = log.median()
     mad = (log - med).abs().median() * 1.4826
@@ -88,6 +86,10 @@ def construir(ruta):
     r = d[d["anio"].between(*ANIOS_RENDIMIENTO) & (d["COSECHA_HA"] > 0) & (d["PRODUCCION_TN"] > 0)].copy()
     r["rendimiento_kg_ha"] = r["PRODUCCION_TN"] * 1000 / r["COSECHA_HA"]
     rend = rangos_por_variable(r, "rendimiento_kg_ha", "rendimiento_kg_ha")
+    # Solo se publica el rendimiento mensual de los cultivos donde es confiable
+    # (muchas observaciones); para el resto el validador usa el anual.
+    confiables = rend[(rend.departamento == "Nacional") & (rend.n >= N_MIN_RENDIMIENTO_MENSUAL)].cultivo
+    rend = rend[rend.cultivo.isin(confiables)]
 
     # Rendimiento anual (kg/ha), de las filas Ene-Dic (COD_MES 13). Para los cultivos
     # permanentes el rendimiento mensual de la base no es confiable, así que el
@@ -135,11 +137,7 @@ def construir(ruta):
     }
     (SALIDA / "metadatos.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Diagnóstico de la base (solo se imprime; no se publica)
-    absurdos = len(r) - sum(len(recorte_robusto(g["rendimiento_kg_ha"])) for _, g in r.groupby("cultivo"))
     print(f"Rangos: {len(rangos)} filas | estacionalidad: {len(est)} filas")
-    print(f"Registros con rendimiento descartado por absurdo: {absurdos} de {len(r)} "
-          f"({absurdos / len(r):.1%})")
     return rangos, est
 
 
