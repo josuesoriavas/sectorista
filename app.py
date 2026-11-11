@@ -3,6 +3,7 @@
 import io
 import os
 import tempfile
+import threading
 from datetime import date
 from pathlib import Path
 
@@ -12,7 +13,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 try:  # en Streamlit Cloud la clave y la configuración van en Settings > Secrets
-    for clave in ["ANTHROPIC_API_KEY", "WHISPER_MODELO", "CLAUDE_MODELO"]:
+    for clave in ["ANTHROPIC_API_KEY", "WHISPER_MODELO", "CLAUDE_MODELO", "LIMITE_LLM_SESION", "LIMITE_LLM_DIARIO"]:
         if clave in st.secrets:
             os.environ[clave] = str(st.secrets[clave])
 except Exception:
@@ -25,6 +26,9 @@ from sectorista.validar import estado, validar  # noqa: E402
 RAIZ = Path(__file__).parent
 EJEMPLOS = RAIZ / "datos" / "ejemplos"
 COLOR = {"error": "🔴", "alerta": "🟠", "ok": "🟢"}
+# Topes del LLM en el demo público: cualquiera puede abrir la URL, así que se limita el gasto
+LIMITE_SESION = int(os.getenv("LIMITE_LLM_SESION", "15"))
+LIMITE_DIARIO = int(os.getenv("LIMITE_LLM_DIARIO", "150"))
 TEXTO_ESTADO = {"error": "No se puede consolidar", "alerta": "Confirmar con el productor", "ok": "Listo para consolidar"}
 
 st.set_page_config(page_title="Sectorista", page_icon="🌾", layout="wide")
@@ -40,11 +44,36 @@ with st.sidebar:
     tecnico = st.text_input("Técnico", "Técnico de campo")
     st.divider()
     st.caption("Motores")
-    st.write(("🟢 Formulario: Claude (salidas estructuradas)" if os.getenv("ANTHROPIC_API_KEY")
+    st.write(("🟢 Formulario: Claude (salidas estructuradas), con respaldo por reglas" if os.getenv("ANTHROPIC_API_KEY")
               else "🟢 Formulario: extractor por reglas (sin API key)"))
+    if os.getenv("ANTHROPIC_API_KEY"):
+        st.caption(f"Tope del demo público: {LIMITE_SESION} reportes con LLM por sesión y {LIMITE_DIARIO} al día.")
     st.write(f"🟢 Whisper `{os.getenv('WHISPER_MODELO', 'small')}` en CPU")
     st.caption("Los rangos de referencia son percentiles agregados por cultivo, departamento y mes. "
                "No contienen registros individuales.")
+
+
+@st.cache_resource
+def _uso_diario():
+    """Contador compartido por todas las sesiones del servidor."""
+    return {"fecha": None, "n": 0, "lock": threading.Lock()}
+
+
+def reservar_llm():
+    """Devuelve (se_puede_usar, motivo). Aplica el tope por sesión y el tope diario."""
+    if not os.getenv("ANTHROPIC_API_KEY"):
+        return False, "sin API key"
+    if st.session_state.get("llm_sesion", 0) >= LIMITE_SESION:
+        return False, f"se llegó al tope de {LIMITE_SESION} reportes con LLM por sesión"
+    uso = _uso_diario()
+    with uso["lock"]:
+        if uso["fecha"] != date.today():
+            uso["fecha"], uso["n"] = date.today(), 0
+        if uso["n"] >= LIMITE_DIARIO:
+            return False, "se llegó al tope diario de uso del LLM en el demo"
+        uso["n"] += 1
+    st.session_state["llm_sesion"] = st.session_state.get("llm_sesion", 0) + 1
+    return True, ""
 
 
 def mostrar_alertas(alertas):
@@ -111,8 +140,9 @@ with voz:
             if not texto:
                 st.warning("Graba un audio, elige un ejemplo o escribe el reporte.")
             else:
+                usar_llm, motivo = reservar_llm()
                 with st.spinner("Llenando el formulario…"):
-                    datos, info = extraer(texto)
+                    datos, info = extraer(texto, usar_claude=usar_llm, motivo=motivo)
                 st.session_state["actual"] = {"texto": texto, "datos": datos, "info": {**info_voz, **info}}
                 st.session_state["n_reporte"] = st.session_state.get("n_reporte", 0) + 1
 
@@ -121,9 +151,12 @@ with voz:
             st.markdown("**Transcripción**")
             st.info(act["texto"])
             motor = act["info"].get("motor")
-            st.caption(f"Formulario llenado por: {'Claude (' + act['info'].get('modelo', '') + ')' if motor == 'claude' else 'extractor por reglas'}"
-                       + (f" · {act['info']['tokens_entrada']} + {act['info']['tokens_salida']} tokens"
-                          if motor == "claude" else ""))
+            if motor == "claude":
+                st.caption(f"Formulario llenado por: Claude ({act['info'].get('modelo', '')}, salidas estructuradas)"
+                           f" · {act['info']['tokens_entrada']} + {act['info']['tokens_salida']} tokens")
+            else:
+                motivo = act["info"].get("motivo")
+                st.caption("Formulario llenado por: extractor por reglas" + (f" ({motivo})" if motivo else ""))
 
     with der:
         st.subheader("2. Revisa y valida")

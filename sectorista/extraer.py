@@ -17,6 +17,7 @@ from sectorista.catalogo import (CULTIVOS, DEPARTAMENTOS, MESES, normalizar_cult
 
 MODELO = os.getenv("CLAUDE_MODELO", "claude-opus-5-5")
 KG_POR_QUINTAL = 46  # quintal usado en el Perú
+MAX_CARACTERES = 1500  # un reporte dictado cabe de sobra; acota el costo de cada llamada
 
 SISTEMA = """Eres el asistente de un técnico de estadística agraria del Perú.
 Recibes la transcripción de un reporte dictado en campo y llenas el formulario.
@@ -76,7 +77,7 @@ def extraer_con_claude(texto):
         model=MODELO,
         max_tokens=2000,
         system=SISTEMA,
-        messages=[{"role": "user", "content": f"Transcripción del reporte:\n\n{texto}"}],
+        messages=[{"role": "user", "content": f"Transcripción del reporte:\n\n{texto[:MAX_CARACTERES]}"}],
         output_format=ReporteDictado,
         output_config={"effort": "low"},
         # Si el modelo declina por un filtro de seguridad, la API reintenta con otro modelo
@@ -145,12 +146,21 @@ def extraer_con_reglas(texto):
     return d
 
 
-def extraer(texto):
-    """Devuelve (formulario, info). info dice qué motor se usó y, si aplica, los tokens."""
-    if os.getenv("ANTHROPIC_API_KEY"):
+def extraer(texto, usar_claude=True, motivo=""):
+    """Devuelve (formulario, info). info dice qué motor se usó y, si aplica, los tokens.
+
+    usar_claude=False fuerza el extractor por reglas (por ejemplo, cuando se llegó al
+    tope de uso del demo público); motivo explica por qué.
+    """
+    if usar_claude and os.getenv("ANTHROPIC_API_KEY"):
         try:
             dictado, uso = extraer_con_claude(texto)
             return a_formulario(dictado), {"motor": "claude", "modelo": MODELO, **uso}
         except Exception as e:  # el demo no se cae: se usa el respaldo por reglas
-            return a_formulario(extraer_con_reglas(texto)), {"motor": "reglas", "error": str(e)[:200]}
-    return a_formulario(extraer_con_reglas(texto)), {"motor": "reglas", "error": "sin ANTHROPIC_API_KEY"}
+            # El detalle va al log del servidor, no a la pantalla pública
+            print(f"[extraer] falló la llamada a Claude: {type(e).__name__}: {str(e)[:300]}")
+            return a_formulario(extraer_con_reglas(texto)), {"motor": "reglas",
+                                                             "motivo": "falló la llamada al LLM"}
+    if not os.getenv("ANTHROPIC_API_KEY"):
+        motivo = "sin API key"
+    return a_formulario(extraer_con_reglas(texto)), {"motor": "reglas", "motivo": motivo}
