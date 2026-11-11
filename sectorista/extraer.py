@@ -123,7 +123,7 @@ def extraer_con_reglas(texto):
     # Precio dicho con palabras: "un sol con veinte", "dos soles con 10 céntimos"
     palabras = {"un": 1, "uno": 1, "dos": 2, "tres": 3, "cuatro": 4, "cinco": 5, "seis": 6, "siete": 7,
                 "ocho": 8, "nueve": 9, "diez": 10}
-    hablado = re.search(r"\b(\d+|un|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez)\s+soles?\s+con\s+(\d{1,2})\b", t)
+    hablado = re.search(r"\b(\d+|un|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez)\s+sol(?:es)?\s+con\s+(\d{1,2})\b", t)
     if hablado and not precio:
         entero = palabras.get(hablado.group(1)) or int(hablado.group(1))
         precio_hablado = entero + int(hablado.group(2)) / 100
