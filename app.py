@@ -11,9 +11,10 @@ import streamlit as st
 from dotenv import load_dotenv
 
 load_dotenv()
-try:  # en Streamlit Cloud la clave va en Settings > Secrets
-    if "ANTHROPIC_API_KEY" in st.secrets:
-        os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
+try:  # en Streamlit Cloud la clave y la configuración van en Settings > Secrets
+    for clave in ["ANTHROPIC_API_KEY", "WHISPER_MODELO", "CLAUDE_MODELO"]:
+        if clave in st.secrets:
+            os.environ[clave] = str(st.secrets[clave])
 except Exception:
     pass
 
